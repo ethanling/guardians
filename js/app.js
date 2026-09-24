@@ -367,18 +367,23 @@ function watchSections() {
   blocks.forEach((block) => reveal.observe(block));
 }
 
-function bindFieldScroll() {
-  const image = document.querySelector(".hero-media img");
+function bindHero() {
   const hero = document.querySelector(".hero");
-  if (!image || !hero) return;
-  if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
-  if (window.CSS && CSS.supports("animation-timeline", "view()")) return;
+  const image = document.querySelector(".hero-media img");
+  const veil = document.querySelector(".hero-veil");
+  if (!hero || !image || !veil) return;
+  const reduce = window.matchMedia("(prefers-reduced-motion: reduce)");
   const paint = () => {
-    const rect = hero.getBoundingClientRect();
-    const progress = Math.min(1, Math.max(0, -rect.top / Math.max(rect.height, 1)));
-    const scale = 1.18 - progress * 0.18;
-    const shift = -6 + progress * 20;
-    image.style.transform = `translate3d(0, ${shift}%, 0) scale(${scale})`;
+    if (reduce.matches) {
+      image.style.transform = "none";
+      veil.style.opacity = "0";
+      return;
+    }
+    const travel = Math.max(hero.offsetHeight - window.innerHeight, 1);
+    const progress = Math.min(1, Math.max(0, -hero.getBoundingClientRect().top / travel));
+    const fade = Math.max(0, (progress - 0.4) / 0.6);
+    image.style.transform = `scale(${(1.12 - progress * 0.12).toFixed(4)})`;
+    veil.style.opacity = String((fade * 0.84).toFixed(4));
   };
   let frame = 0;
   paint();
@@ -389,10 +394,11 @@ function bindFieldScroll() {
       paint();
     });
   }, { passive: true });
+  window.addEventListener("resize", paint);
 }
 
 async function init() {
-  bindFieldScroll();
+  bindHero();
   try {
     const response = await fetch("data/snapshot.json");
     if (!response.ok) throw new Error(`Snapshot request failed (${response.status})`);
