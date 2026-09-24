@@ -292,10 +292,16 @@ function render(data) {
     <div><dt>Wild card</dt><dd>${esc(playoff.wildCardFact)}</dd></div>
     <div><dt>Games left</dt><dd>${esc(playoff.gamesRemaining)}</dd></div>`;
   document.getElementById("race-tables").innerHTML = `
-    <h3 class="table-label">AL Central</h3>
-    ${standingsTable(playoff.division, { full: false })}
-    <h3 class="table-label">Wild card</h3>
-    ${wildCardTable(playoff.wildCard)}`;
+    <div class="race-boards">
+      <div>
+        <h3 class="table-label">AL Central</h3>
+        ${standingsTable(playoff.division, { full: false })}
+      </div>
+      <div>
+        <h3 class="table-label">Wild card</h3>
+        ${wildCardTable(playoff.wildCard)}
+      </div>
+    </div>`;
 
   document.getElementById("division-name").textContent = data.division.name;
   document.getElementById("division-table").innerHTML = standingsTable(playoff.division, { full: true });

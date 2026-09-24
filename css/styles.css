@@ -282,6 +282,17 @@ section { scroll-margin-top: 68px; }
 
 .table-label:first-child { margin-top: 0; }
 
+.race-boards {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 40px 48px;
+  align-items: start;
+}
+
+.race-boards .table-label { margin-top: 0; }
+
+.race-boards .compact { width: 100%; }
+
 .table-scroll { overflow-x: auto; }
 
 table {
@@ -678,7 +689,8 @@ footer a { color: var(--sand); }
   .features,
   .leaders,
   .series,
-  .lead { grid-template-columns: 1fr; }
+  .lead,
+  .race-boards { grid-template-columns: 1fr; }
   .leaders { grid-template-columns: 1fr 1fr; }
   .series { grid-template-columns: 1fr 1fr; }
   .facts div { padding-right: 0; }
