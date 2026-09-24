@@ -125,7 +125,7 @@ button:focus-visible {
   width: 100%;
   height: 100%;
   object-fit: cover;
-  object-position: center 46%;
+  object-position: center 40%;
   transform: scale(1.12);
   transform-origin: center 42%;
   will-change: transform;
@@ -672,7 +672,7 @@ footer a { color: var(--sand); }
   .nav-time { display: none; }
   .hero { height: 150svh; }
   .hero-copy { padding: 0 20px 8vh; }
-  .hero-media img { object-position: center 40%; }
+  .hero-media img { object-position: center 42%; }
   .wrap { padding: 80px 20px; }
   .facts,
   .features,
