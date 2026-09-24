@@ -28,7 +28,7 @@
       }
     ]
   },
-  "generatedAt": "2026-09-24T09:19:50Z",
+  "generatedAt": "2026-09-24T19:12:03Z",
   "headlines": [
     {
       "author": "Craig Forde",
@@ -785,7 +785,7 @@
       {
         "abbreviation": "BOS",
         "date": "2026-09-24",
-        "detail": "Scheduled",
+        "detail": "Pre-Game",
         "gameNumber": 1,
         "gameType": "R",
         "home": false,
@@ -812,7 +812,7 @@
         "home": false,
         "loser": "",
         "opponent": "Royals",
-        "opponentProbable": "",
+        "opponentProbable": "Noah Cameron",
         "probable": "",
         "result": null,
         "save": "",
@@ -833,7 +833,7 @@
         "home": false,
         "loser": "",
         "opponent": "Royals",
-        "opponentProbable": "",
+        "opponentProbable": "Michael Wacha",
         "probable": "",
         "result": null,
         "save": "",
@@ -854,7 +854,7 @@
         "home": false,
         "loser": "",
         "opponent": "Royals",
-        "opponentProbable": "",
+        "opponentProbable": "Daniel Lynch IV",
         "probable": "",
         "result": null,
         "save": "",
