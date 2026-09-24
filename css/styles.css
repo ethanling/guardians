@@ -216,6 +216,10 @@ section { scroll-margin-top: 68px; }
 
 .race-top .figure-label { order: -1; }
 
+#division-name {
+  margin-bottom: 40px;
+}
+
 #race-summary {
   max-width: 22em;
   margin-top: 28px;
