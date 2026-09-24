@@ -367,7 +367,32 @@ function watchSections() {
   blocks.forEach((block) => reveal.observe(block));
 }
 
+function bindFieldScroll() {
+  const image = document.querySelector(".hero-media img");
+  const hero = document.querySelector(".hero");
+  if (!image || !hero) return;
+  if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
+  if (window.CSS && CSS.supports("animation-timeline", "view()")) return;
+  const paint = () => {
+    const rect = hero.getBoundingClientRect();
+    const progress = Math.min(1, Math.max(0, -rect.top / Math.max(rect.height, 1)));
+    const scale = 1.18 - progress * 0.18;
+    const shift = -6 + progress * 20;
+    image.style.transform = `translate3d(0, ${shift}%, 0) scale(${scale})`;
+  };
+  let frame = 0;
+  paint();
+  window.addEventListener("scroll", () => {
+    if (frame) return;
+    frame = window.requestAnimationFrame(() => {
+      frame = 0;
+      paint();
+    });
+  }, { passive: true });
+}
+
 async function init() {
+  bindFieldScroll();
   try {
     const response = await fetch("data/snapshot.json");
     if (!response.ok) throw new Error(`Snapshot request failed (${response.status})`);
