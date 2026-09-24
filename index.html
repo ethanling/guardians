@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Cleveland Guardians standings, the playoff race, player leaders, schedule, and headlines.">
+  <meta name="theme-color" content="#081422">
+  <title>Guardians</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%23081422'/%3E%3Ctext x='16' y='22' text-anchor='middle' font-family='system-ui' font-size='16' font-weight='700' fill='%23F3EDE4'%3EC%3C/text%3E%3C/svg%3E">
+  <link rel="stylesheet" href="css/styles.css">
+  <script>document.documentElement.classList.add("js")</script>
+</head>
+<body>
+  <a class="skip" href="#race">Skip to the race</a>
+  <header class="nav">
+    <a class="wordmark" href="#top">Guardians</a>
+    <nav aria-label="Sections">
+      <a href="#race">Race</a>
+      <a href="#division">Division</a>
+      <a href="#players">Players</a>
+      <a href="#schedule">Schedule</a>
+      <a href="#news">News</a>
+    </nav>
+    <p class="nav-time"><time id="nav-time"></time></p>
+  </header>
+
+  <main id="top">
+    <section class="hero" aria-labelledby="hero-line">
+      <p class="watermark" aria-hidden="true">CLE</p>
+      <div class="hero-copy">
+        <p class="eyebrow" id="hero-kicker">American League Central</p>
+        <h1 id="hero-line">Guardians</h1>
+        <p class="lede" id="hero-meta"></p>
+        <div class="rule"></div>
+      </div>
+    </section>
+
+    <section id="race" class="band">
+      <div class="wrap reveal">
+        <p class="eyebrow">Race</p>
+        <div class="race-top">
+          <h2 id="race-summary"></h2>
+          <p class="figure" id="race-figure"></p>
+          <p class="figure-label" id="race-figure-label"></p>
+        </div>
+        <dl class="facts" id="race-facts"></dl>
+        <div id="race-tables"></div>
+      </div>
+    </section>
+
+    <section id="division">
+      <div class="wrap reveal">
+        <p class="eyebrow">Division</p>
+        <h2 id="division-name">American League Central</h2>
+        <div id="division-table"></div>
+        <h3 class="table-label" id="series-label">Season series</h3>
+        <div class="series" id="season-series"></div>
+      </div>
+    </section>
+
+    <section id="players" class="band">
+      <div class="wrap reveal">
+        <p class="eyebrow">Players</p>
+        <h2>Season leaders</h2>
+        <div id="player-features"></div>
+        <div class="leaders" id="leader-strip"></div>
+        <div id="player-lists"></div>
+      </div>
+    </section>
+
+    <section id="schedule">
+      <div class="wrap reveal">
+        <p class="eyebrow">Schedule</p>
+        <h2>The next games</h2>
+        <div id="schedule-body"></div>
+      </div>
+    </section>
+
+    <section id="news">
+      <div class="wrap reveal">
+        <p class="eyebrow">News</p>
+        <h2>Headlines</h2>
+        <div id="news-body"></div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="wrap">
+      <p id="footer-updated"></p>
+      <p>Scores, standings, and player statistics come from the public MLB Stats API. Headlines come from the Cleveland Guardians feed on MLB.com.</p>
+      <p>Not affiliated with the Cleveland Guardians or Major League Baseball.</p>
+      <p><a href="https://github.com/ethanling/guardians">Source</a></p>
+    </div>
+  </footer>
+  <script src="js/app.js"></script>
+</body>
+</html>
