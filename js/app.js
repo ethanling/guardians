@@ -400,7 +400,7 @@ function bindHero() {
 async function init() {
   bindHero();
   try {
-    const response = await fetch("data/snapshot.json");
+    const response = await fetch("data/snapshot.json", { cache: "no-store" });
     if (!response.ok) throw new Error(`Snapshot request failed (${response.status})`);
     render(await response.json());
     watchSections();
