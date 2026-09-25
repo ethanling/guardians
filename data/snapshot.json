@@ -28,8 +28,16 @@
       }
     ]
   },
-  "generatedAt": "2026-09-24T22:26:16Z",
+  "generatedAt": "2026-09-25T01:32:30Z",
   "headlines": [
+    {
+      "author": "Tim Stebbins",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/c6oi1rfp721rgaejqnoc",
+      "published": "Fri, 25 Sep 2026 01:19:06 GMT",
+      "source": "MLB.com",
+      "title": "Guardians clinch 3rd consecutive playoff berth with another late surge",
+      "url": "https://www.mlb.com/guardians/news/guardians-clinch-2026-playoff-berth"
+    },
     {
       "author": "Craig Forde",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bt5nuhlk5fuopkt1u6zm",
@@ -64,14 +72,6 @@
     },
     {
       "author": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dassrzusyltxhnirwb5n",
-      "published": "Tue, 22 Sep 2026 13:23:01 GMT",
-      "source": "MLB.com",
-      "title": "Messick, in stellar rookie season, leads Guards into crucial week",
-      "url": "https://www.mlb.com/guardians/news/parker-messick-key-to-guardians-postseason-push-in-rookie-season"
-    },
-    {
-      "author": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/private/t_16x9/t_w1024/mlb/maw5nsnvqcufuhis8s5z",
       "published": "Wed, 23 Sep 2026 21:40:00 GMT",
       "source": "MLB.com",
@@ -79,23 +79,23 @@
       "url": "https://www.mlb.com/guardians/news/guardians-injuries-and-roster-moves"
     }
   ],
-  "heroLine": "Magic number 4.",
+  "heroLine": "First in the Central.",
   "players": {
     "featured": {
       "hitter": {
-        "avg": ".290",
-        "games": 130,
+        "avg": ".287",
+        "games": 131,
         "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_256,q_auto:best/v1/people/800050/headshot/67/current",
         "hr": 15,
         "id": 800050,
         "name": "Chase DeLauter",
-        "obp": ".364",
-        "ops": ".819",
-        "pa": 544,
+        "obp": ".361",
+        "ops": ".813",
+        "pa": 548,
         "position": "RF",
         "rbi": 65,
         "sb": 11,
-        "slg": ".455"
+        "slg": ".452"
       },
       "pitcher": {
         "bb": 48,
@@ -117,79 +117,79 @@
     },
     "hitters": [
       {
-        "avg": ".290",
-        "games": 130,
+        "avg": ".287",
+        "games": 131,
         "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_256,q_auto:best/v1/people/800050/headshot/67/current",
         "hr": 15,
         "id": 800050,
         "name": "Chase DeLauter",
-        "obp": ".364",
-        "ops": ".819",
-        "pa": 544,
+        "obp": ".361",
+        "ops": ".813",
+        "pa": 548,
         "position": "RF",
         "rbi": 65,
         "sb": 11,
-        "slg": ".455"
+        "slg": ".452"
       },
       {
         "avg": ".258",
-        "games": 110,
+        "games": 111,
         "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_256,q_auto:best/v1/people/682657/headshot/67/current",
-        "hr": 17,
+        "hr": 18,
         "id": 682657,
         "name": "Angel Mart\u00ednez",
         "obp": ".293",
-        "ops": ".761",
-        "pa": 398,
+        "ops": ".766",
+        "pa": 402,
         "position": "LF",
-        "rbi": 57,
+        "rbi": 58,
         "sb": 11,
-        "slg": ".468"
+        "slg": ".473"
       },
       {
-        "avg": ".245",
-        "games": 120,
+        "avg": ".243",
+        "games": 121,
         "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_256,q_auto:best/v1/people/683953/headshot/67/current",
         "hr": 15,
         "id": 683953,
         "name": "Travis Bazzana",
-        "obp": ".337",
-        "ops": ".741",
-        "pa": 501,
+        "obp": ".335",
+        "ops": ".736",
+        "pa": 504,
         "position": "2B",
         "rbi": 57,
         "sb": 19,
-        "slg": ".404"
+        "slg": ".401"
       },
       {
-        "avg": ".282",
-        "games": 148,
+        "avg": ".280",
+        "games": 149,
         "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_256,q_auto:best/v1/people/680757/headshot/67/current",
         "hr": 3,
         "id": 680757,
         "name": "Steven Kwan",
-        "obp": ".379",
-        "ops": ".725",
-        "pa": 622,
+        "obp": ".378",
+        "ops": ".722",
+        "pa": 626,
         "position": "LF",
         "rbi": 31,
         "sb": 10,
-        "slg": ".346"
+        "slg": ".344"
       },
       {
-        "avg": ".242",
-        "games": 44,
+        "avg": ".237",
+        "games": 45,
         "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_256,q_auto:best/v1/people/666176/headshot/67/current",
         "hr": 6,
         "id": 666176,
         "name": "Jo Adell",
-        "obp": ".317",
-        "ops": ".723",
-        "pa": 186,
+        "obp": ".311",
+        "ops": ".707",
+        "pa": 190,
         "position": "RF",
         "rbi": 31,
         "sb": 1,
-        "slg": ".406"
+        "slg": ".396"
       }
     ],
     "leaders": {
@@ -198,7 +198,7 @@
         "id": 800050,
         "name": "Chase DeLauter",
         "position": "RF",
-        "value": ".290"
+        "value": ".287"
       },
       "era": {
         "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_256,q_auto:best/v1/people/800048/headshot/67/current",
@@ -212,14 +212,14 @@
         "id": 682657,
         "name": "Angel Mart\u00ednez",
         "position": "LF",
-        "value": 17
+        "value": 18
       },
       "ops": {
         "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_256,q_auto:best/v1/people/800050/headshot/67/current",
         "id": 800050,
         "name": "Chase DeLauter",
         "position": "RF",
-        "value": ".819"
+        "value": ".813"
       },
       "rbi": {
         "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_256,q_auto:best/v1/people/677587/headshot/67/current",
@@ -233,14 +233,14 @@
         "id": 671922,
         "name": "Cade Smith",
         "position": "RP",
-        "value": 40
+        "value": 41
       },
       "sb": {
         "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_256,q_auto:best/v1/people/608070/headshot/67/current",
         "id": 608070,
         "name": "Jos\u00e9 Ram\u00edrez",
         "position": "3B",
-        "value": 36
+        "value": 37
       },
       "so": {
         "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_256,q_auto:best/v1/people/668909/headshot/67/current",
@@ -260,35 +260,35 @@
     "relievers": [
       {
         "bb": 23,
-        "era": "1.99",
-        "games": 67,
+        "era": "1.96",
+        "games": 68,
         "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_256,q_auto:best/v1/people/671922/headshot/67/current",
         "id": 671922,
-        "ip": "72.1",
+        "ip": "73.1",
         "l": 1,
         "name": "Cade Smith",
         "role": "RP",
-        "so": 104,
+        "so": 107,
         "starts": 0,
-        "sv": 40,
+        "sv": 41,
         "w": 6,
-        "whip": "0.98"
+        "whip": "0.97"
       },
       {
-        "bb": 30,
-        "era": "2.72",
-        "games": 58,
+        "bb": 31,
+        "era": "2.66",
+        "games": 59,
         "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_256,q_auto:best/v1/people/681870/headshot/67/current",
         "id": 681870,
-        "ip": "46.1",
+        "ip": "47.1",
         "l": 2,
         "name": "Erik Sabrowski",
         "role": "RP",
-        "so": 73,
+        "so": 75,
         "starts": 0,
         "sv": 1,
         "w": 5,
-        "whip": "1.19"
+        "whip": "1.18"
       },
       {
         "bb": 20,
@@ -307,20 +307,20 @@
         "whip": "1.04"
       },
       {
-        "bb": 21,
-        "era": "2.78",
-        "games": 66,
+        "bb": 22,
+        "era": "2.73",
+        "games": 67,
         "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_256,q_auto:best/v1/people/683769/headshot/67/current",
         "id": 683769,
-        "ip": "58.1",
+        "ip": "59.1",
         "l": 3,
         "name": "Hunter Gaddis",
         "role": "RP",
-        "so": 56,
+        "so": 57,
         "starts": 0,
         "sv": 1,
         "w": 5,
-        "whip": "1.23"
+        "whip": "1.25"
       },
       {
         "bb": 20,
@@ -357,6 +357,22 @@
         "whip": "1.04"
       },
       {
+        "bb": 81,
+        "era": "3.62",
+        "games": 33,
+        "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_256,q_auto:best/v1/people/676282/headshot/67/current",
+        "id": 676282,
+        "ip": "159.0",
+        "l": 9,
+        "name": "Joey Cantillo",
+        "role": "SP",
+        "so": 171,
+        "starts": 30,
+        "sv": 0,
+        "w": 11,
+        "whip": "1.42"
+      },
+      {
         "bb": 57,
         "era": "3.63",
         "games": 31,
@@ -371,22 +387,6 @@
         "sv": 0,
         "w": 14,
         "whip": "1.08"
-      },
-      {
-        "bb": 79,
-        "era": "3.74",
-        "games": 32,
-        "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_256,q_auto:best/v1/people/676282/headshot/67/current",
-        "id": 676282,
-        "ip": "154.0",
-        "l": 9,
-        "name": "Joey Cantillo",
-        "role": "SP",
-        "so": 167,
-        "starts": 30,
-        "sv": 0,
-        "w": 10,
-        "whip": "1.44"
       },
       {
         "bb": 54,
@@ -426,27 +426,27 @@
     "division": [
       {
         "abbreviation": "CLE",
-        "clinched": false,
+        "clinched": true,
         "club": "Guardians",
         "gamesBack": "\u2014",
         "home": "41\u201340",
         "isGuardians": true,
-        "lastTen": "7\u20133",
+        "lastTen": "8\u20132",
         "losses": 76,
-        "pct": ".519",
+        "pct": ".522",
         "rank": 1,
-        "road": "41\u201336",
-        "runDifferential": 2,
+        "road": "42\u201336",
+        "runDifferential": 3,
         "runsAllowed": 650,
-        "runsScored": 652,
-        "streak": "L1",
-        "wins": 82
+        "runsScored": 653,
+        "streak": "W1",
+        "wins": 83
       },
       {
         "abbreviation": "CWS",
         "clinched": true,
         "club": "White Sox",
-        "gamesBack": "0.5",
+        "gamesBack": "1",
         "home": "46\u201332",
         "isGuardians": false,
         "lastTen": "6\u20134",
@@ -464,7 +464,7 @@
         "abbreviation": "MIN",
         "clinched": false,
         "club": "Twins",
-        "gamesBack": "7.5",
+        "gamesBack": "8",
         "home": "40\u201338",
         "isGuardians": false,
         "lastTen": "5\u20135",
@@ -482,7 +482,7 @@
         "abbreviation": "DET",
         "clinched": false,
         "club": "Tigers",
-        "gamesBack": "8.5",
+        "gamesBack": "9",
         "home": "40\u201338",
         "isGuardians": false,
         "lastTen": "4\u20136",
@@ -500,7 +500,7 @@
         "abbreviation": "KC",
         "clinched": false,
         "club": "Royals",
-        "gamesBack": "14.5",
+        "gamesBack": "15",
         "home": "40\u201338",
         "isGuardians": false,
         "lastTen": "2\u20138",
@@ -515,12 +515,12 @@
         "wins": 68
       }
     ],
-    "divisionFact": "Up a half-game on the White Sox",
-    "figure": "4",
-    "figureLabel": "Magic number",
-    "gamesRemaining": 4,
-    "headline": "Magic number 4.",
-    "summary": "The Guardians lead the AL Central by a half-game over the White Sox.",
+    "divisionFact": "Up 1 game on the White Sox",
+    "figure": "1st",
+    "figureLabel": "AL Central",
+    "gamesRemaining": 3,
+    "headline": "First in the Central.",
+    "summary": "The Guardians lead the AL Central by 1 game over the White Sox.",
     "wildCard": [
       {
         "abbreviation": "NYY",
@@ -538,9 +538,9 @@
         "clinched": true,
         "club": "Red Sox",
         "elimination": "\u2014",
-        "gamesBack": "+3.5",
+        "gamesBack": "+3",
         "isGuardians": false,
-        "losses": 73,
+        "losses": 74,
         "rank": 2,
         "wins": 85
       },
@@ -567,29 +567,50 @@
         "wins": 78
       }
     ],
-    "wildCardFact": "Ahead of the wild card"
+    "wildCardFact": "Wild card clinched"
   },
   "record": {
-    "clinched": false,
+    "clinched": true,
     "divisionChamp": false,
     "divisionRank": 1,
     "eliminationNumber": "\u2014",
     "gamesBack": "\u2014",
     "home": "41\u201340",
-    "lastTen": "7\u20133",
+    "lastTen": "8\u20132",
     "losses": 76,
-    "magicNumber": "4",
-    "pct": ".519",
-    "road": "41\u201336",
-    "runDifferential": 2,
+    "magicNumber": null,
+    "pct": ".522",
+    "road": "42\u201336",
+    "runDifferential": 3,
     "runsAllowed": 650,
-    "runsScored": 652,
-    "streak": "L1",
+    "runsScored": 653,
+    "streak": "W1",
     "wildCardEliminationNumber": "\u2014",
-    "wins": 82
+    "wins": 83
   },
   "schedule": {
     "recent": [
+      {
+        "abbreviation": "BOS",
+        "date": "2026-09-24",
+        "detail": "Final",
+        "gameNumber": 1,
+        "gameType": "R",
+        "home": false,
+        "loser": "Ranger Suarez",
+        "opponent": "Red Sox",
+        "opponentProbable": "Ranger Suarez",
+        "probable": "Daniel Espino",
+        "result": "W",
+        "save": "Cade Smith",
+        "score": "1\u20130",
+        "series": "",
+        "startTime": "2026-09-24T22:45:00Z",
+        "startTimeTBD": false,
+        "status": "Final",
+        "venue": "Fenway Park",
+        "winner": "Joey Cantillo"
+      },
       {
         "abbreviation": "BOS",
         "date": "2026-09-23",
@@ -736,51 +757,9 @@
         "status": "Final",
         "venue": "Progressive Field",
         "winner": "Cade Smith"
-      },
-      {
-        "abbreviation": "CWS",
-        "date": "2026-09-14",
-        "detail": "Final",
-        "gameNumber": 1,
-        "gameType": "R",
-        "home": true,
-        "loser": "Gavin Williams",
-        "opponent": "White Sox",
-        "opponentProbable": "Sean Newcomb",
-        "probable": "Gavin Williams",
-        "result": "L",
-        "save": "",
-        "score": "3\u20137",
-        "series": "",
-        "startTime": "2026-09-14T22:40:00Z",
-        "startTimeTBD": false,
-        "status": "Final",
-        "venue": "Progressive Field",
-        "winner": "Sean Burke"
       }
     ],
     "upcoming": [
-      {
-        "abbreviation": "BOS",
-        "date": "2026-09-24",
-        "detail": "Warmup",
-        "gameNumber": 1,
-        "gameType": "R",
-        "home": false,
-        "loser": "",
-        "opponent": "Red Sox",
-        "opponentProbable": "Ranger Suarez",
-        "probable": "Daniel Espino",
-        "result": null,
-        "save": "",
-        "score": "0\u20130",
-        "series": "",
-        "startTime": "2026-09-24T22:45:00Z",
-        "startTimeTBD": false,
-        "status": "Live",
-        "venue": "Fenway Park",
-        "winner": ""
-      },
       {
         "abbreviation": "KC",
         "date": "2026-09-25",
