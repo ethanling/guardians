@@ -28,7 +28,7 @@
       }
     ]
   },
-  "generatedAt": "2026-09-25T22:22:50Z",
+  "generatedAt": "2026-09-26T01:35:57Z",
   "headlines": [
     {
       "author": "Tim Stebbins  Craig Forde",
@@ -73,7 +73,7 @@
     {
       "author": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/private/t_16x9/t_w1024/mlb/maw5nsnvqcufuhis8s5z",
-      "published": "Wed, 23 Sep 2026 21:40:00 GMT",
+      "published": "Fri, 25 Sep 2026 22:51:00 GMT",
       "source": "MLB.com",
       "title": "Latest Guardians injuries and transactions",
       "url": "https://www.mlb.com/guardians/news/guardians-injuries-and-roster-moves"
@@ -83,19 +83,19 @@
   "players": {
     "featured": {
       "hitter": {
-        "avg": ".287",
-        "games": 131,
+        "avg": ".288",
+        "games": 132,
         "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_256,q_auto:best/v1/people/800050/headshot/67/current",
         "hr": 15,
         "id": 800050,
         "name": "Chase DeLauter",
         "obp": ".361",
-        "ops": ".813",
-        "pa": 548,
+        "ops": ".814",
+        "pa": 551,
         "position": "RF",
         "rbi": 65,
         "sb": 11,
-        "slg": ".452"
+        "slg": ".453"
       },
       "pitcher": {
         "bb": 48,
@@ -117,79 +117,79 @@
     },
     "hitters": [
       {
-        "avg": ".287",
-        "games": 131,
+        "avg": ".288",
+        "games": 132,
         "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_256,q_auto:best/v1/people/800050/headshot/67/current",
         "hr": 15,
         "id": 800050,
         "name": "Chase DeLauter",
         "obp": ".361",
-        "ops": ".813",
-        "pa": 548,
+        "ops": ".814",
+        "pa": 551,
         "position": "RF",
         "rbi": 65,
         "sb": 11,
-        "slg": ".452"
+        "slg": ".453"
       },
       {
-        "avg": ".258",
-        "games": 111,
+        "avg": ".260",
+        "games": 112,
         "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_256,q_auto:best/v1/people/682657/headshot/67/current",
         "hr": 18,
         "id": 682657,
         "name": "Angel Mart\u00ednez",
-        "obp": ".293",
-        "ops": ".766",
-        "pa": 402,
+        "obp": ".296",
+        "ops": ".771",
+        "pa": 404,
         "position": "LF",
-        "rbi": 58,
+        "rbi": 60,
         "sb": 11,
-        "slg": ".473"
+        "slg": ".475"
       },
       {
-        "avg": ".243",
-        "games": 121,
+        "avg": ".242",
+        "games": 122,
         "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_256,q_auto:best/v1/people/683953/headshot/67/current",
         "hr": 15,
         "id": 683953,
         "name": "Travis Bazzana",
-        "obp": ".335",
-        "ops": ".736",
-        "pa": 504,
+        "obp": ".334",
+        "ops": ".734",
+        "pa": 506,
         "position": "2B",
         "rbi": 57,
         "sb": 19,
-        "slg": ".401"
+        "slg": ".400"
       },
       {
         "avg": ".280",
-        "games": 149,
+        "games": 150,
         "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_256,q_auto:best/v1/people/680757/headshot/67/current",
         "hr": 3,
         "id": 680757,
         "name": "Steven Kwan",
-        "obp": ".378",
+        "obp": ".379",
         "ops": ".722",
-        "pa": 626,
+        "pa": 629,
         "position": "LF",
         "rbi": 31,
         "sb": 10,
-        "slg": ".344"
+        "slg": ".343"
       },
       {
-        "avg": ".237",
-        "games": 45,
-        "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_256,q_auto:best/v1/people/666176/headshot/67/current",
+        "avg": ".251",
+        "games": 81,
+        "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_256,q_auto:best/v1/people/595978/headshot/67/current",
         "hr": 6,
-        "id": 666176,
-        "name": "Jo Adell",
-        "obp": ".311",
-        "ops": ".707",
-        "pa": 190,
-        "position": "RF",
-        "rbi": 31,
+        "id": 595978,
+        "name": "Austin Hedges",
+        "obp": ".331",
+        "ops": ".715",
+        "pa": 243,
+        "position": "C",
+        "rbi": 25,
         "sb": 1,
-        "slg": ".396"
+        "slg": ".384"
       }
     ],
     "leaders": {
@@ -198,7 +198,7 @@
         "id": 800050,
         "name": "Chase DeLauter",
         "position": "RF",
-        "value": ".287"
+        "value": ".288"
       },
       "era": {
         "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_256,q_auto:best/v1/people/800048/headshot/67/current",
@@ -219,7 +219,7 @@
         "id": 800050,
         "name": "Chase DeLauter",
         "position": "RF",
-        "value": ".813"
+        "value": ".814"
       },
       "rbi": {
         "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_256,q_auto:best/v1/people/677587/headshot/67/current",
@@ -247,7 +247,7 @@
         "id": 668909,
         "name": "Gavin Williams",
         "position": "SP",
-        "value": 244
+        "value": 248
       },
       "wins": {
         "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_256,q_auto:best/v1/people/668909/headshot/67/current",
@@ -373,20 +373,20 @@
         "whip": "1.42"
       },
       {
-        "bb": 57,
-        "era": "3.63",
-        "games": 31,
+        "bb": 60,
+        "era": "3.72",
+        "games": 32,
         "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_256,q_auto:best/v1/people/668909/headshot/67/current",
         "id": 668909,
-        "ip": "181.0",
+        "ip": "184.0",
         "l": 8,
         "name": "Gavin Williams",
         "role": "SP",
-        "so": 244,
-        "starts": 31,
+        "so": 248,
+        "starts": 32,
         "sv": 0,
         "w": 14,
-        "whip": "1.08"
+        "whip": "1.11"
       },
       {
         "bb": 54,
@@ -527,9 +527,9 @@
         "clinched": true,
         "club": "Yankees",
         "elimination": "\u2014",
-        "gamesBack": "+10",
+        "gamesBack": "+9.5",
         "isGuardians": false,
-        "losses": 67,
+        "losses": 68,
         "rank": 1,
         "wins": 92
       },
@@ -538,11 +538,11 @@
         "clinched": true,
         "club": "Red Sox",
         "elimination": "\u2014",
-        "gamesBack": "+3.5",
+        "gamesBack": "+4",
         "isGuardians": false,
         "losses": 74,
         "rank": 2,
-        "wins": 86
+        "wins": 87
       },
       {
         "abbreviation": "CWS",
@@ -763,7 +763,7 @@
       {
         "abbreviation": "KC",
         "date": "2026-09-25",
-        "detail": "Pre-Game",
+        "detail": "In Progress",
         "gameNumber": 1,
         "gameType": "R",
         "home": false,
@@ -773,11 +773,11 @@
         "probable": "Gavin Williams",
         "result": null,
         "save": "",
-        "score": "0\u20130",
+        "score": "4\u20133",
         "series": "",
         "startTime": "2026-09-25T23:40:00Z",
         "startTimeTBD": false,
-        "status": "Preview",
+        "status": "Live",
         "venue": "Kauffman Stadium",
         "winner": ""
       },
