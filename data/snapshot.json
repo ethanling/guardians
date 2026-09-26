@@ -28,7 +28,7 @@
       }
     ]
   },
-  "generatedAt": "2026-09-26T19:52:56Z",
+  "generatedAt": "2026-09-26T22:53:14Z",
   "headlines": [
     {
       "author": "Tim Stebbins",
@@ -482,19 +482,19 @@
         "abbreviation": "DET",
         "clinched": false,
         "club": "Tigers",
-        "gamesBack": "9",
-        "home": "41\u201338",
+        "gamesBack": "8.5",
+        "home": "42\u201338",
         "isGuardians": false,
         "lastTen": "4\u20136",
         "losses": 85,
-        "pct": ".469",
+        "pct": ".472",
         "rank": 4,
         "road": "34\u201347",
-        "runDifferential": 72,
-        "runsAllowed": 645,
-        "runsScored": 717,
-        "streak": "W1",
-        "wins": 75
+        "runDifferential": 73,
+        "runsAllowed": 648,
+        "runsScored": 721,
+        "streak": "W2",
+        "wins": 76
       },
       {
         "abbreviation": "KC",
@@ -763,7 +763,7 @@
       {
         "abbreviation": "KC",
         "date": "2026-09-26",
-        "detail": "Pre-Game",
+        "detail": "Warmup",
         "gameNumber": 1,
         "gameType": "R",
         "home": false,
@@ -777,7 +777,7 @@
         "series": "",
         "startTime": "2026-09-26T23:10:00Z",
         "startTimeTBD": false,
-        "status": "Preview",
+        "status": "Live",
         "venue": "Kauffman Stadium",
         "winner": ""
       },
