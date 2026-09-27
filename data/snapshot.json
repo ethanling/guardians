@@ -28,8 +28,16 @@
       }
     ]
   },
-  "generatedAt": "2026-09-26T22:53:14Z",
+  "generatedAt": "2026-09-27T01:29:16Z",
   "headlines": [
+    {
+      "author": "Tim Stebbins",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/s7vkyioyrcenszqo3uum",
+      "published": "Sat, 26 Sep 2026 23:32:37 GMT",
+      "source": "MLB.com",
+      "title": "Espino looking to become key piece in Guardians' postseason bullpen",
+      "url": "https://www.mlb.com/guardians/news/daniel-espino-helping-to-bolster-guardians-bullpen"
+    },
     {
       "author": "Tim Stebbins",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xzxeiz18b5hdpzrobp0a",
@@ -63,14 +71,6 @@
       "url": "https://www.mlb.com/guardians/news/foster-griffin-guardians-lose-to-red-sox"
     },
     {
-      "author": "Andrew Simon",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tsjif6bmnfwrocc6hfsz",
-      "published": "Sat, 26 Sep 2026 04:41:00 GMT",
-      "source": "MLB.com",
-      "title": "The remaining AL clinch scenarios, explained",
-      "url": "https://www.mlb.com/guardians/news/al-playoff-picture-in-final-week-2026-season"
-    },
-    {
       "author": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/private/t_16x9/t_w1024/mlb/maw5nsnvqcufuhis8s5z",
       "published": "Fri, 25 Sep 2026 22:51:00 GMT",
@@ -84,18 +84,18 @@
     "featured": {
       "hitter": {
         "avg": ".287",
-        "games": 132,
+        "games": 133,
         "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_256,q_auto:best/v1/people/800050/headshot/67/current",
-        "hr": 15,
+        "hr": 16,
         "id": 800050,
         "name": "Chase DeLauter",
-        "obp": ".363",
-        "ops": ".815",
-        "pa": 554,
+        "obp": ".362",
+        "ops": ".819",
+        "pa": 558,
         "position": "RF",
-        "rbi": 66,
+        "rbi": 67,
         "sb": 11,
-        "slg": ".452"
+        "slg": ".457"
       },
       "pitcher": {
         "bb": 48,
@@ -118,78 +118,78 @@
     "hitters": [
       {
         "avg": ".287",
-        "games": 132,
+        "games": 133,
         "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_256,q_auto:best/v1/people/800050/headshot/67/current",
-        "hr": 15,
+        "hr": 16,
         "id": 800050,
         "name": "Chase DeLauter",
-        "obp": ".363",
-        "ops": ".815",
-        "pa": 554,
+        "obp": ".362",
+        "ops": ".819",
+        "pa": 558,
         "position": "RF",
-        "rbi": 66,
+        "rbi": 67,
         "sb": 11,
-        "slg": ".452"
+        "slg": ".457"
       },
       {
-        "avg": ".260",
-        "games": 112,
+        "avg": ".257",
+        "games": 113,
         "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_256,q_auto:best/v1/people/682657/headshot/67/current",
         "hr": 18,
         "id": 682657,
         "name": "Angel Mart\u00ednez",
-        "obp": ".296",
-        "ops": ".771",
-        "pa": 408,
+        "obp": ".293",
+        "ops": ".763",
+        "pa": 412,
         "position": "LF",
         "rbi": 62,
         "sb": 11,
-        "slg": ".475"
+        "slg": ".470"
       },
       {
-        "avg": ".243",
-        "games": 122,
+        "avg": ".247",
+        "games": 123,
         "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_256,q_auto:best/v1/people/683953/headshot/67/current",
         "hr": 15,
         "id": 683953,
         "name": "Travis Bazzana",
-        "obp": ".334",
-        "ops": ".735",
-        "pa": 509,
+        "obp": ".337",
+        "ops": ".748",
+        "pa": 513,
         "position": "2B",
         "rbi": 57,
         "sb": 19,
-        "slg": ".401"
+        "slg": ".411"
       },
       {
-        "avg": ".279",
-        "games": 150,
+        "avg": ".281",
+        "games": 151,
         "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_256,q_auto:best/v1/people/680757/headshot/67/current",
         "hr": 3,
         "id": 680757,
         "name": "Steven Kwan",
-        "obp": ".379",
-        "ops": ".721",
-        "pa": 632,
+        "obp": ".381",
+        "ops": ".729",
+        "pa": 636,
         "position": "LF",
-        "rbi": 31,
+        "rbi": 32,
         "sb": 10,
-        "slg": ".342"
+        "slg": ".348"
       },
       {
-        "avg": ".238",
-        "games": 46,
+        "avg": ".239",
+        "games": 47,
         "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_256,q_auto:best/v1/people/666176/headshot/67/current",
         "hr": 6,
         "id": 666176,
         "name": "Jo Adell",
-        "obp": ".318",
-        "ops": ".719",
-        "pa": 195,
+        "obp": ".317",
+        "ops": ".715",
+        "pa": 199,
         "position": "RF",
         "rbi": 31,
         "sb": 1,
-        "slg": ".401"
+        "slg": ".398"
       }
     ],
     "leaders": {
@@ -219,14 +219,14 @@
         "id": 800050,
         "name": "Chase DeLauter",
         "position": "RF",
-        "value": ".815"
+        "value": ".819"
       },
       "rbi": {
         "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_256,q_auto:best/v1/people/677587/headshot/67/current",
         "id": 677587,
         "name": "Brayan Rocchio",
         "position": "SS",
-        "value": 71
+        "value": 73
       },
       "saves": {
         "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_256,q_auto:best/v1/people/671922/headshot/67/current",
@@ -260,11 +260,11 @@
     "relievers": [
       {
         "bb": 23,
-        "era": "1.96",
-        "games": 68,
+        "era": "1.95",
+        "games": 69,
         "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_256,q_auto:best/v1/people/671922/headshot/67/current",
         "id": 671922,
-        "ip": "73.1",
+        "ip": "74.0",
         "l": 1,
         "name": "Cade Smith",
         "role": "RP",
@@ -272,7 +272,7 @@
         "starts": 0,
         "sv": 41,
         "w": 6,
-        "whip": "0.97"
+        "whip": "0.96"
       },
       {
         "bb": 31,
@@ -389,17 +389,17 @@
         "whip": "1.11"
       },
       {
-        "bb": 54,
-        "era": "4.35",
-        "games": 32,
+        "bb": 55,
+        "era": "4.36",
+        "games": 33,
         "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_256,q_auto:best/v1/people/676440/headshot/67/current",
         "id": 676440,
-        "ip": "182.0",
+        "ip": "188.0",
         "l": 15,
         "name": "Tanner Bibee",
         "role": "SP",
-        "so": 142,
-        "starts": 32,
+        "so": 148,
+        "starts": 33,
         "sv": 0,
         "w": 6,
         "whip": "1.22"
@@ -464,18 +464,18 @@
         "abbreviation": "MIN",
         "clinched": false,
         "club": "Twins",
-        "gamesBack": "8",
-        "home": "41\u201338",
+        "gamesBack": "8.5",
+        "home": "41\u201339",
         "isGuardians": false,
         "lastTen": "6\u20134",
-        "losses": 84,
-        "pct": ".475",
+        "losses": 85,
+        "pct": ".472",
         "rank": 3,
         "road": "35\u201346",
-        "runDifferential": -56,
-        "runsAllowed": 787,
-        "runsScored": 731,
-        "streak": "W3",
+        "runDifferential": -60,
+        "runsAllowed": 793,
+        "runsScored": 733,
+        "streak": "L1",
         "wins": 76
       },
       {
@@ -556,9 +556,9 @@
         "wins": 83
       },
       {
-        "abbreviation": "TEX",
+        "abbreviation": "HOU",
         "clinched": false,
-        "club": "Rangers",
+        "club": "Astros",
         "elimination": "E",
         "gamesBack": "4",
         "isGuardians": false,
@@ -763,7 +763,7 @@
       {
         "abbreviation": "KC",
         "date": "2026-09-26",
-        "detail": "Warmup",
+        "detail": "In Progress",
         "gameNumber": 1,
         "gameType": "R",
         "home": false,
@@ -773,7 +773,7 @@
         "probable": "Tanner Bibee",
         "result": null,
         "save": "",
-        "score": "0\u20130",
+        "score": "9\u20135",
         "series": "",
         "startTime": "2026-09-26T23:10:00Z",
         "startTimeTBD": false,
