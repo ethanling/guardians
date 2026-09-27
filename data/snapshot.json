@@ -28,7 +28,7 @@
       }
     ]
   },
-  "generatedAt": "2026-09-27T08:13:12Z",
+  "generatedAt": "2026-09-27T18:26:05Z",
   "headlines": [
     {
       "author": "Tim Stebbins",
@@ -73,7 +73,7 @@
     {
       "author": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/private/t_16x9/t_w1024/mlb/maw5nsnvqcufuhis8s5z",
-      "published": "Fri, 25 Sep 2026 22:51:00 GMT",
+      "published": "Sun, 27 Sep 2026 18:08:00 GMT",
       "source": "MLB.com",
       "title": "Latest Guardians injuries and transactions",
       "url": "https://www.mlb.com/guardians/news/guardians-injuries-and-roster-moves"
@@ -763,7 +763,7 @@
       {
         "abbreviation": "KC",
         "date": "2026-09-27",
-        "detail": "Scheduled",
+        "detail": "Pre-Game",
         "gameNumber": 1,
         "gameType": "R",
         "home": false,
@@ -773,7 +773,7 @@
         "probable": "Parker Messick",
         "result": null,
         "save": "",
-        "score": null,
+        "score": "0\u20130",
         "series": "",
         "startTime": "2026-09-27T19:10:00Z",
         "startTimeTBD": false,
