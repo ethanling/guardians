@@ -24,12 +24,36 @@
         "abbreviation": "KC",
         "club": "Royals",
         "losses": 5,
-        "wins": 6
+        "wins": 7
       }
     ]
   },
-  "generatedAt": "2026-09-27T01:29:16Z",
+  "generatedAt": "2026-09-27T08:13:12Z",
   "headlines": [
+    {
+      "author": "Tim Stebbins",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dypf9dlkmqfjox5urfap",
+      "published": "Sun, 27 Sep 2026 05:24:00 GMT",
+      "source": "MLB.com",
+      "title": "Guardians clinch 7th Central title in last 11 years, secure 1st-round bye",
+      "url": "https://www.mlb.com/guardians/news/guardians-clinch-2026-al-central-title"
+    },
+    {
+      "author": "Brendan Samson",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rogrghl2eglzcntllyar",
+      "published": "Sun, 27 Sep 2026 02:34:00 GMT",
+      "source": "MLB.com",
+      "title": "Cooper Ingle earns International League MVP honors",
+      "url": "https://www.mlb.com/guardians/news/minor-league-baseball-announces-2026-triple-a-all-stars-and-award-winners"
+    },
+    {
+      "author": "Tim Stebbins",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uwwoiodjgwinxbz3cefr",
+      "published": "Sun, 27 Sep 2026 05:32:00 GMT",
+      "source": "MLB.com",
+      "title": "Postseason FAQ: What's next for the Guardians?",
+      "url": "https://www.mlb.com/guardians/news/guardians-2026-postseason-faq"
+    },
     {
       "author": "Tim Stebbins",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/s7vkyioyrcenszqo3uum",
@@ -47,30 +71,6 @@
       "url": "https://www.mlb.com/guardians/news/cleveland-guardians-keep-pace-with-white-sox-in-al-central-race"
     },
     {
-      "author": "Tim Stebbins  Craig Forde",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/hi9eeghuj1dxyqtgs1pe",
-      "published": "Fri, 25 Sep 2026 03:04:00 GMT",
-      "source": "MLB.com",
-      "title": "Guardians clinch 3rd consecutive playoff berth with another late surge",
-      "url": "https://www.mlb.com/guardians/news/guardians-clinch-2026-playoff-berth"
-    },
-    {
-      "author": "Tim Stebbins",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/beucsa6rbrtkt6sj6yuu",
-      "published": "Sat, 26 Sep 2026 05:38:00 GMT",
-      "source": "MLB.com",
-      "title": "Postseason FAQ: What's next for the Guardians?",
-      "url": "https://www.mlb.com/guardians/news/guardians-2026-postseason-faq"
-    },
-    {
-      "author": "Craig Forde",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bt5nuhlk5fuopkt1u6zm",
-      "published": "Thu, 24 Sep 2026 04:14:00 GMT",
-      "source": "MLB.com",
-      "title": "With postseason berth in sight, Guards fall to Red Sox but still control their destiny",
-      "url": "https://www.mlb.com/guardians/news/foster-griffin-guardians-lose-to-red-sox"
-    },
-    {
       "author": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/private/t_16x9/t_w1024/mlb/maw5nsnvqcufuhis8s5z",
       "published": "Fri, 25 Sep 2026 22:51:00 GMT",
@@ -79,7 +79,7 @@
       "url": "https://www.mlb.com/guardians/news/guardians-injuries-and-roster-moves"
     }
   ],
-  "heroLine": "First in the Central.",
+  "heroLine": "Central champions.",
   "players": {
     "featured": {
       "hitter": {
@@ -89,9 +89,9 @@
         "hr": 16,
         "id": 800050,
         "name": "Chase DeLauter",
-        "obp": ".362",
-        "ops": ".819",
-        "pa": 558,
+        "obp": ".363",
+        "ops": ".820",
+        "pa": 559,
         "position": "RF",
         "rbi": 67,
         "sb": 11,
@@ -123,9 +123,9 @@
         "hr": 16,
         "id": 800050,
         "name": "Chase DeLauter",
-        "obp": ".362",
-        "ops": ".819",
-        "pa": 558,
+        "obp": ".363",
+        "ops": ".820",
+        "pa": 559,
         "position": "RF",
         "rbi": 67,
         "sb": 11,
@@ -162,34 +162,34 @@
         "slg": ".411"
       },
       {
-        "avg": ".281",
+        "avg": ".282",
         "games": 151,
         "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_256,q_auto:best/v1/people/680757/headshot/67/current",
         "hr": 3,
         "id": 680757,
         "name": "Steven Kwan",
-        "obp": ".381",
-        "ops": ".729",
-        "pa": 636,
+        "obp": ".382",
+        "ops": ".731",
+        "pa": 637,
         "position": "LF",
         "rbi": 32,
         "sb": 10,
-        "slg": ".348"
+        "slg": ".349"
       },
       {
-        "avg": ".239",
+        "avg": ".237",
         "games": 47,
         "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_256,q_auto:best/v1/people/666176/headshot/67/current",
         "hr": 6,
         "id": 666176,
         "name": "Jo Adell",
-        "obp": ".317",
-        "ops": ".715",
-        "pa": 199,
+        "obp": ".315",
+        "ops": ".710",
+        "pa": 200,
         "position": "RF",
         "rbi": 31,
-        "sb": 1,
-        "slg": ".398"
+        "sb": 2,
+        "slg": ".395"
       }
     ],
     "leaders": {
@@ -219,7 +219,7 @@
         "id": 800050,
         "name": "Chase DeLauter",
         "position": "RF",
-        "value": ".819"
+        "value": ".820"
       },
       "rbi": {
         "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_256,q_auto:best/v1/people/677587/headshot/67/current",
@@ -401,16 +401,16 @@
         "so": 148,
         "starts": 33,
         "sv": 0,
-        "w": 6,
+        "w": 7,
         "whip": "1.22"
       },
       {
         "bb": 39,
-        "era": "4.95",
-        "games": 27,
+        "era": "4.91",
+        "games": 28,
         "headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_256,q_auto:best/v1/people/677944/headshot/67/current",
         "id": 677944,
-        "ip": "120.0",
+        "ip": "121.0",
         "l": 7,
         "name": "Slade Cecconi",
         "role": "SP",
@@ -418,7 +418,7 @@
         "starts": 21,
         "sv": 0,
         "w": 5,
-        "whip": "1.44"
+        "whip": "1.43"
       }
     ]
   },
@@ -431,40 +431,40 @@
         "gamesBack": "\u2014",
         "home": "41\u201340",
         "isGuardians": true,
-        "lastTen": "8\u20132",
+        "lastTen": "9\u20131",
         "losses": 76,
-        "pct": ".525",
+        "pct": ".528",
         "rank": 1,
-        "road": "43\u201336",
-        "runDifferential": 6,
-        "runsAllowed": 659,
-        "runsScored": 665,
-        "streak": "W2",
-        "wins": 84
+        "road": "44\u201336",
+        "runDifferential": 12,
+        "runsAllowed": 664,
+        "runsScored": 676,
+        "streak": "W3",
+        "wins": 85
       },
       {
         "abbreviation": "CWS",
         "clinched": true,
         "club": "White Sox",
-        "gamesBack": "1",
-        "home": "47\u201332",
+        "gamesBack": "2",
+        "home": "47\u201333",
         "isGuardians": false,
         "lastTen": "6\u20134",
-        "losses": 77,
-        "pct": ".519",
+        "losses": 78,
+        "pct": ".516",
         "rank": 2,
         "road": "36\u201345",
-        "runDifferential": 57,
-        "runsAllowed": 709,
-        "runsScored": 766,
-        "streak": "W2",
+        "runDifferential": 54,
+        "runsAllowed": 718,
+        "runsScored": 772,
+        "streak": "L1",
         "wins": 83
       },
       {
         "abbreviation": "MIN",
         "clinched": false,
         "club": "Twins",
-        "gamesBack": "8.5",
+        "gamesBack": "9",
         "home": "41\u201339",
         "isGuardians": false,
         "lastTen": "6\u20134",
@@ -482,7 +482,7 @@
         "abbreviation": "DET",
         "clinched": false,
         "club": "Tigers",
-        "gamesBack": "8.5",
+        "gamesBack": "9",
         "home": "42\u201338",
         "isGuardians": false,
         "lastTen": "4\u20136",
@@ -500,34 +500,34 @@
         "abbreviation": "KC",
         "clinched": false,
         "club": "Royals",
-        "gamesBack": "16",
-        "home": "40\u201339",
+        "gamesBack": "17",
+        "home": "40\u201340",
         "isGuardians": false,
         "lastTen": "2\u20138",
-        "losses": 92,
-        "pct": ".425",
+        "losses": 93,
+        "pct": ".422",
         "rank": 5,
         "road": "28\u201353",
-        "runDifferential": -115,
-        "runsAllowed": 797,
-        "runsScored": 682,
-        "streak": "L2",
+        "runDifferential": -121,
+        "runsAllowed": 808,
+        "runsScored": 687,
+        "streak": "L3",
         "wins": 68
       }
     ],
-    "divisionFact": "Up 1 game on the White Sox",
-    "figure": "1st",
-    "figureLabel": "AL Central",
-    "gamesRemaining": 2,
-    "headline": "First in the Central.",
-    "summary": "The Guardians lead the AL Central by 1 game over the White Sox.",
+    "divisionFact": "Clinched",
+    "figure": "85\u201376",
+    "figureLabel": "Clinched",
+    "gamesRemaining": 1,
+    "headline": "Central champions.",
+    "summary": "The Guardians have clinched the AL Central.",
     "wildCard": [
       {
         "abbreviation": "NYY",
         "clinched": true,
         "club": "Yankees",
         "elimination": "\u2014",
-        "gamesBack": "+9.5",
+        "gamesBack": "+10",
         "isGuardians": false,
         "losses": 68,
         "rank": 1,
@@ -538,7 +538,7 @@
         "clinched": true,
         "club": "Red Sox",
         "elimination": "\u2014",
-        "gamesBack": "+3.5",
+        "gamesBack": "+4",
         "isGuardians": false,
         "losses": 74,
         "rank": 2,
@@ -551,45 +551,66 @@
         "elimination": "\u2014",
         "gamesBack": "\u2014",
         "isGuardians": false,
-        "losses": 77,
+        "losses": 78,
         "rank": 3,
         "wins": 83
       },
       {
-        "abbreviation": "HOU",
+        "abbreviation": "TEX",
         "clinched": false,
-        "club": "Astros",
+        "club": "Rangers",
         "elimination": "E",
-        "gamesBack": "4",
+        "gamesBack": "3",
         "isGuardians": false,
         "losses": 81,
         "rank": 4,
-        "wins": 79
+        "wins": 80
       }
     ],
-    "wildCardFact": "Wild card clinched"
+    "wildCardFact": "Ahead of the wild card"
   },
   "record": {
     "clinched": true,
-    "divisionChamp": false,
+    "divisionChamp": true,
     "divisionRank": 1,
     "eliminationNumber": "\u2014",
     "gamesBack": "\u2014",
     "home": "41\u201340",
-    "lastTen": "8\u20132",
+    "lastTen": "9\u20131",
     "losses": 76,
     "magicNumber": null,
-    "pct": ".525",
-    "road": "43\u201336",
-    "runDifferential": 6,
-    "runsAllowed": 659,
-    "runsScored": 665,
-    "streak": "W2",
+    "pct": ".528",
+    "road": "44\u201336",
+    "runDifferential": 12,
+    "runsAllowed": 664,
+    "runsScored": 676,
+    "streak": "W3",
     "wildCardEliminationNumber": "\u2014",
-    "wins": 84
+    "wins": 85
   },
   "schedule": {
     "recent": [
+      {
+        "abbreviation": "KC",
+        "date": "2026-09-26",
+        "detail": "Final",
+        "gameNumber": 1,
+        "gameType": "R",
+        "home": false,
+        "loser": "Michael Wacha",
+        "opponent": "Royals",
+        "opponentProbable": "Michael Wacha",
+        "probable": "Tanner Bibee",
+        "result": "W",
+        "save": "",
+        "score": "11\u20135",
+        "series": "",
+        "startTime": "2026-09-26T23:10:00Z",
+        "startTimeTBD": false,
+        "status": "Final",
+        "venue": "Kauffman Stadium",
+        "winner": "Tanner Bibee"
+      },
       {
         "abbreviation": "KC",
         "date": "2026-09-25",
@@ -736,51 +757,9 @@
         "status": "Final",
         "venue": "Progressive Field",
         "winner": "Joey Cantillo"
-      },
-      {
-        "abbreviation": "CWS",
-        "date": "2026-09-16",
-        "detail": "Final",
-        "gameNumber": 1,
-        "gameType": "R",
-        "home": true,
-        "loser": "Hagen Smith",
-        "opponent": "White Sox",
-        "opponentProbable": "Anthony Kay",
-        "probable": "Parker Messick",
-        "result": "W",
-        "save": "Cade Smith",
-        "score": "6\u20133",
-        "series": "",
-        "startTime": "2026-09-16T17:10:00Z",
-        "startTimeTBD": false,
-        "status": "Final",
-        "venue": "Progressive Field",
-        "winner": "Parker Messick"
       }
     ],
     "upcoming": [
-      {
-        "abbreviation": "KC",
-        "date": "2026-09-26",
-        "detail": "In Progress",
-        "gameNumber": 1,
-        "gameType": "R",
-        "home": false,
-        "loser": "",
-        "opponent": "Royals",
-        "opponentProbable": "Michael Wacha",
-        "probable": "Tanner Bibee",
-        "result": null,
-        "save": "",
-        "score": "9\u20135",
-        "series": "",
-        "startTime": "2026-09-26T23:10:00Z",
-        "startTimeTBD": false,
-        "status": "Live",
-        "venue": "Kauffman Stadium",
-        "winner": ""
-      },
       {
         "abbreviation": "KC",
         "date": "2026-09-27",
@@ -791,7 +770,7 @@
         "loser": "",
         "opponent": "Royals",
         "opponentProbable": "Daniel Lynch IV",
-        "probable": "",
+        "probable": "Parker Messick",
         "result": null,
         "save": "",
         "score": null,
