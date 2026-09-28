@@ -28,7 +28,7 @@
       }
     ]
   },
-  "generatedAt": "2026-09-28T00:49:56Z",
+  "generatedAt": "2026-09-28T06:56:55Z",
   "headlines": [
     {
       "author": "Tim Stebbins",
@@ -47,12 +47,12 @@
       "url": "https://www.mlb.com/guardians/news/guardians-fans-donate-to-charity-to-thank-hunter-goodman"
     },
     {
-      "author": "Tim Stebbins",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dypf9dlkmqfjox5urfap",
-      "published": "Sun, 27 Sep 2026 05:24:00 GMT",
+      "author": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/etym1zzgxciekgqetbw0",
+      "published": "Sun, 27 Sep 2026 23:39:12 GMT",
       "source": "MLB.com",
-      "title": "Guardians clinch 7th Central title in last 11 years, secure 1st-round bye",
-      "url": "https://www.mlb.com/guardians/news/guardians-clinch-2026-al-central-title"
+      "title": "Fill out your postseason bracket, compete to win $10K",
+      "url": "https://www.mlb.com/moments/experiences/postseason-bracket-challenge?affiliateID=psbc_club_digital_2026"
     },
     {
       "author": "Tim Stebbins",
@@ -63,23 +63,23 @@
       "url": "https://www.mlb.com/guardians/news/guardians-2026-postseason-faq"
     },
     {
-      "author": "Brendan Samson",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rogrghl2eglzcntllyar",
-      "published": "Sun, 27 Sep 2026 02:34:00 GMT",
+      "author": "Will Leitch",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fxgmkhzoiz08kqlkgnoe",
+      "published": "Mon, 28 Sep 2026 04:00:00 GMT",
       "source": "MLB.com",
-      "title": "Cooper Ingle earns International League MVP honors",
-      "url": "https://www.mlb.com/guardians/news/minor-league-baseball-announces-2026-triple-a-all-stars-and-award-winners"
+      "title": "Power Rankings: Who starts playoffs on top?",
+      "url": "https://www.mlb.com/guardians/news/mlb-postseason-power-rankings-for-2026-wild-card-series"
     },
     {
       "author": "Tim Stebbins",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/s7vkyioyrcenszqo3uum",
-      "published": "Sat, 26 Sep 2026 23:32:37 GMT",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dypf9dlkmqfjox5urfap",
+      "published": "Sun, 27 Sep 2026 05:24:00 GMT",
       "source": "MLB.com",
-      "title": "Espino looking to become key piece in Guardians' postseason bullpen",
-      "url": "https://www.mlb.com/guardians/news/daniel-espino-helping-to-bolster-guardians-bullpen"
+      "title": "Guardians clinch 7th Central title in last 11 years, secure 1st-round bye",
+      "url": "https://www.mlb.com/guardians/news/guardians-clinch-2026-al-central-title"
     }
   ],
-  "heroLine": "Central champions.",
+  "heroLine": "85\u201377.",
   "players": {
     "featured": {
       "hitter": {
@@ -517,9 +517,9 @@
     ],
     "divisionFact": "Clinched",
     "figure": "85\u201377",
-    "figureLabel": "Clinched",
+    "figureLabel": "Final record",
     "gamesRemaining": 0,
-    "headline": "Central champions.",
+    "headline": "85\u201377.",
     "summary": "The Guardians have clinched the AL Central.",
     "wildCard": [
       {
@@ -759,10 +759,116 @@
         "winner": "Slade Cecconi"
       }
     ],
-    "upcoming": []
+    "upcoming": [
+      {
+        "abbreviation": "HOU/CWS",
+        "date": "2026-10-03",
+        "detail": "Scheduled",
+        "gameNumber": 1,
+        "gameType": "D",
+        "home": true,
+        "loser": "",
+        "opponent": "HOU/CWS",
+        "opponentProbable": "",
+        "probable": "",
+        "result": null,
+        "save": "",
+        "score": null,
+        "series": "Division Series",
+        "startTime": "2026-10-03T07:33:00Z",
+        "startTimeTBD": true,
+        "status": "Preview",
+        "venue": "Progressive Field",
+        "winner": ""
+      },
+      {
+        "abbreviation": "HOU/CWS",
+        "date": "2026-10-05",
+        "detail": "Scheduled",
+        "gameNumber": 1,
+        "gameType": "D",
+        "home": true,
+        "loser": "",
+        "opponent": "HOU/CWS",
+        "opponentProbable": "",
+        "probable": "",
+        "result": null,
+        "save": "",
+        "score": null,
+        "series": "Division Series",
+        "startTime": "2026-10-05T07:33:00Z",
+        "startTimeTBD": true,
+        "status": "Preview",
+        "venue": "Progressive Field",
+        "winner": ""
+      },
+      {
+        "abbreviation": "HOU/CWS",
+        "date": "2026-10-07",
+        "detail": "Scheduled",
+        "gameNumber": 1,
+        "gameType": "D",
+        "home": false,
+        "loser": "",
+        "opponent": "HOU/CWS",
+        "opponentProbable": "",
+        "probable": "",
+        "result": null,
+        "save": "",
+        "score": null,
+        "series": "Division Series",
+        "startTime": "2026-10-07T07:33:00Z",
+        "startTimeTBD": true,
+        "status": "Preview",
+        "venue": "AL Stadium",
+        "winner": ""
+      },
+      {
+        "abbreviation": "HOU/CWS",
+        "date": "2026-10-08",
+        "detail": "Scheduled",
+        "gameNumber": 1,
+        "gameType": "D",
+        "home": false,
+        "loser": "",
+        "opponent": "HOU/CWS",
+        "opponentProbable": "",
+        "probable": "",
+        "result": null,
+        "save": "",
+        "score": null,
+        "series": "Division Series",
+        "startTime": "2026-10-08T07:33:00Z",
+        "startTimeTBD": true,
+        "status": "Preview",
+        "venue": "AL Stadium",
+        "winner": ""
+      },
+      {
+        "abbreviation": "HOU/CWS",
+        "date": "2026-10-10",
+        "detail": "Scheduled",
+        "gameNumber": 1,
+        "gameType": "D",
+        "home": true,
+        "loser": "",
+        "opponent": "HOU/CWS",
+        "opponentProbable": "",
+        "probable": "",
+        "result": null,
+        "save": "",
+        "score": null,
+        "series": "Division Series",
+        "startTime": "2026-10-10T07:33:00Z",
+        "startTimeTBD": true,
+        "status": "Preview",
+        "venue": "Progressive Field",
+        "winner": ""
+      }
+    ]
   },
   "season": 2026,
-  "seasonState": "inProgress",
+  "seasonState": "complete",
   "team": {
     "abbreviation": "CLE",
     "club": "Guardians",
