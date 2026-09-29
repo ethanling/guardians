@@ -28,8 +28,16 @@
       }
     ]
   },
-  "generatedAt": "2026-09-29T15:54:12Z",
+  "generatedAt": "2026-09-29T20:48:51Z",
   "headlines": [
+    {
+      "author": "Tim Stebbins",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qeou9rho3uczgfd2a5c0",
+      "published": "Tue, 29 Sep 2026 20:34:51 GMT",
+      "source": "MLB.com",
+      "title": "One year after historic debut, DeLauter key for Guardians in return to playoffs",
+      "url": "https://www.mlb.com/guardians/news/chase-delauter-key-to-guardians-one-year-after-mlb-debut-postseason"
+    },
     {
       "author": "Tim Stebbins",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pfbdrbveslfvi2bt4k36",
@@ -37,14 +45,6 @@
       "source": "MLB.com",
       "title": "Should Guardians root for Astros or White Sox in the Wild Card Series?",
       "url": "https://www.mlb.com/guardians/news/guide-to-guardians-potential-opponents-in-2026-alds"
-    },
-    {
-      "author": "MLB.com",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wnk5ymatpzzhuecoexvs",
-      "published": "Tue, 29 Sep 2026 15:00:00 GMT",
-      "source": "MLB.com",
-      "title": "Here is why each playoff team could win the World Series",
-      "url": "https://www.mlb.com/guardians/news/how-each-mlb-playoff-team-could-win-the-world-series"
     },
     {
       "author": "Tim Stebbins",
@@ -55,12 +55,12 @@
       "url": "https://www.mlb.com/guardians/news/guardians-2026-postseason-faq"
     },
     {
-      "author": "Sam Dykstra, Jim Callis and Jonathan Mayo",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/crinnh1hvz69yfgdl0yr",
-      "published": "Tue, 29 Sep 2026 02:27:00 GMT",
+      "author": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/o0wr962aywlif6e37xyw",
+      "published": "Tue, 29 Sep 2026 15:04:03 GMT",
       "source": "MLB.com",
-      "title": "Here's how the 2026 postseason teams were built",
-      "url": "https://www.mlb.com/guardians/news/how-the-2026-mlb-playoff-teams-were-built"
+      "title": "Cade Smith named AL Reliever of the Month for September",
+      "url": "https://www.mlb.com/guardians/news/mlb-monthly-award-winners-for-september-2026"
     },
     {
       "author": "",
@@ -71,12 +71,12 @@
       "url": "https://www.mlb.com/moments/experiences/postseason-bracket-challenge?affiliateID=psbc_club_digital_2026"
     },
     {
-      "author": "Brendan Samson and Ben Weinrib",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/v5rsv0brvxl7fzd2fh8s",
-      "published": "Tue, 29 Sep 2026 00:28:33 GMT",
+      "author": "MLB.com",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wnk5ymatpzzhuecoexvs",
+      "published": "Tue, 29 Sep 2026 15:00:00 GMT",
       "source": "MLB.com",
-      "title": "Genao, Velazquez land on Prospect Team of the Year",
-      "url": "https://www.mlb.com/guardians/news/prospect-team-of-the-year-2026"
+      "title": "Here is why each playoff team could win the World Series",
+      "url": "https://www.mlb.com/guardians/news/how-each-mlb-playoff-team-could-win-the-world-series"
     }
   ],
   "heroLine": "85\u201377.",
