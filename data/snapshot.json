@@ -28,7 +28,7 @@
       }
     ]
   },
-  "generatedAt": "2026-09-29T20:48:51Z",
+  "generatedAt": "2026-09-30T00:29:12Z",
   "headlines": [
     {
       "author": "Tim Stebbins",
@@ -49,7 +49,7 @@
     {
       "author": "Tim Stebbins",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uwwoiodjgwinxbz3cefr",
-      "published": "Sun, 27 Sep 2026 23:29:00 GMT",
+      "published": "Tue, 29 Sep 2026 22:48:00 GMT",
       "source": "MLB.com",
       "title": "Postseason FAQ: What's next for the Guardians?",
       "url": "https://www.mlb.com/guardians/news/guardians-2026-postseason-faq"
@@ -775,8 +775,8 @@
         "save": "",
         "score": null,
         "series": "Division Series",
-        "startTime": "2026-10-03T07:33:00Z",
-        "startTimeTBD": true,
+        "startTime": "2026-10-03T17:00:00Z",
+        "startTimeTBD": false,
         "status": "Preview",
         "venue": "Progressive Field",
         "winner": ""
@@ -796,8 +796,8 @@
         "save": "",
         "score": null,
         "series": "Division Series",
-        "startTime": "2026-10-05T07:33:00Z",
-        "startTimeTBD": true,
+        "startTime": "2026-10-05T21:00:00Z",
+        "startTimeTBD": false,
         "status": "Preview",
         "venue": "Progressive Field",
         "winner": ""
