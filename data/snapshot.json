@@ -28,23 +28,23 @@
       }
     ]
   },
-  "generatedAt": "2026-10-01T13:19:37Z",
+  "generatedAt": "2026-10-01T19:33:03Z",
   "headlines": [
     {
-      "author": "Tim Stebbins",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uzolpfsbiotvxoqxuyd0",
-      "published": "Thu, 01 Oct 2026 01:33:00 GMT",
+      "author": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dhlyc0cws83rlminaomo",
+      "published": "Thu, 01 Oct 2026 17:42:34 GMT",
       "source": "MLB.com",
-      "title": "How Guards are spending bye week, rotation plans & more",
-      "url": "https://www.mlb.com/guardians/news/guardians-balance-rest-potential-rust-during-bye-week-before-alds"
+      "title": "Guards tab star rookie Messick, AL strikeout king Williams for ALDS Games 1-2",
+      "url": "https://www.mlb.com/guardians/news/parker-messick-gavin-williams-to-start-alds-games-1-and-2-for-guardians"
     },
     {
-      "author": "Scott Merkin and Tim Stebbins",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lwu89cbppyaygsfnld56",
-      "published": "Thu, 01 Oct 2026 04:11:51 GMT",
+      "author": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/c1yn1mdd4jvq96byhxbp",
+      "published": "Thu, 01 Oct 2026 18:59:49 GMT",
       "source": "MLB.com",
-      "title": "White Sox-Guardians AL Division Series Game 1 FAQ (Sat., 1 p.m. ET, TBS/truTV/HBO Max)",
-      "url": "https://www.mlb.com/guardians/news/white-sox-vs-guardians-alds-game-1-starting-lineups-pitching-matchup-2026"
+      "title": "Why Guardians' lineup looks more dangerous than in previous postseasons",
+      "url": "https://www.mlb.com/guardians/news/cleveland-guardians-improved-lineup-entering-2026-alds"
     },
     {
       "author": "Tim Stebbins",
@@ -55,28 +55,28 @@
       "url": "https://www.mlb.com/guardians/news/guardians-2026-postseason-faq"
     },
     {
+      "author": "Tim Stebbins",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uzolpfsbiotvxoqxuyd0",
+      "published": "Thu, 01 Oct 2026 01:33:00 GMT",
+      "source": "MLB.com",
+      "title": "How Guards are spending bye week, rotation plans & more",
+      "url": "https://www.mlb.com/guardians/news/guardians-balance-rest-potential-rust-during-bye-week-before-alds"
+    },
+    {
+      "author": "Scott Merkin and Tim Stebbins",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790879469/mlb/lwu89cbppyaygsfnld56",
+      "published": "Thu, 01 Oct 2026 16:55:00 GMT",
+      "source": "MLB.com",
+      "title": "White Sox-Guardians AL Division Series Game 1 FAQ (Sat., 1 p.m. ET, TBS/HBO Max)",
+      "url": "https://www.mlb.com/guardians/news/white-sox-vs-guardians-alds-game-1-starting-lineups-pitching-matchup-2026"
+    },
+    {
       "author": "Jared Greenspan",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/avhacez2xfcosz6atfuk",
       "published": "Wed, 30 Sep 2026 19:24:55 GMT",
       "source": "MLB.com",
       "title": "Parker Messick doesn't throw that hard, but his fastball is one of baseball's best",
       "url": "https://www.mlb.com/guardians/news/parker-messick-s-fastball-is-one-of-baseball-s-best-pitches"
-    },
-    {
-      "author": "Tim Stebbins",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qeou9rho3uczgfd2a5c0",
-      "published": "Tue, 29 Sep 2026 20:34:51 GMT",
-      "source": "MLB.com",
-      "title": "One year after historic debut, DeLauter key for Guardians in return to playoffs",
-      "url": "https://www.mlb.com/guardians/news/chase-delauter-key-to-guardians-one-year-after-mlb-debut-postseason"
-    },
-    {
-      "author": "Tim Stebbins",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pfbdrbveslfvi2bt4k36",
-      "published": "Mon, 28 Sep 2026 19:48:01 GMT",
-      "source": "MLB.com",
-      "title": "Should Guardians root for Astros or White Sox in the Wild Card Series?",
-      "url": "https://www.mlb.com/guardians/news/guide-to-guardians-potential-opponents-in-2026-alds"
     }
   ],
   "heroLine": "85\u201377.",
@@ -770,7 +770,7 @@
         "loser": "",
         "opponent": "White Sox",
         "opponentProbable": "",
-        "probable": "",
+        "probable": "Parker Messick",
         "result": null,
         "save": "",
         "score": null,
@@ -791,7 +791,7 @@
         "loser": "",
         "opponent": "White Sox",
         "opponentProbable": "",
-        "probable": "",
+        "probable": "Gavin Williams",
         "result": null,
         "save": "",
         "score": null,
