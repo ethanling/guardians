@@ -28,23 +28,23 @@
       }
     ]
   },
-  "generatedAt": "2026-10-01T19:33:03Z",
+  "generatedAt": "2026-10-01T23:53:39Z",
   "headlines": [
     {
-      "author": "",
+      "author": "Tim Stebbins",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dhlyc0cws83rlminaomo",
-      "published": "Thu, 01 Oct 2026 17:42:34 GMT",
+      "published": "Thu, 01 Oct 2026 20:05:00 GMT",
       "source": "MLB.com",
       "title": "Guards tab star rookie Messick, AL strikeout king Williams for ALDS Games 1-2",
       "url": "https://www.mlb.com/guardians/news/parker-messick-gavin-williams-to-start-alds-games-1-and-2-for-guardians"
     },
     {
-      "author": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/c1yn1mdd4jvq96byhxbp",
-      "published": "Thu, 01 Oct 2026 18:59:49 GMT",
+      "author": "Tim Stebbins",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zvp6ntj3xd7bdiecjusw",
+      "published": "Thu, 01 Oct 2026 20:46:44 GMT",
       "source": "MLB.com",
-      "title": "Why Guardians' lineup looks more dangerous than in previous postseasons",
-      "url": "https://www.mlb.com/guardians/news/cleveland-guardians-improved-lineup-entering-2026-alds"
+      "title": "Holderman sidelined for postseason due to upcoming right wrist surgery",
+      "url": "https://www.mlb.com/guardians/news/colin-holderman-season-ending-wrist-injury-guardians-alds"
     },
     {
       "author": "Tim Stebbins",
@@ -53,6 +53,14 @@
       "source": "MLB.com",
       "title": "Postseason FAQ: What's next for the Guardians?",
       "url": "https://www.mlb.com/guardians/news/guardians-2026-postseason-faq"
+    },
+    {
+      "author": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/c1yn1mdd4jvq96byhxbp",
+      "published": "Thu, 01 Oct 2026 18:59:49 GMT",
+      "source": "MLB.com",
+      "title": "Why Guardians' lineup looks more dangerous than in previous postseasons",
+      "url": "https://www.mlb.com/guardians/news/cleveland-guardians-improved-lineup-entering-2026-alds"
     },
     {
       "author": "Tim Stebbins",
@@ -65,18 +73,10 @@
     {
       "author": "Scott Merkin and Tim Stebbins",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790879469/mlb/lwu89cbppyaygsfnld56",
-      "published": "Thu, 01 Oct 2026 16:55:00 GMT",
+      "published": "Thu, 01 Oct 2026 21:32:00 GMT",
       "source": "MLB.com",
       "title": "White Sox-Guardians AL Division Series Game 1 FAQ (Sat., 1 p.m. ET, TBS/HBO Max)",
       "url": "https://www.mlb.com/guardians/news/white-sox-vs-guardians-alds-game-1-starting-lineups-pitching-matchup-2026"
-    },
-    {
-      "author": "Jared Greenspan",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/avhacez2xfcosz6atfuk",
-      "published": "Wed, 30 Sep 2026 19:24:55 GMT",
-      "source": "MLB.com",
-      "title": "Parker Messick doesn't throw that hard, but his fastball is one of baseball's best",
-      "url": "https://www.mlb.com/guardians/news/parker-messick-s-fastball-is-one-of-baseball-s-best-pitches"
     }
   ],
   "heroLine": "85\u201377.",
@@ -817,8 +817,8 @@
         "save": "",
         "score": null,
         "series": "Division Series",
-        "startTime": "2026-10-07T07:33:00Z",
-        "startTimeTBD": true,
+        "startTime": "2026-10-07T20:00:00Z",
+        "startTimeTBD": false,
         "status": "Preview",
         "venue": "Rate Field",
         "winner": ""
@@ -838,8 +838,8 @@
         "save": "",
         "score": null,
         "series": "Division Series",
-        "startTime": "2026-10-08T07:33:00Z",
-        "startTimeTBD": true,
+        "startTime": "2026-10-08T21:00:00Z",
+        "startTimeTBD": false,
         "status": "Preview",
         "venue": "Rate Field",
         "winner": ""
@@ -859,8 +859,8 @@
         "save": "",
         "score": null,
         "series": "Division Series",
-        "startTime": "2026-10-10T07:33:00Z",
-        "startTimeTBD": true,
+        "startTime": "2026-10-10T21:00:00Z",
+        "startTimeTBD": false,
         "status": "Preview",
         "venue": "Progressive Field",
         "winner": ""
