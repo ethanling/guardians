@@ -28,15 +28,31 @@
       }
     ]
   },
-  "generatedAt": "2026-09-30T23:51:58Z",
+  "generatedAt": "2026-10-01T05:58:16Z",
   "headlines": [
     {
       "author": "Tim Stebbins",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uzolpfsbiotvxoqxuyd0",
-      "published": "Wed, 30 Sep 2026 20:19:30 GMT",
+      "published": "Thu, 01 Oct 2026 01:33:00 GMT",
       "source": "MLB.com",
       "title": "How Guards are spending bye week, rotation plans & more",
       "url": "https://www.mlb.com/guardians/news/guardians-balance-rest-potential-rust-during-bye-week-before-alds"
+    },
+    {
+      "author": "Scott Merkin and Tim Stebbins",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lwu89cbppyaygsfnld56",
+      "published": "Thu, 01 Oct 2026 04:11:51 GMT",
+      "source": "MLB.com",
+      "title": "White Sox-Guardians AL Division Series Game 1 FAQ (Sat., 1 p.m. ET, TBS/truTV/HBO Max)",
+      "url": "https://www.mlb.com/guardians/news/white-sox-vs-guardians-alds-game-1-starting-lineups-pitching-matchup-2026"
+    },
+    {
+      "author": "Tim Stebbins",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uwwoiodjgwinxbz3cefr",
+      "published": "Thu, 01 Oct 2026 01:00:00 GMT",
+      "source": "MLB.com",
+      "title": "Postseason FAQ: What's next for the Guardians?",
+      "url": "https://www.mlb.com/guardians/news/guardians-2026-postseason-faq"
     },
     {
       "author": "Jared Greenspan",
@@ -45,22 +61,6 @@
       "source": "MLB.com",
       "title": "Parker Messick doesn't throw that hard, but his fastball is one of baseball's best",
       "url": "https://www.mlb.com/guardians/news/parker-messick-s-fastball-is-one-of-baseball-s-best-pitches"
-    },
-    {
-      "author": "Tim Stebbins",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uwwoiodjgwinxbz3cefr",
-      "published": "Tue, 29 Sep 2026 22:48:00 GMT",
-      "source": "MLB.com",
-      "title": "Postseason FAQ: What's next for the Guardians?",
-      "url": "https://www.mlb.com/guardians/news/guardians-2026-postseason-faq"
-    },
-    {
-      "author": "Tim Stebbins",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qeou9rho3uczgfd2a5c0",
-      "published": "Tue, 29 Sep 2026 20:34:51 GMT",
-      "source": "MLB.com",
-      "title": "One year after historic debut, DeLauter key for Guardians in return to playoffs",
-      "url": "https://www.mlb.com/guardians/news/chase-delauter-key-to-guardians-one-year-after-mlb-debut-postseason"
     },
     {
       "author": "",
@@ -72,11 +72,11 @@
     },
     {
       "author": "Tim Stebbins",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pfbdrbveslfvi2bt4k36",
-      "published": "Mon, 28 Sep 2026 19:48:01 GMT",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qeou9rho3uczgfd2a5c0",
+      "published": "Tue, 29 Sep 2026 20:34:51 GMT",
       "source": "MLB.com",
-      "title": "Should Guardians root for Astros or White Sox in the Wild Card Series?",
-      "url": "https://www.mlb.com/guardians/news/guide-to-guardians-potential-opponents-in-2026-alds"
+      "title": "One year after historic debut, DeLauter key for Guardians in return to playoffs",
+      "url": "https://www.mlb.com/guardians/news/chase-delauter-key-to-guardians-one-year-after-mlb-debut-postseason"
     }
   ],
   "heroLine": "85\u201377.",
@@ -761,14 +761,14 @@
     ],
     "upcoming": [
       {
-        "abbreviation": "HOU/CWS",
+        "abbreviation": "CWS",
         "date": "2026-10-03",
         "detail": "Scheduled",
         "gameNumber": 1,
         "gameType": "D",
         "home": true,
         "loser": "",
-        "opponent": "HOU/CWS",
+        "opponent": "White Sox",
         "opponentProbable": "",
         "probable": "",
         "result": null,
@@ -782,14 +782,14 @@
         "winner": ""
       },
       {
-        "abbreviation": "HOU/CWS",
+        "abbreviation": "CWS",
         "date": "2026-10-05",
         "detail": "Scheduled",
         "gameNumber": 1,
         "gameType": "D",
         "home": true,
         "loser": "",
-        "opponent": "HOU/CWS",
+        "opponent": "White Sox",
         "opponentProbable": "",
         "probable": "",
         "result": null,
@@ -803,14 +803,14 @@
         "winner": ""
       },
       {
-        "abbreviation": "HOU/CWS",
+        "abbreviation": "CWS",
         "date": "2026-10-07",
         "detail": "Scheduled",
         "gameNumber": 1,
         "gameType": "D",
         "home": false,
         "loser": "",
-        "opponent": "HOU/CWS",
+        "opponent": "White Sox",
         "opponentProbable": "",
         "probable": "",
         "result": null,
@@ -820,18 +820,18 @@
         "startTime": "2026-10-07T07:33:00Z",
         "startTimeTBD": true,
         "status": "Preview",
-        "venue": "AL Stadium",
+        "venue": "Rate Field",
         "winner": ""
       },
       {
-        "abbreviation": "HOU/CWS",
+        "abbreviation": "CWS",
         "date": "2026-10-08",
         "detail": "Scheduled",
         "gameNumber": 1,
         "gameType": "D",
         "home": false,
         "loser": "",
-        "opponent": "HOU/CWS",
+        "opponent": "White Sox",
         "opponentProbable": "",
         "probable": "",
         "result": null,
@@ -841,18 +841,18 @@
         "startTime": "2026-10-08T07:33:00Z",
         "startTimeTBD": true,
         "status": "Preview",
-        "venue": "AL Stadium",
+        "venue": "Rate Field",
         "winner": ""
       },
       {
-        "abbreviation": "HOU/CWS",
+        "abbreviation": "CWS",
         "date": "2026-10-10",
         "detail": "Scheduled",
         "gameNumber": 1,
         "gameType": "D",
         "home": true,
         "loser": "",
-        "opponent": "HOU/CWS",
+        "opponent": "White Sox",
         "opponentProbable": "",
         "probable": "",
         "result": null,
