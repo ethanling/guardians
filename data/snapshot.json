@@ -28,7 +28,7 @@
       }
     ]
   },
-  "generatedAt": "2026-10-01T23:53:39Z",
+  "generatedAt": "2026-10-02T05:40:39Z",
   "headlines": [
     {
       "author": "Tim Stebbins",
@@ -39,20 +39,28 @@
       "url": "https://www.mlb.com/guardians/news/parker-messick-gavin-williams-to-start-alds-games-1-and-2-for-guardians"
     },
     {
+      "author": "Tim Stebbins and Scott Merkin",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/svymqoxjslogirfzshri",
+      "published": "Fri, 02 Oct 2026 04:43:15 GMT",
+      "source": "MLB.com",
+      "title": "Here's how the pitching might line up for the White Sox-Guardians ALDS",
+      "url": "https://www.mlb.com/guardians/news/white-sox-guardians-pitching-matchups-for-2026-alds"
+    },
+    {
+      "author": "Tim Stebbins",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uwwoiodjgwinxbz3cefr",
+      "published": "Fri, 02 Oct 2026 00:19:00 GMT",
+      "source": "MLB.com",
+      "title": "Postseason FAQ: What's next for the Guardians?",
+      "url": "https://www.mlb.com/guardians/news/guardians-2026-postseason-faq"
+    },
+    {
       "author": "Tim Stebbins",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zvp6ntj3xd7bdiecjusw",
       "published": "Thu, 01 Oct 2026 20:46:44 GMT",
       "source": "MLB.com",
       "title": "Holderman sidelined for postseason due to upcoming right wrist surgery",
       "url": "https://www.mlb.com/guardians/news/colin-holderman-season-ending-wrist-injury-guardians-alds"
-    },
-    {
-      "author": "Tim Stebbins",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uwwoiodjgwinxbz3cefr",
-      "published": "Thu, 01 Oct 2026 01:00:00 GMT",
-      "source": "MLB.com",
-      "title": "Postseason FAQ: What's next for the Guardians?",
-      "url": "https://www.mlb.com/guardians/news/guardians-2026-postseason-faq"
     },
     {
       "author": "",
@@ -69,14 +77,6 @@
       "source": "MLB.com",
       "title": "How Guards are spending bye week, rotation plans & more",
       "url": "https://www.mlb.com/guardians/news/guardians-balance-rest-potential-rust-during-bye-week-before-alds"
-    },
-    {
-      "author": "Scott Merkin and Tim Stebbins",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790879469/mlb/lwu89cbppyaygsfnld56",
-      "published": "Thu, 01 Oct 2026 21:32:00 GMT",
-      "source": "MLB.com",
-      "title": "White Sox-Guardians AL Division Series Game 1 FAQ (Sat., 1 p.m. ET, TBS/HBO Max)",
-      "url": "https://www.mlb.com/guardians/news/white-sox-vs-guardians-alds-game-1-starting-lineups-pitching-matchup-2026"
     }
   ],
   "heroLine": "85\u201377.",
