@@ -28,7 +28,7 @@
       }
     ]
   },
-  "generatedAt": "2026-10-02T18:26:19Z",
+  "generatedAt": "2026-10-02T22:58:53Z",
   "headlines": [
     {
       "author": "Anthony Castrovince",
@@ -39,12 +39,12 @@
       "url": "https://www.mlb.com/guardians/news/why-the-white-sox-guardians-alds-matchup-is-must-watch"
     },
     {
-      "author": "Tim Stebbins",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dhlyc0cws83rlminaomo",
-      "published": "Thu, 01 Oct 2026 20:05:00 GMT",
+      "author": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790977608/mlb/kbes5xe4v8rvchojwd9u",
+      "published": "Fri, 02 Oct 2026 22:01:43 GMT",
       "source": "MLB.com",
-      "title": "Guards tab star rookie Messick, AL strikeout king Williams for ALDS Games 1-2",
-      "url": "https://www.mlb.com/guardians/news/parker-messick-gavin-williams-to-start-alds-games-1-and-2-for-guardians"
+      "title": "From watching October in Australia to starring in it, Bazzana comes full circle",
+      "url": "https://www.mlb.com/guardians/news/travis-bazzana-reflects-on-journey-from-australia-to-mlb-postseason-with-guardians"
     },
     {
       "author": "Tim Stebbins",
@@ -55,28 +55,28 @@
       "url": "https://www.mlb.com/guardians/news/guardians-2026-postseason-faq"
     },
     {
+      "author": "Tim Stebbins",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dhlyc0cws83rlminaomo",
+      "published": "Thu, 01 Oct 2026 20:05:00 GMT",
+      "source": "MLB.com",
+      "title": "Guards tab star rookie Messick, AL strikeout king Williams for ALDS Games 1-2",
+      "url": "https://www.mlb.com/guardians/news/parker-messick-gavin-williams-to-start-alds-games-1-and-2-for-guardians"
+    },
+    {
       "author": "Tim Stebbins and Scott Merkin",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/svymqoxjslogirfzshri",
-      "published": "Fri, 02 Oct 2026 04:43:15 GMT",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790980255/mlb/svymqoxjslogirfzshri",
+      "published": "Fri, 02 Oct 2026 22:21:00 GMT",
       "source": "MLB.com",
       "title": "Here's how the pitching might line up for the White Sox-Guardians ALDS",
       "url": "https://www.mlb.com/guardians/news/white-sox-guardians-pitching-matchups-for-2026-alds"
     },
     {
-      "author": "Sam Dykstra",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wn1kr40sxpibh3ksar1s",
-      "published": "Fri, 02 Oct 2026 13:51:44 GMT",
+      "author": "Scott Merkin and Tim Stebbins",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790879469/mlb/lwu89cbppyaygsfnld56",
+      "published": "Fri, 02 Oct 2026 19:30:00 GMT",
       "source": "MLB.com",
-      "title": "The final Top 100 Prospects list of the year has a new look",
-      "url": "https://www.mlb.com/guardians/news/updated-top-100-prospects-list-october-2026"
-    },
-    {
-      "author": "Anthony Castrovince",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790878056/mlb/zbo0bfbik6utjfjzcaww",
-      "published": "Fri, 02 Oct 2026 06:07:23 GMT",
-      "source": "MLB.com",
-      "title": "White Sox-Guardians position-by-position breakdown",
-      "url": "https://www.mlb.com/guardians/news/white-sox-guardians-alds-position-by-position-breakdown"
+      "title": "White Sox-Guardians ALDS Game 1 FAQ (Sat., 1 p.m. ET, TBS/HBO Max)",
+      "url": "https://www.mlb.com/guardians/news/white-sox-vs-guardians-alds-game-1-starting-lineups-pitching-matchup-2026"
     }
   ],
   "heroLine": "85\u201377.",
@@ -769,7 +769,7 @@
         "home": true,
         "loser": "",
         "opponent": "White Sox",
-        "opponentProbable": "",
+        "opponentProbable": "Hagen Smith",
         "probable": "Parker Messick",
         "result": null,
         "save": "",
