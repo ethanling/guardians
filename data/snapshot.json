@@ -28,7 +28,7 @@
       }
     ]
   },
-  "generatedAt": "2026-10-03T01:59:56Z",
+  "generatedAt": "2026-10-03T08:08:47Z",
   "headlines": [
     {
       "author": "Anthony Castrovince",
@@ -48,11 +48,19 @@
     },
     {
       "author": "Scott Merkin and Tim Stebbins",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790879469/mlb/lwu89cbppyaygsfnld56",
-      "published": "Fri, 02 Oct 2026 23:08:00 GMT",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790999796/mlb/lwu89cbppyaygsfnld56",
+      "published": "Sat, 03 Oct 2026 04:20:00 GMT",
       "source": "MLB.com",
-      "title": "White Sox-Guardians ALDS Game 1 FAQ (Sat., 1 p.m. ET, TBS/HBO Max)",
+      "title": "White Sox-Guardians ALDS Game 1 FAQ (1 p.m. ET, TBS/HBO Max)",
       "url": "https://www.mlb.com/guardians/news/white-sox-vs-guardians-alds-game-1-starting-lineups-pitching-matchup-2026"
+    },
+    {
+      "author": "Manny Randhawa",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fcwxt6ljlmw0tufpwbvq",
+      "published": "Sat, 03 Oct 2026 02:17:54 GMT",
+      "source": "MLB.com",
+      "title": "Who wins each Division Series? Here are our picks",
+      "url": "https://www.mlb.com/guardians/news/2026-mlb-division-series-predictions"
     },
     {
       "author": "Tim Stebbins",
@@ -69,14 +77,6 @@
       "source": "MLB.com",
       "title": "Guards tab star rookie Messick, AL strikeout king Williams for ALDS Games 1-2",
       "url": "https://www.mlb.com/guardians/news/parker-messick-gavin-williams-to-start-alds-games-1-and-2-for-guardians"
-    },
-    {
-      "author": "Tim Stebbins and Scott Merkin",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790980255/mlb/svymqoxjslogirfzshri",
-      "published": "Fri, 02 Oct 2026 22:21:00 GMT",
-      "source": "MLB.com",
-      "title": "Here's how the pitching might line up for the White Sox-Guardians ALDS",
-      "url": "https://www.mlb.com/guardians/news/white-sox-guardians-pitching-matchups-for-2026-alds"
     }
   ],
   "heroLine": "85\u201377.",
