@@ -28,15 +28,23 @@
       }
     ]
   },
-  "generatedAt": "2026-10-03T17:57:55Z",
+  "generatedAt": "2026-10-03T21:18:21Z",
   "headlines": [
     {
-      "author": "Scott Merkin and Tim Stebbins",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790999796/mlb/lwu89cbppyaygsfnld56",
-      "published": "Sat, 03 Oct 2026 16:44:00 GMT",
+      "author": "Tim Stebbins",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ljdrsdqfamv0seithpwm",
+      "published": "Sat, 03 Oct 2026 20:10:41 GMT",
       "source": "MLB.com",
-      "title": "White Sox-Guardians ALDS Game 1 (LIVE on TBS/HBO Max)",
-      "url": "https://www.mlb.com/guardians/news/white-sox-vs-guardians-alds-game-1-starting-lineups-pitching-matchup-2026"
+      "title": "After weeklong wait, Guardians' bats come out cold in Game 1",
+      "url": "https://www.mlb.com/guardians/news/guardians-shut-out-white-sox-alds-game-1-loss-2026"
+    },
+    {
+      "author": "Mart\u00edn Gallegos",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/djozn9ayzelviay1g7t4",
+      "published": "Sat, 03 Oct 2026 20:27:00 GMT",
+      "source": "MLB.com",
+      "title": "Mart\u00ednez's leaping grab was only HALF of this ridiculous play",
+      "url": "https://www.mlb.com/guardians/news/angel-martinez-leaping-catch-double-play-guardians-alds"
     },
     {
       "author": "Tim Stebbins",
@@ -69,14 +77,6 @@
       "source": "MLB.com",
       "title": "Who wins each Division Series? Here are our picks",
       "url": "https://www.mlb.com/guardians/news/2026-mlb-division-series-predictions"
-    },
-    {
-      "author": "Tim Stebbins",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/b9zsp5m2pxrsi2jigrjc",
-      "published": "Sat, 03 Oct 2026 00:32:59 GMT",
-      "source": "MLB.com",
-      "title": "Guards' biggest weapon this October just might be their young lockdown closer",
-      "url": "https://www.mlb.com/guardians/news/cade-smith-2026-alds-guardians-star-closer"
     }
   ],
   "heroLine": "85\u201377.",
@@ -591,6 +591,27 @@
   "schedule": {
     "recent": [
       {
+        "abbreviation": "CWS",
+        "date": "2026-10-03",
+        "detail": "Final",
+        "gameNumber": 1,
+        "gameType": "D",
+        "home": true,
+        "loser": "Parker Messick",
+        "opponent": "White Sox",
+        "opponentProbable": "Hagen Smith",
+        "probable": "Parker Messick",
+        "result": "L",
+        "save": "Grant Taylor",
+        "score": "0\u20133",
+        "series": "Division Series",
+        "startTime": "2026-10-03T17:00:00Z",
+        "startTimeTBD": false,
+        "status": "Final",
+        "venue": "Progressive Field",
+        "winner": "Bryan Hudson"
+      },
+      {
         "abbreviation": "KC",
         "date": "2026-09-27",
         "detail": "Final",
@@ -736,51 +757,9 @@
         "status": "Final",
         "venue": "Progressive Field",
         "winner": "Gavin Williams"
-      },
-      {
-        "abbreviation": "ATH",
-        "date": "2026-09-19",
-        "detail": "Final",
-        "gameNumber": 1,
-        "gameType": "R",
-        "home": true,
-        "loser": "Jacob Lopez",
-        "opponent": "Athletics",
-        "opponentProbable": "Jacob Lopez",
-        "probable": "Tanner Bibee",
-        "result": "W",
-        "save": "",
-        "score": "12\u20136",
-        "series": "",
-        "startTime": "2026-09-19T22:10:00Z",
-        "startTimeTBD": false,
-        "status": "Final",
-        "venue": "Progressive Field",
-        "winner": "Slade Cecconi"
       }
     ],
     "upcoming": [
-      {
-        "abbreviation": "CWS",
-        "date": "2026-10-03",
-        "detail": "In Progress",
-        "gameNumber": 1,
-        "gameType": "D",
-        "home": true,
-        "loser": "",
-        "opponent": "White Sox",
-        "opponentProbable": "Hagen Smith",
-        "probable": "Parker Messick",
-        "result": null,
-        "save": "",
-        "score": "0\u20130",
-        "series": "Division Series",
-        "startTime": "2026-10-03T17:00:00Z",
-        "startTimeTBD": false,
-        "status": "Live",
-        "venue": "Progressive Field",
-        "winner": ""
-      },
       {
         "abbreviation": "CWS",
         "date": "2026-10-05",
