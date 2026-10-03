@@ -28,8 +28,24 @@
       }
     ]
   },
-  "generatedAt": "2026-10-03T08:08:47Z",
+  "generatedAt": "2026-10-03T17:57:55Z",
   "headlines": [
+    {
+      "author": "Scott Merkin and Tim Stebbins",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790999796/mlb/lwu89cbppyaygsfnld56",
+      "published": "Sat, 03 Oct 2026 16:44:00 GMT",
+      "source": "MLB.com",
+      "title": "White Sox-Guardians ALDS Game 1 (LIVE on TBS/HBO Max)",
+      "url": "https://www.mlb.com/guardians/news/white-sox-vs-guardians-alds-game-1-starting-lineups-pitching-matchup-2026"
+    },
+    {
+      "author": "Tim Stebbins",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/g281wpmiyopjeay8jyik",
+      "published": "Sat, 03 Oct 2026 16:20:00 GMT",
+      "source": "MLB.com",
+      "title": "Guardians announce ALDS roster; Hoskins, Cecconi odd men out",
+      "url": "https://www.mlb.com/guardians/news/guardians-2026-al-division-series-roster"
+    },
     {
       "author": "Anthony Castrovince",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lvdguxrnahumtpamm7um",
@@ -47,14 +63,6 @@
       "url": "https://www.mlb.com/guardians/news/travis-bazzana-reflects-on-journey-from-australia-to-mlb-postseason-with-guardians"
     },
     {
-      "author": "Scott Merkin and Tim Stebbins",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1790999796/mlb/lwu89cbppyaygsfnld56",
-      "published": "Sat, 03 Oct 2026 04:20:00 GMT",
-      "source": "MLB.com",
-      "title": "White Sox-Guardians ALDS Game 1 FAQ (1 p.m. ET, TBS/HBO Max)",
-      "url": "https://www.mlb.com/guardians/news/white-sox-vs-guardians-alds-game-1-starting-lineups-pitching-matchup-2026"
-    },
-    {
       "author": "Manny Randhawa",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fcwxt6ljlmw0tufpwbvq",
       "published": "Sat, 03 Oct 2026 02:17:54 GMT",
@@ -69,14 +77,6 @@
       "source": "MLB.com",
       "title": "Guards' biggest weapon this October just might be their young lockdown closer",
       "url": "https://www.mlb.com/guardians/news/cade-smith-2026-alds-guardians-star-closer"
-    },
-    {
-      "author": "Tim Stebbins",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dhlyc0cws83rlminaomo",
-      "published": "Thu, 01 Oct 2026 20:05:00 GMT",
-      "source": "MLB.com",
-      "title": "Guards tab star rookie Messick, AL strikeout king Williams for ALDS Games 1-2",
-      "url": "https://www.mlb.com/guardians/news/parker-messick-gavin-williams-to-start-alds-games-1-and-2-for-guardians"
     }
   ],
   "heroLine": "85\u201377.",
@@ -763,7 +763,7 @@
       {
         "abbreviation": "CWS",
         "date": "2026-10-03",
-        "detail": "Scheduled",
+        "detail": "In Progress",
         "gameNumber": 1,
         "gameType": "D",
         "home": true,
@@ -773,11 +773,11 @@
         "probable": "Parker Messick",
         "result": null,
         "save": "",
-        "score": null,
+        "score": "0\u20130",
         "series": "Division Series",
         "startTime": "2026-10-03T17:00:00Z",
         "startTimeTBD": false,
-        "status": "Preview",
+        "status": "Live",
         "venue": "Progressive Field",
         "winner": ""
       },
