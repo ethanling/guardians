@@ -28,7 +28,7 @@
       }
     ]
   },
-  "generatedAt": "2026-10-04T00:39:53Z",
+  "generatedAt": "2026-10-04T17:36:24Z",
   "headlines": [
     {
       "author": "Tim Stebbins",
@@ -55,6 +55,14 @@
       "url": "https://www.mlb.com/guardians/news/parker-messick-postseason-debut-guardians-white-sox"
     },
     {
+      "author": "Anthony Castrovince",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/e9jkqux3cmokqyp5jfpb",
+      "published": "Sun, 04 Oct 2026 17:29:46 GMT",
+      "source": "MLB.com",
+      "title": "How these ALDS teams spawned the American League",
+      "url": "https://www.mlb.com/guardians/news/how-chicago-cleveland-helped-form-the-american-league"
+    },
+    {
       "author": "Tim Stebbins",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/g281wpmiyopjeay8jyik",
       "published": "Sat, 03 Oct 2026 16:20:00 GMT",
@@ -69,14 +77,6 @@
       "source": "MLB.com",
       "title": "White Sox-Guardians ALDS Game 2 FAQ (Mon., 5 ET, TBS/HBO Max)",
       "url": "https://www.mlb.com/guardians/news/white-sox-vs-guardians-alds-game-2-starting-lineups-and-pitching-matchup"
-    },
-    {
-      "author": "Anthony Castrovince",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lvdguxrnahumtpamm7um",
-      "published": "Fri, 02 Oct 2026 11:13:47 GMT",
-      "source": "MLB.com",
-      "title": "5 reasons the White Sox-Guardians ALDS matchup will be a must-watch clash",
-      "url": "https://www.mlb.com/guardians/news/why-the-white-sox-guardians-alds-matchup-is-must-watch"
     }
   ],
   "heroLine": "85\u201377.",
@@ -769,7 +769,7 @@
         "home": true,
         "loser": "",
         "opponent": "White Sox",
-        "opponentProbable": "",
+        "opponentProbable": "Anthony Kay",
         "probable": "Gavin Williams",
         "result": null,
         "save": "",
