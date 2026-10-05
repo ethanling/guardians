@@ -28,12 +28,28 @@
       }
     ]
   },
-  "generatedAt": "2026-10-04T21:28:15Z",
+  "generatedAt": "2026-10-05T00:57:02Z",
   "headlines": [
+    {
+      "author": "Tim Stebbins",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cnmha079xme2v5nfxtwf",
+      "published": "Sun, 04 Oct 2026 22:49:32 GMT",
+      "source": "MLB.com",
+      "title": "You've already seen his glove, but this player's bat may be key to Guards' rally",
+      "url": "https://www.mlb.com/guardians/news/angel-martinez-could-be-x-factor-for-guardians-in-alds"
+    },
+    {
+      "author": "Mart\u00edn Gallegos",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/hrsfitnyyt9svocwubic",
+      "published": "Sun, 04 Oct 2026 22:08:58 GMT",
+      "source": "MLB.com",
+      "title": "Rocctober isn't a coincidence -- Rocchio's grown into a great ballplayer",
+      "url": "https://www.mlb.com/guardians/news/brayan-rocchio-growth-from-prospect-to-guardians-postseason-hero"
+    },
     {
       "author": "Scott Merkin and Tim Stebbins",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ku3gyzaqozqxobutediu",
-      "published": "Sun, 04 Oct 2026 17:26:00 GMT",
+      "published": "Sun, 04 Oct 2026 22:09:00 GMT",
       "source": "MLB.com",
       "title": "White Sox-Guardians ALDS Game 2 FAQ (Mon., 5 ET, TBS/HBO Max)",
       "url": "https://www.mlb.com/guardians/news/white-sox-vs-guardians-alds-game-2-starting-lineups-and-pitching-matchup"
@@ -55,28 +71,12 @@
       "url": "https://www.mlb.com/guardians/news/guardians-shut-out-white-sox-alds-game-1-loss-2026"
     },
     {
-      "author": "Mart\u00edn Gallegos",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/djozn9ayzelviay1g7t4",
-      "published": "Sat, 03 Oct 2026 22:08:00 GMT",
+      "author": "Ben Weinrib",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/t3xdgt1mpuldwi6mkfrr",
+      "published": "Sun, 04 Oct 2026 23:52:00 GMT",
       "source": "MLB.com",
-      "title": "Mart\u00ednez's leaping grab was only HALF of this ridiculous play",
-      "url": "https://www.mlb.com/guardians/news/angel-martinez-leaping-catch-double-play-guardians-alds"
-    },
-    {
-      "author": "Mart\u00edn Gallegos",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/crpssqk3mqotnmvf1p1n",
-      "published": "Sat, 03 Oct 2026 23:23:27 GMT",
-      "source": "MLB.com",
-      "title": "Messick's stuff plays in October, even if Game 1 result doesn't",
-      "url": "https://www.mlb.com/guardians/news/parker-messick-postseason-debut-guardians-white-sox"
-    },
-    {
-      "author": "Tim Stebbins",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/g281wpmiyopjeay8jyik",
-      "published": "Sat, 03 Oct 2026 16:20:00 GMT",
-      "source": "MLB.com",
-      "title": "Guardians announce ALDS roster; Hoskins, Cecconi odd men out",
-      "url": "https://www.mlb.com/guardians/news/guardians-2026-al-division-series-roster"
+      "title": "LIVE: Watch Guardians prospects in Arizona Fall League action",
+      "url": "https://www.mlb.com/guardians/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026"
     }
   ],
   "heroLine": "85\u201377.",
