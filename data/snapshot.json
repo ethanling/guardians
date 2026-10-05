@@ -28,8 +28,16 @@
       }
     ]
   },
-  "generatedAt": "2026-10-05T07:05:18Z",
+  "generatedAt": "2026-10-05T22:39:13Z",
   "headlines": [
+    {
+      "author": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uswwfxijry90qakbmrwm",
+      "published": "Mon, 05 Oct 2026 22:27:59 GMT",
+      "source": "MLB.com",
+      "title": "Game 2 highlights: Guardians score two in the first inning",
+      "url": "https://www.mlb.com/stories/game/849834"
+    },
     {
       "author": "Tim Stebbins",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cnmha079xme2v5nfxtwf",
@@ -45,14 +53,6 @@
       "source": "MLB.com",
       "title": "Rocctober isn't a coincidence -- Rocchio's grown into a great ballplayer",
       "url": "https://www.mlb.com/guardians/news/brayan-rocchio-growth-from-prospect-to-guardians-postseason-hero"
-    },
-    {
-      "author": "Scott Merkin and Tim Stebbins",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ku3gyzaqozqxobutediu",
-      "published": "Sun, 04 Oct 2026 22:09:00 GMT",
-      "source": "MLB.com",
-      "title": "White Sox-Guardians ALDS Game 2 FAQ (5 ET, TBS/HBO Max)",
-      "url": "https://www.mlb.com/guardians/news/white-sox-vs-guardians-alds-game-2-starting-lineups-and-pitching-matchup"
     },
     {
       "author": "Anthony Castrovince",
@@ -763,7 +763,7 @@
       {
         "abbreviation": "CWS",
         "date": "2026-10-05",
-        "detail": "Scheduled",
+        "detail": "In Progress",
         "gameNumber": 1,
         "gameType": "D",
         "home": true,
@@ -773,11 +773,11 @@
         "probable": "Gavin Williams",
         "result": null,
         "save": "",
-        "score": null,
+        "score": "2\u20131",
         "series": "Division Series",
         "startTime": "2026-10-05T21:00:00Z",
         "startTimeTBD": false,
-        "status": "Preview",
+        "status": "Live",
         "venue": "Progressive Field",
         "winner": ""
       },
