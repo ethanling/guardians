@@ -28,23 +28,31 @@
       }
     ]
   },
-  "generatedAt": "2026-10-06T03:00:25Z",
+  "generatedAt": "2026-10-06T10:21:25Z",
   "headlines": [
     {
       "author": "Tim Stebbins",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zshd6bmnlrfgmrjrnfzd",
-      "published": "Tue, 06 Oct 2026 00:34:15 GMT",
+      "published": "Tue, 06 Oct 2026 03:05:00 GMT",
       "source": "MLB.com",
       "title": "Seven hits, three runs, no ALDS answers: Guardians pushed to the brink",
       "url": "https://www.mlb.com/guardians/news/guardians-offense-alds-game-2-white-sox-2026"
     },
     {
-      "author": "Tim Stebbins",
+      "author": "Tim Stebbins and Mart\u00edn Gallegos",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uswwfxijry90qakbmrwm",
-      "published": "Tue, 06 Oct 2026 00:37:00 GMT",
+      "published": "Tue, 06 Oct 2026 03:33:00 GMT",
       "source": "MLB.com",
-      "title": "Heat check: Williams makes history with 11-K fireballing show",
+      "title": "Why Vogt pulled a dominant Williams -- and why the decision will be debated",
       "url": "https://www.mlb.com/guardians/news/gavin-williams-11-strikeouts-100-mph-alds-2026"
+    },
+    {
+      "author": "Scott Merkin and Tim Stebbins",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mkruusttzyumvembb9jw",
+      "published": "Tue, 06 Oct 2026 03:41:28 GMT",
+      "source": "MLB.com",
+      "title": "Guardians-White Sox ALDS Game 3 FAQ (Wed., 4 ET, TBS/HBO Max)",
+      "url": "https://www.mlb.com/guardians/news/guardians-vs-white-sox-alds-game-3-starting-lineups-and-pitching-matchup"
     },
     {
       "author": "Tim Stebbins",
@@ -69,14 +77,6 @@
       "source": "MLB.com",
       "title": "How these ALDS teams spawned the American League",
       "url": "https://www.mlb.com/guardians/news/how-chicago-cleveland-helped-form-the-american-league"
-    },
-    {
-      "author": "Tim Stebbins",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ljdrsdqfamv0seithpwm",
-      "published": "Sat, 03 Oct 2026 22:41:00 GMT",
-      "source": "MLB.com",
-      "title": "After weeklong wait, Guardians' bats come out cold in Game 1",
-      "url": "https://www.mlb.com/guardians/news/guardians-shut-out-white-sox-alds-game-1-loss-2026"
     }
   ],
   "heroLine": "85\u201377.",
