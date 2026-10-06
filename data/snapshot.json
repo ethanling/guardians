@@ -28,7 +28,7 @@
       }
     ]
   },
-  "generatedAt": "2026-10-06T10:21:25Z",
+  "generatedAt": "2026-10-06T17:12:45Z",
   "headlines": [
     {
       "author": "Tim Stebbins",
@@ -45,6 +45,14 @@
       "source": "MLB.com",
       "title": "Why Vogt pulled a dominant Williams -- and why the decision will be debated",
       "url": "https://www.mlb.com/guardians/news/gavin-williams-11-strikeouts-100-mph-alds-2026"
+    },
+    {
+      "author": "Mandy Bell",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bwr9gf0tl6dxhictmvye",
+      "published": "Tue, 06 Oct 2026 15:02:00 GMT",
+      "source": "MLB.com",
+      "title": "Sam McDowell, six-time All-Star and B.A.T. advocate, passes away",
+      "url": "https://www.mlb.com/guardians/news/sam-mcdowell-dies-at-84"
     },
     {
       "author": "Scott Merkin and Tim Stebbins",
@@ -69,14 +77,6 @@
       "source": "MLB.com",
       "title": "Rocctober isn't a coincidence -- Rocchio's grown into a great ballplayer",
       "url": "https://www.mlb.com/guardians/news/brayan-rocchio-growth-from-prospect-to-guardians-postseason-hero"
-    },
-    {
-      "author": "Anthony Castrovince",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/hhbfgpsubb8t2pxpxyhx",
-      "published": "Sun, 04 Oct 2026 17:29:46 GMT",
-      "source": "MLB.com",
-      "title": "How these ALDS teams spawned the American League",
-      "url": "https://www.mlb.com/guardians/news/how-chicago-cleveland-helped-form-the-american-league"
     }
   ],
   "heroLine": "85\u201377.",
