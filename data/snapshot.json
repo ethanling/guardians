@@ -28,8 +28,24 @@
       }
     ]
   },
-  "generatedAt": "2026-10-06T21:39:12Z",
+  "generatedAt": "2026-10-07T01:33:58Z",
   "headlines": [
+    {
+      "author": "Mart\u00edn Gallegos",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/hktbcfuduxu7l42julzt",
+      "published": "Wed, 07 Oct 2026 00:37:29 GMT",
+      "source": "MLB.com",
+      "title": "J-Ram says wrist pain is 'no excuse' as he seeks signature playoff moment",
+      "url": "https://www.mlb.com/guardians/news/jose-ramirez-struggling-for-guardians-2026-alds"
+    },
+    {
+      "author": "Tim Stebbins",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lcivry1hz1rj4gsjqab6",
+      "published": "Wed, 07 Oct 2026 00:19:56 GMT",
+      "source": "MLB.com",
+      "title": "Espino's incredible journey to Majors has him as must-win Game 3 starter",
+      "url": "https://www.mlb.com/guardians/news/daniel-espino-to-start-game-3-for-guardians-in-alds"
+    },
     {
       "author": "Tim Stebbins",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zshd6bmnlrfgmrjrnfzd",
@@ -57,26 +73,10 @@
     {
       "author": "Scott Merkin and Tim Stebbins",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mkruusttzyumvembb9jw",
-      "published": "Tue, 06 Oct 2026 19:34:00 GMT",
+      "published": "Wed, 07 Oct 2026 00:34:00 GMT",
       "source": "MLB.com",
       "title": "Guardians-White Sox ALDS Game 3 FAQ (Wed., 4 ET, TBS/HBO Max)",
       "url": "https://www.mlb.com/guardians/news/guardians-vs-white-sox-alds-game-3-starting-lineups-and-pitching-matchup"
-    },
-    {
-      "author": "Tim Stebbins",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cnmha079xme2v5nfxtwf",
-      "published": "Sun, 04 Oct 2026 22:49:32 GMT",
-      "source": "MLB.com",
-      "title": "You've already seen his glove, but this player's bat may be key to Guards' rally",
-      "url": "https://www.mlb.com/guardians/news/angel-martinez-could-be-x-factor-for-guardians-in-alds"
-    },
-    {
-      "author": "Mart\u00edn Gallegos",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/hrsfitnyyt9svocwubic",
-      "published": "Sun, 04 Oct 2026 22:08:58 GMT",
-      "source": "MLB.com",
-      "title": "Rocctober isn't a coincidence -- Rocchio's grown into a great ballplayer",
-      "url": "https://www.mlb.com/guardians/news/brayan-rocchio-growth-from-prospect-to-guardians-postseason-hero"
     }
   ],
   "heroLine": "85\u201377.",
