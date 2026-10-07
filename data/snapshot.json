@@ -28,8 +28,16 @@
       }
     ]
   },
-  "generatedAt": "2026-10-07T16:31:13Z",
+  "generatedAt": "2026-10-07T21:59:59Z",
   "headlines": [
+    {
+      "author": "Tim Stebbins",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qyou3nq0elstgzsmydm9",
+      "published": "Wed, 07 Oct 2026 21:44:45 GMT",
+      "source": "MLB.com",
+      "title": "Wake-up call! Adell's bases-clearing triple jolts Guardians' bats",
+      "url": "https://www.mlb.com/guardians/news/jo-adell-bases-clearing-triple-guardians-alds-game-3-2026"
+    },
     {
       "author": "Tim Stebbins",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/u5ukewzb8b5kvb4xxqwv",
@@ -37,14 +45,6 @@
       "source": "MLB.com",
       "title": "Guardians must turn on power, lean on stars in Game 3",
       "url": "https://www.mlb.com/guardians/news/keys-for-guardians-to-win-game-3-extend-series"
-    },
-    {
-      "author": "Scott Merkin and Tim Stebbins",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mkruusttzyumvembb9jw",
-      "published": "Wed, 07 Oct 2026 16:12:00 GMT",
-      "source": "MLB.com",
-      "title": "Guardians-White Sox ALDS Game 3 FAQ, lineups (4 ET, TBS/HBO Max)",
-      "url": "https://www.mlb.com/guardians/news/guardians-vs-white-sox-alds-game-3-starting-lineups-and-pitching-matchup"
     },
     {
       "author": "Mart\u00edn Gallegos",
@@ -763,7 +763,7 @@
       {
         "abbreviation": "CWS",
         "date": "2026-10-07",
-        "detail": "Pre-Game",
+        "detail": "In Progress",
         "gameNumber": 1,
         "gameType": "D",
         "home": false,
@@ -773,11 +773,11 @@
         "probable": "Daniel Espino",
         "result": null,
         "save": "",
-        "score": null,
+        "score": "5\u20132",
         "series": "Division Series",
         "startTime": "2026-10-07T20:00:00Z",
         "startTimeTBD": false,
-        "status": "Preview",
+        "status": "Live",
         "venue": "Rate Field",
         "winner": ""
       },
