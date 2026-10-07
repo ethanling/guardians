@@ -28,8 +28,16 @@
       }
     ]
   },
-  "generatedAt": "2026-10-07T01:33:58Z",
+  "generatedAt": "2026-10-07T08:41:53Z",
   "headlines": [
+    {
+      "author": "Tim Stebbins",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/u5ukewzb8b5kvb4xxqwv",
+      "published": "Wed, 07 Oct 2026 02:01:12 GMT",
+      "source": "MLB.com",
+      "title": "Guardians must turn on power, lean on stars in Game 3",
+      "url": "https://www.mlb.com/guardians/news/keys-for-guardians-to-win-game-3-extend-series"
+    },
     {
       "author": "Mart\u00edn Gallegos",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/hktbcfuduxu7l42julzt",
@@ -69,14 +77,6 @@
       "source": "MLB.com",
       "title": "Sam McDowell, six-time All-Star and B.A.T. advocate, passes away",
       "url": "https://www.mlb.com/guardians/news/sam-mcdowell-dies-at-84"
-    },
-    {
-      "author": "Scott Merkin and Tim Stebbins",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mkruusttzyumvembb9jw",
-      "published": "Wed, 07 Oct 2026 00:34:00 GMT",
-      "source": "MLB.com",
-      "title": "Guardians-White Sox ALDS Game 3 FAQ (Wed., 4 ET, TBS/HBO Max)",
-      "url": "https://www.mlb.com/guardians/news/guardians-vs-white-sox-alds-game-3-starting-lineups-and-pitching-matchup"
     }
   ],
   "heroLine": "85\u201377.",
