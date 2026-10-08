@@ -28,23 +28,39 @@
       }
     ]
   },
-  "generatedAt": "2026-10-07T21:59:59Z",
+  "generatedAt": "2026-10-08T01:57:17Z",
   "headlines": [
     {
       "author": "Tim Stebbins",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791417322/mlb/ecdkklese7h6ov7tikit",
+      "published": "Wed, 07 Oct 2026 23:45:00 GMT",
+      "source": "MLB.com",
+      "title": "J-Ram shows off all his tools as Guardians refuse to go quietly",
+      "url": "https://www.mlb.com/guardians/news/jose-ramirez-records-double-stolen-base-makes-diving-play-in-alds-game-3-2026"
+    },
+    {
+      "author": "Tim Stebbins",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qyou3nq0elstgzsmydm9",
-      "published": "Wed, 07 Oct 2026 21:44:45 GMT",
+      "published": "Wed, 07 Oct 2026 23:29:00 GMT",
       "source": "MLB.com",
       "title": "Wake-up call! Adell's bases-clearing triple jolts Guardians' bats",
       "url": "https://www.mlb.com/guardians/news/jo-adell-bases-clearing-triple-guardians-alds-game-3-2026"
     },
     {
-      "author": "Tim Stebbins",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/u5ukewzb8b5kvb4xxqwv",
-      "published": "Wed, 07 Oct 2026 02:01:12 GMT",
+      "author": "Jackson Stone",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tsojmqoqfumxw3n29nom",
+      "published": "Thu, 08 Oct 2026 01:54:19 GMT",
       "source": "MLB.com",
-      "title": "Guardians must turn on power, lean on stars in Game 3",
-      "url": "https://www.mlb.com/guardians/news/keys-for-guardians-to-win-game-3-extend-series"
+      "title": "Globe-trotting Griffin delivers 7-K gem when Guardians need it most",
+      "url": "https://www.mlb.com/guardians/news/foster-griffin-sets-guardians-postseason-relief-strikeout-record-in-alds-game-3"
+    },
+    {
+      "author": "Jim Callis, Sam Dykstra and Jonathan Mayo",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ifgmxamghoh4f7uslruu",
+      "published": "Wed, 07 Oct 2026 23:55:00 GMT",
+      "source": "MLB.com",
+      "title": "Here are each organization's Prospects of the Year",
+      "url": "https://www.mlb.com/guardians/news/each-team-s-prospects-of-the-year-2026"
     },
     {
       "author": "Mart\u00edn Gallegos",
@@ -56,27 +72,11 @@
     },
     {
       "author": "Tim Stebbins",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lcivry1hz1rj4gsjqab6",
-      "published": "Wed, 07 Oct 2026 00:19:56 GMT",
-      "source": "MLB.com",
-      "title": "Espino's incredible journey to Majors has him as must-win Game 3 starter",
-      "url": "https://www.mlb.com/guardians/news/daniel-espino-to-start-game-3-for-guardians-in-alds"
-    },
-    {
-      "author": "Tim Stebbins",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zshd6bmnlrfgmrjrnfzd",
       "published": "Tue, 06 Oct 2026 03:05:00 GMT",
       "source": "MLB.com",
       "title": "Seven hits, three runs, no ALDS answers: Guardians pushed to the brink",
       "url": "https://www.mlb.com/guardians/news/guardians-offense-alds-game-2-white-sox-2026"
-    },
-    {
-      "author": "Tim Stebbins and Mart\u00edn Gallegos",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uswwfxijry90qakbmrwm",
-      "published": "Tue, 06 Oct 2026 03:33:00 GMT",
-      "source": "MLB.com",
-      "title": "Why Vogt pulled a dominant Williams -- and why the decision will be debated",
-      "url": "https://www.mlb.com/guardians/news/gavin-williams-11-strikeouts-100-mph-alds-2026"
     }
   ],
   "heroLine": "85\u201377.",
@@ -592,6 +592,27 @@
     "recent": [
       {
         "abbreviation": "CWS",
+        "date": "2026-10-07",
+        "detail": "Final",
+        "gameNumber": 1,
+        "gameType": "D",
+        "home": false,
+        "loser": "Bryan Hudson",
+        "opponent": "White Sox",
+        "opponentProbable": "Sean Newcomb",
+        "probable": "Daniel Espino",
+        "result": "W",
+        "save": "",
+        "score": "9\u20133",
+        "series": "Division Series",
+        "startTime": "2026-10-07T20:00:00Z",
+        "startTimeTBD": false,
+        "status": "Final",
+        "venue": "Rate Field",
+        "winner": "Foster Griffin"
+      },
+      {
+        "abbreviation": "CWS",
         "date": "2026-10-05",
         "detail": "Final",
         "gameNumber": 1,
@@ -736,51 +757,9 @@
         "status": "Final",
         "venue": "Fenway Park",
         "winner": "Sonny Gray"
-      },
-      {
-        "abbreviation": "BOS",
-        "date": "2026-09-22",
-        "detail": "Final",
-        "gameNumber": 1,
-        "gameType": "R",
-        "home": false,
-        "loser": "Erik Miller",
-        "opponent": "Red Sox",
-        "opponentProbable": "Payton Tolle",
-        "probable": "Parker Messick",
-        "result": "W",
-        "save": "Cade Smith",
-        "score": "3\u20132",
-        "series": "",
-        "startTime": "2026-09-22T22:45:00Z",
-        "startTimeTBD": false,
-        "status": "Final",
-        "venue": "Fenway Park",
-        "winner": "Hunter Gaddis"
       }
     ],
     "upcoming": [
-      {
-        "abbreviation": "CWS",
-        "date": "2026-10-07",
-        "detail": "In Progress",
-        "gameNumber": 1,
-        "gameType": "D",
-        "home": false,
-        "loser": "",
-        "opponent": "White Sox",
-        "opponentProbable": "Sean Newcomb",
-        "probable": "Daniel Espino",
-        "result": null,
-        "save": "",
-        "score": "5\u20132",
-        "series": "Division Series",
-        "startTime": "2026-10-07T20:00:00Z",
-        "startTimeTBD": false,
-        "status": "Live",
-        "venue": "Rate Field",
-        "winner": ""
-      },
       {
         "abbreviation": "CWS",
         "date": "2026-10-08",
