@@ -28,36 +28,44 @@
       }
     ]
   },
-  "generatedAt": "2026-10-08T01:57:17Z",
+  "generatedAt": "2026-10-08T09:00:32Z",
   "headlines": [
     {
       "author": "Tim Stebbins",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791417322/mlb/ecdkklese7h6ov7tikit",
-      "published": "Wed, 07 Oct 2026 23:45:00 GMT",
+      "published": "Thu, 08 Oct 2026 04:05:00 GMT",
       "source": "MLB.com",
       "title": "J-Ram shows off all his tools as Guardians refuse to go quietly",
       "url": "https://www.mlb.com/guardians/news/jose-ramirez-records-double-stolen-base-makes-diving-play-in-alds-game-3-2026"
     },
     {
-      "author": "Tim Stebbins",
+      "author": "Martin Gallegos",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qyou3nq0elstgzsmydm9",
-      "published": "Wed, 07 Oct 2026 23:29:00 GMT",
+      "published": "Thu, 08 Oct 2026 04:05:00 GMT",
       "source": "MLB.com",
-      "title": "Wake-up call! Adell's bases-clearing triple jolts Guardians' bats",
+      "title": "Deadline deal that keeps giving: Adell delivers clutch bases-clearing triple",
       "url": "https://www.mlb.com/guardians/news/jo-adell-bases-clearing-triple-guardians-alds-game-3-2026"
     },
     {
       "author": "Jackson Stone",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/tsojmqoqfumxw3n29nom",
-      "published": "Thu, 08 Oct 2026 01:54:19 GMT",
+      "published": "Thu, 08 Oct 2026 04:05:00 GMT",
       "source": "MLB.com",
       "title": "Globe-trotting Griffin delivers 7-K gem when Guardians need it most",
       "url": "https://www.mlb.com/guardians/news/foster-griffin-sets-guardians-postseason-relief-strikeout-record-in-alds-game-3"
     },
     {
-      "author": "Jim Callis, Sam Dykstra and Jonathan Mayo",
+      "author": "Tim Stebbins, Scott Merkin and Anthony Castrovince",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/f2thy81kyyqwhhvm6nlp",
+      "published": "Thu, 08 Oct 2026 04:04:48 GMT",
+      "source": "MLB.com",
+      "title": "Guardians-White Sox ALDS Game 4 FAQ (8 p.m. ET, TBS/HBO Max)",
+      "url": "https://www.mlb.com/guardians/news/guardians-vs-white-sox-alds-game-4-starting-lineups-and-pitching-matchup"
+    },
+    {
+      "author": "Jim Callis and Jonathan Mayo",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ifgmxamghoh4f7uslruu",
-      "published": "Wed, 07 Oct 2026 23:55:00 GMT",
+      "published": "Thu, 08 Oct 2026 02:21:00 GMT",
       "source": "MLB.com",
       "title": "Here are each organization's Prospects of the Year",
       "url": "https://www.mlb.com/guardians/news/each-team-s-prospects-of-the-year-2026"
@@ -69,14 +77,6 @@
       "source": "MLB.com",
       "title": "J-Ram says wrist pain is 'no excuse' as he seeks signature playoff moment",
       "url": "https://www.mlb.com/guardians/news/jose-ramirez-struggling-for-guardians-2026-alds"
-    },
-    {
-      "author": "Tim Stebbins",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zshd6bmnlrfgmrjrnfzd",
-      "published": "Tue, 06 Oct 2026 03:05:00 GMT",
-      "source": "MLB.com",
-      "title": "Seven hits, three runs, no ALDS answers: Guardians pushed to the brink",
-      "url": "https://www.mlb.com/guardians/news/guardians-offense-alds-game-2-white-sox-2026"
     }
   ],
   "heroLine": "85\u201377.",
@@ -769,13 +769,13 @@
         "home": false,
         "loser": "",
         "opponent": "White Sox",
-        "opponentProbable": "",
+        "opponentProbable": "Hagen Smith",
         "probable": "Parker Messick",
         "result": null,
         "save": "",
         "score": null,
         "series": "Division Series",
-        "startTime": "2026-10-08T21:00:00Z",
+        "startTime": "2026-10-09T00:00:00Z",
         "startTimeTBD": false,
         "status": "Preview",
         "venue": "Rate Field",
@@ -796,7 +796,7 @@
         "save": "",
         "score": null,
         "series": "Division Series",
-        "startTime": "2026-10-10T21:00:00Z",
+        "startTime": "2026-10-11T00:00:00Z",
         "startTimeTBD": false,
         "status": "Preview",
         "venue": "Progressive Field",
