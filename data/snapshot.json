@@ -28,15 +28,23 @@
       }
     ]
   },
-  "generatedAt": "2026-10-09T16:14:47Z",
+  "generatedAt": "2026-10-09T20:58:40Z",
   "headlines": [
     {
       "author": "Tim Stebbins",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zukhl3mr64lpqagrnucs",
-      "published": "Fri, 09 Oct 2026 15:24:12 GMT",
+      "published": "Fri, 09 Oct 2026 20:08:00 GMT",
       "source": "MLB.com",
-      "title": "Williams ready for any role in decisive ALDS Game 5: 'I'll do anything'",
+      "title": "Williams gets start for Guards in Game 5 -- two days after closing out Game 4",
       "url": "https://www.mlb.com/guardians/news/guardians-2026-alds-game-5-starter"
+    },
+    {
+      "author": "Anthony Castrovince",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cfwlslyijbwrx5m1jria",
+      "published": "Fri, 09 Oct 2026 18:10:58 GMT",
+      "source": "MLB.com",
+      "title": "Guardians ending 'This Thing' won't come easy ... just ask any native Clevelander",
+      "url": "https://www.mlb.com/guardians/news/guardians-ending-longest-world-series-drought-won-t-come-easy"
     },
     {
       "author": "Tim Stebbins",
@@ -69,14 +77,6 @@
       "source": "MLB.com",
       "title": "What does Messick's abbreviated start mean for Guards' G5 pitching plan?",
       "url": "https://www.mlb.com/guardians/news/parker-messick-struggles-with-command-in-2026-alds-game-4"
-    },
-    {
-      "author": "Scott Merkin, Tim Stebbins and Anthony Castrovince",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cuc2vx9rnayginmoyajl",
-      "published": "Fri, 09 Oct 2026 07:09:29 GMT",
-      "source": "MLB.com",
-      "title": "White Sox-Guardians ALDS Game 5 FAQ (Sat., 8 ET, TBS/HBO Max)",
-      "url": "https://www.mlb.com/guardians/news/white-sox-vs-guardians-alds-game-5-starting-lineups-and-pitching-matchup"
     }
   ],
   "heroLine": "85\u201377.",
@@ -769,8 +769,8 @@
         "home": true,
         "loser": "",
         "opponent": "White Sox",
-        "opponentProbable": "",
-        "probable": "",
+        "opponentProbable": "Sean Burke",
+        "probable": "Gavin Williams",
         "result": null,
         "save": "",
         "score": null,
