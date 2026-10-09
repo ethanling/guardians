@@ -28,8 +28,16 @@
       }
     ]
   },
-  "generatedAt": "2026-10-08T22:05:55Z",
+  "generatedAt": "2026-10-09T02:11:57Z",
   "headlines": [
+    {
+      "author": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791510847/mlb/slpvyrs0mb55xf9a359y",
+      "published": "Fri, 09 Oct 2026 01:56:36 GMT",
+      "source": "MLB.com",
+      "title": "LIVE: J-Ram homers on 99.9 mph heater to cap 3-run fifth (TBS/HBO Max)",
+      "url": "https://www.mlb.com/stories/game/849832"
+    },
     {
       "author": "Tim Stebbins",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791417322/mlb/ecdkklese7h6ov7tikit",
@@ -37,14 +45,6 @@
       "source": "MLB.com",
       "title": "J-Ram shows off all his tools as Guardians refuse to go quietly",
       "url": "https://www.mlb.com/guardians/news/jose-ramirez-records-double-stolen-base-makes-diving-play-in-alds-game-3-2026"
-    },
-    {
-      "author": "Tim Stebbins, Scott Merkin and Anthony Castrovince",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/f2thy81kyyqwhhvm6nlp",
-      "published": "Thu, 08 Oct 2026 20:33:00 GMT",
-      "source": "MLB.com",
-      "title": "Guardians-White Sox ALDS Game 4 FAQ, lineups (8 ET, TBS/HBO Max)",
-      "url": "https://www.mlb.com/guardians/news/guardians-vs-white-sox-alds-game-4-starting-lineups-and-pitching-matchup"
     },
     {
       "author": "Martin Gallegos",
@@ -71,12 +71,12 @@
       "url": "https://www.mlb.com/guardians/news/each-team-s-prospects-of-the-year-2026"
     },
     {
-      "author": "Mart\u00edn Gallegos",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/hktbcfuduxu7l42julzt",
-      "published": "Wed, 07 Oct 2026 00:37:29 GMT",
+      "author": "Rob Terranova and Brendan Samson",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kdikhgkw7v8w8wdorlio",
+      "published": "Fri, 09 Oct 2026 01:20:00 GMT",
       "source": "MLB.com",
-      "title": "J-Ram says wrist pain is 'no excuse' as he seeks signature playoff moment",
-      "url": "https://www.mlb.com/guardians/news/jose-ramirez-struggling-for-guardians-2026-alds"
+      "title": "LIVE: Watch top prospects in Arizona Fall League action",
+      "url": "https://www.mlb.com/guardians/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026"
     }
   ],
   "heroLine": "85\u201377.",
@@ -763,7 +763,7 @@
       {
         "abbreviation": "CWS",
         "date": "2026-10-08",
-        "detail": "Pre-Game",
+        "detail": "In Progress",
         "gameNumber": 1,
         "gameType": "D",
         "home": false,
@@ -773,11 +773,11 @@
         "probable": "Parker Messick",
         "result": null,
         "save": "",
-        "score": "0\u20130",
+        "score": "3\u20134",
         "series": "Division Series",
         "startTime": "2026-10-09T00:00:00Z",
         "startTimeTBD": false,
-        "status": "Preview",
+        "status": "Live",
         "venue": "Rate Field",
         "winner": ""
       },
