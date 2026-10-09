@@ -28,8 +28,16 @@
       }
     ]
   },
-  "generatedAt": "2026-10-09T09:07:41Z",
+  "generatedAt": "2026-10-09T16:14:47Z",
   "headlines": [
+    {
+      "author": "Tim Stebbins",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zukhl3mr64lpqagrnucs",
+      "published": "Fri, 09 Oct 2026 15:24:12 GMT",
+      "source": "MLB.com",
+      "title": "Williams ready for any role in decisive ALDS Game 5: 'I'll do anything'",
+      "url": "https://www.mlb.com/guardians/news/guardians-2026-alds-game-5-starter"
+    },
     {
       "author": "Tim Stebbins",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/akxwgkkxf7zrhqdakqar",
@@ -69,14 +77,6 @@
       "source": "MLB.com",
       "title": "White Sox-Guardians ALDS Game 5 FAQ (Sat., 8 ET, TBS/HBO Max)",
       "url": "https://www.mlb.com/guardians/news/white-sox-vs-guardians-alds-game-5-starting-lineups-and-pitching-matchup"
-    },
-    {
-      "author": "Tim Stebbins",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791417322/mlb/ecdkklese7h6ov7tikit",
-      "published": "Thu, 08 Oct 2026 04:05:00 GMT",
-      "source": "MLB.com",
-      "title": "J-Ram shows off all his tools as Guardians refuse to go quietly",
-      "url": "https://www.mlb.com/guardians/news/jose-ramirez-records-double-stolen-base-makes-diving-play-in-alds-game-3-2026"
     }
   ],
   "heroLine": "85\u201377.",
