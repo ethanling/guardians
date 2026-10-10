@@ -28,12 +28,12 @@
       }
     ]
   },
-  "generatedAt": "2026-10-09T20:58:40Z",
+  "generatedAt": "2026-10-10T00:53:32Z",
   "headlines": [
     {
       "author": "Tim Stebbins",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zukhl3mr64lpqagrnucs",
-      "published": "Fri, 09 Oct 2026 20:08:00 GMT",
+      "published": "Fri, 09 Oct 2026 22:15:00 GMT",
       "source": "MLB.com",
       "title": "Williams gets start for Guards in Game 5 -- two days after closing out Game 4",
       "url": "https://www.mlb.com/guardians/news/guardians-2026-alds-game-5-starter"
@@ -45,6 +45,22 @@
       "source": "MLB.com",
       "title": "Guardians ending 'This Thing' won't come easy ... just ask any native Clevelander",
       "url": "https://www.mlb.com/guardians/news/guardians-ending-longest-world-series-drought-won-t-come-easy"
+    },
+    {
+      "author": "Will Leitch",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/d4gqamvbmjktx7qot2rp",
+      "published": "Fri, 09 Oct 2026 21:09:31 GMT",
+      "source": "MLB.com",
+      "title": "Storylines to follow as White Sox, Guards play winner-take-all Game 5",
+      "url": "https://www.mlb.com/guardians/news/2026-alds-game-5-storylines-what-to-watch-for"
+    },
+    {
+      "author": "Scott Merkin, Tim Stebbins and Anthony Castrovince",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cuc2vx9rnayginmoyajl",
+      "published": "Fri, 09 Oct 2026 21:21:00 GMT",
+      "source": "MLB.com",
+      "title": "White Sox-Guardians ALDS Game 5 FAQ (Sat., 8 ET, TBS/HBO Max)",
+      "url": "https://www.mlb.com/guardians/news/white-sox-vs-guardians-alds-game-5-starting-lineups-and-pitching-matchup"
     },
     {
       "author": "Tim Stebbins",
@@ -61,22 +77,6 @@
       "source": "MLB.com",
       "title": "J-Ram rewriting his October narrative, one big hit at a time",
       "url": "https://www.mlb.com/guardians/news/jose-ramirez-two-run-home-run-alds-game-4-2026"
-    },
-    {
-      "author": "Jackson Stone",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mfxt2l2mut4vect8zy1q",
-      "published": "Fri, 09 Oct 2026 07:14:00 GMT",
-      "source": "MLB.com",
-      "title": "Bailey comes up big twice -- after starting game on bench",
-      "url": "https://www.mlb.com/guardians/news/patrick-bailey-homers-drives-in-2-off-bench-in-2026-alds-game-4"
-    },
-    {
-      "author": "Mart\u00edn Gallegos",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qbmf1umebqmnrqs9wi9p",
-      "published": "Fri, 09 Oct 2026 07:14:00 GMT",
-      "source": "MLB.com",
-      "title": "What does Messick's abbreviated start mean for Guards' G5 pitching plan?",
-      "url": "https://www.mlb.com/guardians/news/parker-messick-struggles-with-command-in-2026-alds-game-4"
     }
   ],
   "heroLine": "85\u201377.",
