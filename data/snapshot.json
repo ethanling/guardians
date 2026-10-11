@@ -28,15 +28,23 @@
       }
     ]
   },
-  "generatedAt": "2026-10-10T22:34:53Z",
+  "generatedAt": "2026-10-11T01:55:51Z",
   "headlines": [
     {
-      "author": "Scott Merkin, Tim Stebbins and Anthony Castrovince",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791597654/mlb/cuc2vx9rnayginmoyajl",
-      "published": "Sat, 10 Oct 2026 20:11:00 GMT",
+      "author": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zlfy6mnw9eveoieyvqnn",
+      "published": "Sun, 11 Oct 2026 01:02:41 GMT",
       "source": "MLB.com",
-      "title": "White Sox-Guardians ALDS Game 5 FAQ, lineups (8 ET, TBS/HBO Max)",
-      "url": "https://www.mlb.com/guardians/news/white-sox-vs-guardians-alds-game-5-starting-lineups-and-pitching-matchup"
+      "title": "LIVE: Williams deals early in deciding Game 5 (TBS/HBO Max)",
+      "url": "https://www.mlb.com/stories/game/849831"
+    },
+    {
+      "author": "Tim Stebbins",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wgmuvvd9cuuy9dgigafy",
+      "published": "Sun, 11 Oct 2026 01:40:13 GMT",
+      "source": "MLB.com",
+      "title": "Ram\u00edrez digs out pitch practically on the ground for stadium-shaking homer",
+      "url": "https://www.mlb.com/guardians/news/jose-ramirez-homers-in-alds-game-5"
     },
     {
       "author": "Tim Stebbins",
@@ -47,14 +55,6 @@
       "url": "https://www.mlb.com/guardians/news/guardians-2026-alds-game-5-starter"
     },
     {
-      "author": "Anthony Castrovince",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cfwlslyijbwrx5m1jria",
-      "published": "Fri, 09 Oct 2026 18:10:58 GMT",
-      "source": "MLB.com",
-      "title": "Guardians ending 'This Thing' won't come easy ... just ask any native Clevelander",
-      "url": "https://www.mlb.com/guardians/news/guardians-ending-longest-world-series-drought-won-t-come-easy"
-    },
-    {
       "author": "Will Leitch",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/d4gqamvbmjktx7qot2rp",
       "published": "Fri, 09 Oct 2026 21:09:31 GMT",
@@ -63,12 +63,12 @@
       "url": "https://www.mlb.com/guardians/news/2026-alds-game-5-storylines-what-to-watch-for"
     },
     {
-      "author": "Tim Stebbins",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/akxwgkkxf7zrhqdakqar",
-      "published": "Fri, 09 Oct 2026 07:08:00 GMT",
+      "author": "Anthony Castrovince",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cfwlslyijbwrx5m1jria",
+      "published": "Fri, 09 Oct 2026 18:10:58 GMT",
       "source": "MLB.com",
-      "title": "Not done yet! Guardians storm back to force Game 5 in Cleveland",
-      "url": "https://www.mlb.com/guardians/news/guardians-win-alds-game-4-2026"
+      "title": "Guardians ending 'This Thing' won't come easy ... just ask any native Clevelander",
+      "url": "https://www.mlb.com/guardians/news/guardians-ending-longest-world-series-drought-won-t-come-easy"
     },
     {
       "author": "Mart\u00edn Gallegos and Tim Stebbins",
@@ -763,7 +763,7 @@
       {
         "abbreviation": "CWS",
         "date": "2026-10-10",
-        "detail": "Pre-Game",
+        "detail": "In Progress",
         "gameNumber": 1,
         "gameType": "D",
         "home": true,
@@ -773,11 +773,11 @@
         "probable": "Gavin Williams",
         "result": null,
         "save": "",
-        "score": "0\u20130",
+        "score": "2\u20130",
         "series": "Division Series",
         "startTime": "2026-10-11T00:00:00Z",
         "startTimeTBD": false,
-        "status": "Preview",
+        "status": "Live",
         "venue": "Progressive Field",
         "winner": ""
       }
