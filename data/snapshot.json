@@ -28,23 +28,23 @@
       }
     ]
   },
-  "generatedAt": "2026-10-14T01:14:05Z",
+  "generatedAt": "2026-10-14T06:11:54Z",
   "headlines": [
     {
-      "author": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791938150/mlb/zez0xxyspzshkfotzdtc",
-      "published": "Wed, 14 Oct 2026 00:54:13 GMT",
+      "author": "Tim Stebbins",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791948112/mlb/k5efni7newgktte0hjgm",
+      "published": "Wed, 14 Oct 2026 05:38:42 GMT",
       "source": "MLB.com",
-      "title": "LIVE: Messick, Guards battle Rays in ALCS Game 2",
-      "url": "https://www.mlb.com/stories/game/849813"
+      "title": "Guards head home with series tied after costly error on Rays' turf",
+      "url": "https://www.mlb.com/guardians/news/jose-ramirez-costly-error-alcs-game-2"
     },
     {
-      "author": "Tim Stebbins",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791862907/mlb/les9qtnpyhfzqagwqaj9",
-      "published": "Tue, 13 Oct 2026 05:42:17 GMT",
+      "author": "Adam Berry, Tim Stebbins, Keegan Matheson",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jnrftlv1ewfq05bo0hg1",
+      "published": "Wed, 14 Oct 2026 05:30:59 GMT",
       "source": "MLB.com",
-      "title": "'Hosey' does it: Ram\u00edrez's havoc on basepaths key to Guards' 4th straight win",
-      "url": "https://www.mlb.com/guardians/news/jose-ramirez-baserunning-guardians-alcs-game-1-win"
+      "title": "Rays-Guardians ALCS Game 3 FAQ (Thurs., 6 ET, TBS/HBO Max)",
+      "url": "https://www.mlb.com/guardians/news/rays-vs-guardians-alcs-game-3-starting-lineups-and-pitching-matchup"
     },
     {
       "author": "Keegan Matheson",
@@ -53,6 +53,14 @@
       "source": "MLB.com",
       "title": "Guards come up big late to rally past Rays in ALCS opener",
       "url": "https://www.mlb.com/guardians/news/guardians-win-alcs-game-1-2026"
+    },
+    {
+      "author": "Tim Stebbins",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791862907/mlb/les9qtnpyhfzqagwqaj9",
+      "published": "Tue, 13 Oct 2026 05:42:17 GMT",
+      "source": "MLB.com",
+      "title": "'Hosey' does it: Ram\u00edrez's havoc on basepaths key to Guards' 4th straight win",
+      "url": "https://www.mlb.com/guardians/news/jose-ramirez-baserunning-guardians-alcs-game-1-win"
     },
     {
       "author": "Brian Murphy",
@@ -69,14 +77,6 @@
       "source": "MLB.com",
       "title": "Guardians' staff silences Rays after shaky 1st, sets table for comeback win",
       "url": "https://www.mlb.com/guardians/news/foster-griffin-guardians-pitchers-alcs-game-1-win"
-    },
-    {
-      "author": "Tim Stebbins",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mhnip7qljrddk2xv9m0r",
-      "published": "Tue, 13 Oct 2026 00:01:00 GMT",
-      "source": "MLB.com",
-      "title": "Guardians swap in Cecconi for Schneemann, bolstering staff for ALCS",
-      "url": "https://www.mlb.com/guardians/news/guardians-2026-alcs-roster"
     }
   ],
   "heroLine": "85\u201377.",
@@ -592,6 +592,27 @@
     "recent": [
       {
         "abbreviation": "TB",
+        "date": "2026-10-13",
+        "detail": "Final",
+        "gameNumber": 1,
+        "gameType": "L",
+        "home": false,
+        "loser": "Parker Messick",
+        "opponent": "Rays",
+        "opponentProbable": "Freddy Peralta",
+        "probable": "Parker Messick",
+        "result": "L",
+        "save": "Bryan Baker",
+        "score": "1\u20133",
+        "series": "Championship Series",
+        "startTime": "2026-10-14T00:00:00Z",
+        "startTimeTBD": false,
+        "status": "Final",
+        "venue": "Tropicana Field",
+        "winner": "Freddy Peralta"
+      },
+      {
+        "abbreviation": "TB",
         "date": "2026-10-12",
         "detail": "Final",
         "gameNumber": 1,
@@ -736,51 +757,9 @@
         "status": "Final",
         "venue": "Kauffman Stadium",
         "winner": "Nate Pearson"
-      },
-      {
-        "abbreviation": "KC",
-        "date": "2026-09-26",
-        "detail": "Final",
-        "gameNumber": 1,
-        "gameType": "R",
-        "home": false,
-        "loser": "Michael Wacha",
-        "opponent": "Royals",
-        "opponentProbable": "Michael Wacha",
-        "probable": "Tanner Bibee",
-        "result": "W",
-        "save": "",
-        "score": "11\u20135",
-        "series": "",
-        "startTime": "2026-09-26T23:10:00Z",
-        "startTimeTBD": false,
-        "status": "Final",
-        "venue": "Kauffman Stadium",
-        "winner": "Tanner Bibee"
       }
     ],
     "upcoming": [
-      {
-        "abbreviation": "TB",
-        "date": "2026-10-13",
-        "detail": "In Progress",
-        "gameNumber": 1,
-        "gameType": "L",
-        "home": false,
-        "loser": "",
-        "opponent": "Rays",
-        "opponentProbable": "Freddy Peralta",
-        "probable": "Parker Messick",
-        "result": null,
-        "save": "",
-        "score": "0\u20130",
-        "series": "Championship Series",
-        "startTime": "2026-10-14T00:00:00Z",
-        "startTimeTBD": false,
-        "status": "Live",
-        "venue": "Tropicana Field",
-        "winner": ""
-      },
       {
         "abbreviation": "TB",
         "date": "2026-10-15",
@@ -790,7 +769,7 @@
         "home": true,
         "loser": "",
         "opponent": "Rays",
-        "opponentProbable": "",
+        "opponentProbable": "Griffin Jax",
         "probable": "",
         "result": null,
         "save": "",
