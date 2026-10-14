@@ -28,15 +28,15 @@
       }
     ]
   },
-  "generatedAt": "2026-10-13T21:17:16Z",
+  "generatedAt": "2026-10-14T01:14:05Z",
   "headlines": [
     {
-      "author": "Adam Berry, Tim Stebbins, Keegan Matheson",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nlbiix8y2hh9mpjxdefg",
-      "published": "Tue, 13 Oct 2026 20:29:00 GMT",
+      "author": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791938150/mlb/zez0xxyspzshkfotzdtc",
+      "published": "Wed, 14 Oct 2026 00:54:13 GMT",
       "source": "MLB.com",
-      "title": "Guardians-Rays ALCS Game 2 FAQ, lineups (8 ET, TBS/HBO Max)",
-      "url": "https://www.mlb.com/guardians/news/guardians-vs-rays-alcs-game-2-starting-lineups-and-pitching-matchup"
+      "title": "LIVE: Messick, Guards battle Rays in ALCS Game 2",
+      "url": "https://www.mlb.com/stories/game/849813"
     },
     {
       "author": "Tim Stebbins",
@@ -72,11 +72,11 @@
     },
     {
       "author": "Tim Stebbins",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rqad7g1orjfquy7xmtbn",
-      "published": "Tue, 13 Oct 2026 05:04:00 GMT",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mhnip7qljrddk2xv9m0r",
+      "published": "Tue, 13 Oct 2026 00:01:00 GMT",
       "source": "MLB.com",
-      "title": "Messick, once a fan at The Trop, will take the hill there as Guardians' ALCS Game 2 starter",
-      "url": "https://www.mlb.com/guardians/news/parker-messick-guardians-starter-game-2-2026-alcs"
+      "title": "Guardians swap in Cecconi for Schneemann, bolstering staff for ALCS",
+      "url": "https://www.mlb.com/guardians/news/guardians-2026-alcs-roster"
     }
   ],
   "heroLine": "85\u201377.",
@@ -763,7 +763,7 @@
       {
         "abbreviation": "TB",
         "date": "2026-10-13",
-        "detail": "Pre-Game",
+        "detail": "In Progress",
         "gameNumber": 1,
         "gameType": "L",
         "home": false,
@@ -777,7 +777,7 @@
         "series": "Championship Series",
         "startTime": "2026-10-14T00:00:00Z",
         "startTimeTBD": false,
-        "status": "Preview",
+        "status": "Live",
         "venue": "Tropicana Field",
         "winner": ""
       },
