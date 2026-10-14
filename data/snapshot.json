@@ -28,8 +28,40 @@
       }
     ]
   },
-  "generatedAt": "2026-10-14T06:11:54Z",
+  "generatedAt": "2026-10-14T17:12:57Z",
   "headlines": [
+    {
+      "author": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pb2wpucicub5prh86zwf",
+      "published": "Wed, 14 Oct 2026 16:03:11 GMT",
+      "source": "MLB.com",
+      "title": "Rays-Guardians ALCS Game 3 time moved up to 1 p.m. ET due to weather",
+      "url": "https://www.mlb.com/guardians/news/rays-guardians-alcs-game-3-game-time-change"
+    },
+    {
+      "author": "Anthony Castrovince",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791955005/mlb/zjdp7yvfdfzfqydtghpz",
+      "published": "Wed, 14 Oct 2026 14:34:04 GMT",
+      "source": "MLB.com",
+      "title": "11 on 11: Why Jos\u00e9 (NOT J-Ram!) is Cleveland's brightest star",
+      "url": "https://www.mlb.com/guardians/news/11-great-things-about-jose-ramirez-in-alcs"
+    },
+    {
+      "author": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wfbuwgporg32wfwjttw8",
+      "published": "Wed, 14 Oct 2026 17:07:00 GMT",
+      "source": "MLB.com",
+      "title": "Kwan vying for Gold Glove at center for 1st time; Bibee also nominated",
+      "url": "https://www.mlb.com/guardians/news/2026-gold-glove-award-finalists"
+    },
+    {
+      "author": "Adam Berry, Tim Stebbins, Keegan Matheson",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jnrftlv1ewfq05bo0hg1",
+      "published": "Wed, 14 Oct 2026 16:03:00 GMT",
+      "source": "MLB.com",
+      "title": "Rays-Guardians ALCS Game 3 FAQ (Thurs., 1 ET, TBS/HBO Max)",
+      "url": "https://www.mlb.com/guardians/news/rays-vs-guardians-alcs-game-3-starting-lineups-and-pitching-matchup"
+    },
     {
       "author": "Tim Stebbins",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791948112/mlb/k5efni7newgktte0hjgm",
@@ -39,44 +71,12 @@
       "url": "https://www.mlb.com/guardians/news/jose-ramirez-costly-error-alcs-game-2"
     },
     {
-      "author": "Adam Berry, Tim Stebbins, Keegan Matheson",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jnrftlv1ewfq05bo0hg1",
-      "published": "Wed, 14 Oct 2026 05:30:59 GMT",
-      "source": "MLB.com",
-      "title": "Rays-Guardians ALCS Game 3 FAQ (Thurs., 6 ET, TBS/HBO Max)",
-      "url": "https://www.mlb.com/guardians/news/rays-vs-guardians-alcs-game-3-starting-lineups-and-pitching-matchup"
-    },
-    {
       "author": "Keegan Matheson",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zw5uivdhaf5vvtspkiht",
       "published": "Tue, 13 Oct 2026 06:00:00 GMT",
       "source": "MLB.com",
       "title": "Guards come up big late to rally past Rays in ALCS opener",
       "url": "https://www.mlb.com/guardians/news/guardians-win-alcs-game-1-2026"
-    },
-    {
-      "author": "Tim Stebbins",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791862907/mlb/les9qtnpyhfzqagwqaj9",
-      "published": "Tue, 13 Oct 2026 05:42:17 GMT",
-      "source": "MLB.com",
-      "title": "'Hosey' does it: Ram\u00edrez's havoc on basepaths key to Guards' 4th straight win",
-      "url": "https://www.mlb.com/guardians/news/jose-ramirez-baserunning-guardians-alcs-game-1-win"
-    },
-    {
-      "author": "Brian Murphy",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gmydpgexgivgwf07vnb1",
-      "published": "Tue, 13 Oct 2026 05:37:16 GMT",
-      "source": "MLB.com",
-      "title": "Think dodging J-Ram to challenge DeLauter is a good plan? Think again",
-      "url": "https://www.mlb.com/guardians/news/chase-delauter-homers-three-hits-guardians-game-1-alcs-win"
-    },
-    {
-      "author": "Keegan Matheson",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/blyfhhfr09b2re4gnpj2",
-      "published": "Tue, 13 Oct 2026 04:57:07 GMT",
-      "source": "MLB.com",
-      "title": "Guardians' staff silences Rays after shaky 1st, sets table for comeback win",
-      "url": "https://www.mlb.com/guardians/news/foster-griffin-guardians-pitchers-alcs-game-1-win"
     }
   ],
   "heroLine": "85\u201377.",
@@ -775,7 +775,7 @@
         "save": "",
         "score": null,
         "series": "Championship Series",
-        "startTime": "2026-10-15T22:00:00Z",
+        "startTime": "2026-10-15T17:00:00Z",
         "startTimeTBD": false,
         "status": "Preview",
         "venue": "Progressive Field",
