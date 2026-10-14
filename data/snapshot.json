@@ -28,15 +28,31 @@
       }
     ]
   },
-  "generatedAt": "2026-10-14T17:12:57Z",
+  "generatedAt": "2026-10-14T20:43:51Z",
   "headlines": [
     {
       "author": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/pb2wpucicub5prh86zwf",
-      "published": "Wed, 14 Oct 2026 16:03:11 GMT",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nrx4ldrnsxorncf9wflq",
+      "published": "Wed, 14 Oct 2026 19:14:00 GMT",
       "source": "MLB.com",
-      "title": "Rays-Guardians ALCS Game 3 time moved up to 1 p.m. ET due to weather",
-      "url": "https://www.mlb.com/guardians/news/rays-guardians-alcs-game-3-game-time-change"
+      "title": "Updated Thursday start times: 1 ET (ALCS Game 3), 8 ET (NLCS Game 4)",
+      "url": "https://www.mlb.com/guardians/news/updated-alcs-nlcs-start-times-oct-15"
+    },
+    {
+      "author": "Brent Maguire",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zlfy6mnw9eveoieyvqnn",
+      "published": "Wed, 14 Oct 2026 20:25:00 GMT",
+      "source": "MLB.com",
+      "title": "Examining Gavin Williams' breakout season ahead of ALCS start",
+      "url": "https://www.mlb.com/guardians/news/gavin-williams-2026-postseason-analysis"
+    },
+    {
+      "author": "Jared Greenspan",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/o5vqrzji8qcpfcefyuee",
+      "published": "Wed, 14 Oct 2026 20:01:00 GMT",
+      "source": "MLB.com",
+      "title": "The two hitters unlike anyone else you'll see in the playoffs",
+      "url": "https://www.mlb.com/guardians/news/steven-kwan-chandler-simpson-unlike-anyone-else-mlb-postseason"
     },
     {
       "author": "Anthony Castrovince",
@@ -57,26 +73,10 @@
     {
       "author": "Adam Berry, Tim Stebbins, Keegan Matheson",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jnrftlv1ewfq05bo0hg1",
-      "published": "Wed, 14 Oct 2026 16:03:00 GMT",
+      "published": "Wed, 14 Oct 2026 20:32:00 GMT",
       "source": "MLB.com",
       "title": "Rays-Guardians ALCS Game 3 FAQ (Thurs., 1 ET, TBS/HBO Max)",
       "url": "https://www.mlb.com/guardians/news/rays-vs-guardians-alcs-game-3-starting-lineups-and-pitching-matchup"
-    },
-    {
-      "author": "Tim Stebbins",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791948112/mlb/k5efni7newgktte0hjgm",
-      "published": "Wed, 14 Oct 2026 05:38:42 GMT",
-      "source": "MLB.com",
-      "title": "Guards head home with series tied after costly error on Rays' turf",
-      "url": "https://www.mlb.com/guardians/news/jose-ramirez-costly-error-alcs-game-2"
-    },
-    {
-      "author": "Keegan Matheson",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zw5uivdhaf5vvtspkiht",
-      "published": "Tue, 13 Oct 2026 06:00:00 GMT",
-      "source": "MLB.com",
-      "title": "Guards come up big late to rally past Rays in ALCS opener",
-      "url": "https://www.mlb.com/guardians/news/guardians-win-alcs-game-1-2026"
     }
   ],
   "heroLine": "85\u201377.",
@@ -770,7 +770,7 @@
         "loser": "",
         "opponent": "Rays",
         "opponentProbable": "Griffin Jax",
-        "probable": "",
+        "probable": "Gavin Williams",
         "result": null,
         "save": "",
         "score": null,
