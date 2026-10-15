@@ -28,7 +28,7 @@
       }
     ]
   },
-  "generatedAt": "2026-10-14T23:56:00Z",
+  "generatedAt": "2026-10-15T04:42:48Z",
   "headlines": [
     {
       "author": "",
@@ -37,6 +37,14 @@
       "source": "MLB.com",
       "title": "Updated Thursday start times: 1 ET (ALCS Game 3), 8 ET (NLCS Game 4)",
       "url": "https://www.mlb.com/guardians/news/updated-alcs-nlcs-start-times-oct-15"
+    },
+    {
+      "author": "Anthony Castrovince",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791955005/mlb/zjdp7yvfdfzfqydtghpz",
+      "published": "Wed, 14 Oct 2026 14:34:04 GMT",
+      "source": "MLB.com",
+      "title": "11 on 11: Why Jos\u00e9 (NOT J-Ram!) is Cleveland's brightest star",
+      "url": "https://www.mlb.com/guardians/news/11-great-things-about-jose-ramirez-in-alcs"
     },
     {
       "author": "Brent Maguire",
@@ -69,14 +77,6 @@
       "source": "MLB.com",
       "title": "Rays-Guardians ALCS Game 3 FAQ (Thurs., 1 ET, TBS/HBO Max)",
       "url": "https://www.mlb.com/guardians/news/rays-vs-guardians-alcs-game-3-starting-lineups-and-pitching-matchup"
-    },
-    {
-      "author": "Anthony Castrovince",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1791955005/mlb/zjdp7yvfdfzfqydtghpz",
-      "published": "Wed, 14 Oct 2026 14:34:04 GMT",
-      "source": "MLB.com",
-      "title": "11 on 11: Why Jos\u00e9 (NOT J-Ram!) is Cleveland's brightest star",
-      "url": "https://www.mlb.com/guardians/news/11-great-things-about-jose-ramirez-in-alcs"
     }
   ],
   "heroLine": "85\u201377.",
