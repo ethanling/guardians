@@ -28,15 +28,31 @@
       }
     ]
   },
-  "generatedAt": "2026-10-15T19:10:28Z",
+  "generatedAt": "2026-10-15T22:21:16Z",
   "headlines": [
     {
-      "author": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/d2a7uavnufo0q3qcxmew",
-      "published": "Thu, 15 Oct 2026 17:46:22 GMT",
+      "author": "Keegan Matheson",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uucsvd3gc2tg1y6z2nu5",
+      "published": "Thu, 15 Oct 2026 21:14:00 GMT",
       "source": "MLB.com",
-      "title": "LIVE: Halpin clobbers clutch two-run homer (TBS/HBO Max)",
-      "url": "https://www.mlb.com/stories/game/849818"
+      "title": "Go-ahead HR from unlikely source flips ALCS back in Guardians\u2019 favor",
+      "url": "https://www.mlb.com/guardians/news/guardians-win-alcs-game-3-2026"
+    },
+    {
+      "author": "Keegan Matheson",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/s3vzgptageh8cmqhk3x4",
+      "published": "Thu, 15 Oct 2026 22:00:27 GMT",
+      "source": "MLB.com",
+      "title": "Lifted early out of caution, Williams still adds to historic postseason ledger",
+      "url": "https://www.mlb.com/guardians/news/gavin-williams-strikes-out-nine-in-guardians-alcs-game-3-win"
+    },
+    {
+      "author": "Anthony Castrovince",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/oicfap209guxwv9061rv",
+      "published": "Thu, 15 Oct 2026 22:05:57 GMT",
+      "source": "MLB.com",
+      "title": "Guards' rare aggressiveness at Deadline paying off during playoff run",
+      "url": "https://www.mlb.com/guardians/news/nathaniel-lowe-jo-adell-trades-paying-off-for-guardians-during-alcs-run"
     },
     {
       "author": "",
@@ -61,22 +77,6 @@
       "source": "MLB.com",
       "title": "Examining Gavin Williams' breakout season ahead of ALCS start",
       "url": "https://www.mlb.com/guardians/news/gavin-williams-2026-postseason-analysis"
-    },
-    {
-      "author": "Jared Greenspan",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/o5vqrzji8qcpfcefyuee",
-      "published": "Wed, 14 Oct 2026 20:01:00 GMT",
-      "source": "MLB.com",
-      "title": "The two hitters unlike anyone else you'll see in the playoffs",
-      "url": "https://www.mlb.com/guardians/news/steven-kwan-chandler-simpson-unlike-anyone-else-mlb-postseason"
-    },
-    {
-      "author": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/anjgy1ydjfpnbjzy2pca",
-      "published": "Thu, 15 Oct 2026 05:11:49 GMT",
-      "source": "MLB.com",
-      "title": "Podcast: Rays, Guardians clash in Cleveland",
-      "url": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-10/15/573262b8-564adcd9-d5139619-csvm-diamondgcp-asset_1280x720_59_4000K.mp4"
     }
   ],
   "heroLine": "85\u201377.",
@@ -592,6 +592,27 @@
     "recent": [
       {
         "abbreviation": "TB",
+        "date": "2026-10-15",
+        "detail": "Final",
+        "gameNumber": 1,
+        "gameType": "L",
+        "home": true,
+        "loser": "Griffin Jax",
+        "opponent": "Rays",
+        "opponentProbable": "Griffin Jax",
+        "probable": "Gavin Williams",
+        "result": "W",
+        "save": "Cade Smith",
+        "score": "3\u20132",
+        "series": "Championship Series",
+        "startTime": "2026-10-15T17:00:00Z",
+        "startTimeTBD": false,
+        "status": "Final",
+        "venue": "Progressive Field",
+        "winner": "Gavin Williams"
+      },
+      {
+        "abbreviation": "TB",
         "date": "2026-10-13",
         "detail": "Final",
         "gameNumber": 1,
@@ -736,51 +757,9 @@
         "status": "Final",
         "venue": "Progressive Field",
         "winner": "Bryan Hudson"
-      },
-      {
-        "abbreviation": "KC",
-        "date": "2026-09-27",
-        "detail": "Final",
-        "gameNumber": 1,
-        "gameType": "R",
-        "home": false,
-        "loser": "Austin Peterson",
-        "opponent": "Royals",
-        "opponentProbable": "Daniel Lynch IV",
-        "probable": "Parker Messick",
-        "result": "L",
-        "save": "Lucas Erceg",
-        "score": "2\u20133",
-        "series": "",
-        "startTime": "2026-09-27T19:10:00Z",
-        "startTimeTBD": false,
-        "status": "Final",
-        "venue": "Kauffman Stadium",
-        "winner": "Nate Pearson"
       }
     ],
     "upcoming": [
-      {
-        "abbreviation": "TB",
-        "date": "2026-10-15",
-        "detail": "In Progress",
-        "gameNumber": 1,
-        "gameType": "L",
-        "home": true,
-        "loser": "",
-        "opponent": "Rays",
-        "opponentProbable": "Griffin Jax",
-        "probable": "Gavin Williams",
-        "result": null,
-        "save": "",
-        "score": "3\u20132",
-        "series": "Championship Series",
-        "startTime": "2026-10-15T17:00:00Z",
-        "startTimeTBD": false,
-        "status": "Live",
-        "venue": "Progressive Field",
-        "winner": ""
-      },
       {
         "abbreviation": "TB",
         "date": "2026-10-16",
@@ -790,7 +769,7 @@
         "home": true,
         "loser": "",
         "opponent": "Rays",
-        "opponentProbable": "",
+        "opponentProbable": "Nick Martinez",
         "probable": "",
         "result": null,
         "save": "",
