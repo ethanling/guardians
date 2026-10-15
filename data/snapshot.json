@@ -28,15 +28,15 @@
       }
     ]
   },
-  "generatedAt": "2026-10-15T09:57:27Z",
+  "generatedAt": "2026-10-15T15:03:13Z",
   "headlines": [
     {
-      "author": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nrx4ldrnsxorncf9wflq",
-      "published": "Wed, 14 Oct 2026 19:14:00 GMT",
+      "author": "Adam Berry, Tim Stebbins, Keegan Matheson",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jnrftlv1ewfq05bo0hg1",
+      "published": "Thu, 15 Oct 2026 14:12:00 GMT",
       "source": "MLB.com",
-      "title": "Updated Thursday start times: 1 ET (ALCS Game 3), 8 ET (NLCS Game 4)",
-      "url": "https://www.mlb.com/guardians/news/updated-alcs-nlcs-start-times-oct-15"
+      "title": "Rays-Guardians ALCS Game 3 FAQ, lineups (1 ET, TBS/HBO Max)",
+      "url": "https://www.mlb.com/guardians/news/rays-vs-guardians-alcs-game-3-starting-lineups-and-pitching-matchup"
     },
     {
       "author": "Anthony Castrovince",
@@ -45,6 +45,14 @@
       "source": "MLB.com",
       "title": "11 on 11: Why Jos\u00e9 (NOT J-Ram!) is Cleveland's brightest star",
       "url": "https://www.mlb.com/guardians/news/11-great-things-about-jose-ramirez-in-alcs"
+    },
+    {
+      "author": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/nrx4ldrnsxorncf9wflq",
+      "published": "Wed, 14 Oct 2026 19:14:00 GMT",
+      "source": "MLB.com",
+      "title": "Today's updated start times: 1 ET (ALCS Game 3, TBS/HBO Max), 8 ET (NLCS Game 4, FS1, FOX One)",
+      "url": "https://www.mlb.com/guardians/news/updated-alcs-nlcs-start-times-oct-15"
     },
     {
       "author": "Brent Maguire",
@@ -69,14 +77,6 @@
       "source": "MLB.com",
       "title": "Podcast: Rays, Guardians clash in Cleveland",
       "url": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-10/15/573262b8-564adcd9-d5139619-csvm-diamondgcp-asset_1280x720_59_4000K.mp4"
-    },
-    {
-      "author": "Keegan Matheson",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fhfzbagoez4dqviyxoel",
-      "published": "Wed, 14 Oct 2026 21:55:25 GMT",
-      "source": "MLB.com",
-      "title": "'Whenever you need me': Smith a busy man at back end of Guardians' bullpen",
-      "url": "https://www.mlb.com/guardians/news/cade-smith-busy-at-back-end-of-bullpen-for-guardians"
     }
   ],
   "heroLine": "85\u201377.",
@@ -763,7 +763,7 @@
       {
         "abbreviation": "TB",
         "date": "2026-10-15",
-        "detail": "Scheduled",
+        "detail": "Pre-Game",
         "gameNumber": 1,
         "gameType": "L",
         "home": true,
@@ -773,7 +773,7 @@
         "probable": "Gavin Williams",
         "result": null,
         "save": "",
-        "score": null,
+        "score": "0\u20130",
         "series": "Championship Series",
         "startTime": "2026-10-15T17:00:00Z",
         "startTimeTBD": false,
