@@ -28,7 +28,7 @@
       }
     ]
   },
-  "generatedAt": "2026-10-15T04:42:48Z",
+  "generatedAt": "2026-10-15T09:57:27Z",
   "headlines": [
     {
       "author": "",
@@ -63,20 +63,20 @@
       "url": "https://www.mlb.com/guardians/news/steven-kwan-chandler-simpson-unlike-anyone-else-mlb-postseason"
     },
     {
+      "author": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/anjgy1ydjfpnbjzy2pca",
+      "published": "Thu, 15 Oct 2026 05:11:49 GMT",
+      "source": "MLB.com",
+      "title": "Podcast: Rays, Guardians clash in Cleveland",
+      "url": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-10/15/573262b8-564adcd9-d5139619-csvm-diamondgcp-asset_1280x720_59_4000K.mp4"
+    },
+    {
       "author": "Keegan Matheson",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/fhfzbagoez4dqviyxoel",
       "published": "Wed, 14 Oct 2026 21:55:25 GMT",
       "source": "MLB.com",
       "title": "'Whenever you need me': Smith a busy man at back end of Guardians' bullpen",
       "url": "https://www.mlb.com/guardians/news/cade-smith-busy-at-back-end-of-bullpen-for-guardians"
-    },
-    {
-      "author": "Adam Berry, Tim Stebbins, Keegan Matheson",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jnrftlv1ewfq05bo0hg1",
-      "published": "Wed, 14 Oct 2026 21:45:00 GMT",
-      "source": "MLB.com",
-      "title": "Rays-Guardians ALCS Game 3 FAQ (Thurs., 1 ET, TBS/HBO Max)",
-      "url": "https://www.mlb.com/guardians/news/rays-vs-guardians-alcs-game-3-starting-lineups-and-pitching-matchup"
     }
   ],
   "heroLine": "85\u201377.",
