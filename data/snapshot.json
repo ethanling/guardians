@@ -28,7 +28,7 @@
       }
     ]
   },
-  "generatedAt": "2026-10-16T17:26:13Z",
+  "generatedAt": "2026-10-16T21:11:22Z",
   "headlines": [
     {
       "author": "Adam Berry, Tim Stebbins",
@@ -49,7 +49,7 @@
     {
       "author": "Adam Berry, Tim Stebbins, Keegan Matheson",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/t7cgfdkhafc2ibdlcfqt",
-      "published": "Fri, 16 Oct 2026 14:38:00 GMT",
+      "published": "Fri, 16 Oct 2026 20:58:00 GMT",
       "source": "MLB.com",
       "title": "Rays-Guardians ALCS Game 4 lineups, FAQ (8 ET, TBS/HBO Max)",
       "url": "https://www.mlb.com/guardians/news/when-is-rays-vs-guardians-alcs-game-4-date-time-and-lineups"
@@ -763,7 +763,7 @@
       {
         "abbreviation": "TB",
         "date": "2026-10-16",
-        "detail": "Scheduled",
+        "detail": "Pre-Game",
         "gameNumber": 1,
         "gameType": "L",
         "home": true,
@@ -773,7 +773,7 @@
         "probable": "Shawn Armstrong",
         "result": null,
         "save": "",
-        "score": null,
+        "score": "0\u20130",
         "series": "Championship Series",
         "startTime": "2026-10-17T00:00:00Z",
         "startTimeTBD": false,
