@@ -28,7 +28,7 @@
       }
     ]
   },
-  "generatedAt": "2026-10-16T01:22:39Z",
+  "generatedAt": "2026-10-16T07:12:24Z",
   "headlines": [
     {
       "author": "Tim Stebbins",
@@ -65,18 +65,18 @@
     {
       "author": "Adam Berry, Tim Stebbins, Keegan Matheson",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/t7cgfdkhafc2ibdlcfqt",
-      "published": "Thu, 15 Oct 2026 23:50:19 GMT",
+      "published": "Fri, 16 Oct 2026 06:55:00 GMT",
       "source": "MLB.com",
-      "title": "Rays-Guardians ALCS Game 4 lineups, FAQ (6 ET Fri., TBS/HBO Max)",
+      "title": "Rays-Guardians ALCS Game 4 lineups, FAQ (6 ET, TBS/HBO Max)",
       "url": "https://www.mlb.com/guardians/news/when-is-rays-vs-guardians-alcs-game-4-date-time-and-lineups"
     },
     {
-      "author": "Anthony Castrovince",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/oicfap209guxwv9061rv",
-      "published": "Thu, 15 Oct 2026 22:05:57 GMT",
+      "author": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/byopbmucfzgknf7oswpb",
+      "published": "Fri, 16 Oct 2026 06:03:17 GMT",
       "source": "MLB.com",
-      "title": "Guards' rare aggressiveness at Deadline paying off during playoff run",
-      "url": "https://www.mlb.com/guardians/news/nathaniel-lowe-jo-adell-trades-paying-off-for-guardians-during-alcs-run"
+      "title": "Podcast: Guardians go up 2-1 in ALCS",
+      "url": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-10/16/a8f271d4-409f5af0-9c4062d4-csvm-diamondgcp-asset_1280x720_59_4000K.mp4"
     }
   ],
   "heroLine": "85\u201377.",
@@ -775,7 +775,7 @@
         "save": "",
         "score": null,
         "series": "Championship Series",
-        "startTime": "2026-10-16T22:00:00Z",
+        "startTime": "2026-10-17T00:00:00Z",
         "startTimeTBD": false,
         "status": "Preview",
         "venue": "Progressive Field",
@@ -817,7 +817,7 @@
         "save": "",
         "score": null,
         "series": "Championship Series",
-        "startTime": "2026-10-19T21:00:00Z",
+        "startTime": "2026-10-20T00:00:00Z",
         "startTimeTBD": false,
         "status": "Preview",
         "venue": "Tropicana Field",
