@@ -28,8 +28,16 @@
       }
     ]
   },
-  "generatedAt": "2026-10-16T12:27:30Z",
+  "generatedAt": "2026-10-16T17:26:13Z",
   "headlines": [
+    {
+      "author": "Adam Berry, Tim Stebbins",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/afi1ugdxejbfbuaejwx0",
+      "published": "Fri, 16 Oct 2026 14:58:00 GMT",
+      "source": "MLB.com",
+      "title": "How might ALCS Game 4 pitching plans shape up?",
+      "url": "https://www.mlb.com/guardians/news/rays-and-guardians-pitching-plans-for-alcs-game-4"
+    },
     {
       "author": "Tim Stebbins",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jtw9gx53ftgsbq7mqfwq",
@@ -37,6 +45,14 @@
       "source": "MLB.com",
       "title": "Which landed 1st? Halpin's epic HR or the 'majestic' bat flip that followed?",
       "url": "https://www.mlb.com/guardians/news/petey-halpin-go-ahead-homer-guardians-win-game-3-2026-alcs"
+    },
+    {
+      "author": "Adam Berry, Tim Stebbins, Keegan Matheson",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/t7cgfdkhafc2ibdlcfqt",
+      "published": "Fri, 16 Oct 2026 14:38:00 GMT",
+      "source": "MLB.com",
+      "title": "Rays-Guardians ALCS Game 4 lineups, FAQ (8 ET, TBS/HBO Max)",
+      "url": "https://www.mlb.com/guardians/news/when-is-rays-vs-guardians-alcs-game-4-date-time-and-lineups"
     },
     {
       "author": "Keegan Matheson",
@@ -61,22 +77,6 @@
       "source": "MLB.com",
       "title": "Smith tosses latest round of calm perfection with 4-out save in Game 3",
       "url": "https://www.mlb.com/guardians/news/cade-smith-four-out-save-guardians-game-3-alcs-win"
-    },
-    {
-      "author": "Adam Berry, Tim Stebbins, Keegan Matheson",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/t7cgfdkhafc2ibdlcfqt",
-      "published": "Fri, 16 Oct 2026 06:55:00 GMT",
-      "source": "MLB.com",
-      "title": "Rays-Guardians ALCS Game 4 lineups, FAQ (8 ET, TBS/HBO Max)",
-      "url": "https://www.mlb.com/guardians/news/when-is-rays-vs-guardians-alcs-game-4-date-time-and-lineups"
-    },
-    {
-      "author": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/byopbmucfzgknf7oswpb",
-      "published": "Fri, 16 Oct 2026 06:03:17 GMT",
-      "source": "MLB.com",
-      "title": "Podcast: Guardians go up 2-1 in ALCS",
-      "url": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-10/16/a8f271d4-409f5af0-9c4062d4-csvm-diamondgcp-asset_1280x720_59_4000K.mp4"
     }
   ],
   "heroLine": "85\u201377.",
@@ -770,7 +770,7 @@
         "loser": "",
         "opponent": "Rays",
         "opponentProbable": "Nick Martinez",
-        "probable": "",
+        "probable": "Shawn Armstrong",
         "result": null,
         "save": "",
         "score": null,
