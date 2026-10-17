@@ -28,7 +28,7 @@
       }
     ]
   },
-  "generatedAt": "2026-10-17T04:30:00Z",
+  "generatedAt": "2026-10-17T13:44:27Z",
   "headlines": [
     {
       "author": "Tim Stebbins",
@@ -775,7 +775,7 @@
         "save": "",
         "score": null,
         "series": "Championship Series",
-        "startTime": "2026-10-18T00:00:00Z",
+        "startTime": "2026-10-18T00:08:00Z",
         "startTimeTBD": false,
         "status": "Preview",
         "venue": "Progressive Field",
@@ -796,7 +796,7 @@
         "save": "",
         "score": null,
         "series": "Championship Series",
-        "startTime": "2026-10-18T21:00:00Z",
+        "startTime": "2026-10-18T21:08:00Z",
         "startTimeTBD": false,
         "status": "Preview",
         "venue": "Progressive Field",
@@ -817,7 +817,7 @@
         "save": "",
         "score": null,
         "series": "Championship Series",
-        "startTime": "2026-10-20T00:00:00Z",
+        "startTime": "2026-10-20T00:08:00Z",
         "startTimeTBD": false,
         "status": "Preview",
         "venue": "Tropicana Field",
@@ -838,7 +838,7 @@
         "save": "",
         "score": null,
         "series": "Championship Series",
-        "startTime": "2026-10-21T00:00:00Z",
+        "startTime": "2026-10-21T00:08:00Z",
         "startTimeTBD": false,
         "status": "Preview",
         "venue": "Tropicana Field",
