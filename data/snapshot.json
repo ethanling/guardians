@@ -28,8 +28,24 @@
       }
     ]
   },
-  "generatedAt": "2026-10-18T18:07:21Z",
+  "generatedAt": "2026-10-18T20:45:55Z",
   "headlines": [
+    {
+      "author": "Tim Stebbins",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/g0hwniojys63jlsgli62",
+      "published": "Sun, 18 Oct 2026 20:26:14 GMT",
+      "source": "MLB.com",
+      "title": "Guardians pair Messick with Bailey to keep catcher's hot bat in Game 5 lineup",
+      "url": "https://www.mlb.com/guardians/news/patrick-bailey-parker-messick-guardians-lineup-game-5-2026-alcs"
+    },
+    {
+      "author": "Adam Berry, Tim Stebbins, Keegan Matheson",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rrqng9wna6nv1uvoax2x",
+      "published": "Sun, 18 Oct 2026 18:05:00 GMT",
+      "source": "MLB.com",
+      "title": "Rays-Guardians ALCS Game 5 lineups, FAQ (5 ET on TBS/HBO Max)",
+      "url": "https://www.mlb.com/guardians/news/rays-vs-guardians-alcs-game-5-starting-lineups-and-pitching-matchup"
+    },
     {
       "author": "Tim Stebbins",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bkieuszhwmh7migbjxox",
@@ -61,22 +77,6 @@
       "source": "MLB.com",
       "title": "Guardians' rally falls short; ALCS evened at 2-2",
       "url": "https://www.mlb.com/guardians/news/rays-win-alcs-game-4-2026"
-    },
-    {
-      "author": "Adam Berry, Tim Stebbins, Keegan Matheson",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rrqng9wna6nv1uvoax2x",
-      "published": "Sun, 18 Oct 2026 17:08:00 GMT",
-      "source": "MLB.com",
-      "title": "Rays-Guardians ALCS Game 5 (5 ET on TBS/HBO Max)",
-      "url": "https://www.mlb.com/guardians/news/rays-vs-guardians-alcs-game-5-starting-lineups-and-pitching-matchup"
-    },
-    {
-      "author": "Aiden Stepansky",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/mwywuxjmchchlkeuthrc",
-      "published": "Sun, 18 Oct 2026 05:35:12 GMT",
-      "source": "MLB.com",
-      "title": "Guardians just one part of huge weekend for Ohio sports",
-      "url": "https://www.mlb.com/guardians/news/guardians-browns-and-buckeyes-all-play-in-big-ohio-sports-weekend"
     }
   ],
   "heroLine": "85\u201377.",
@@ -763,7 +763,7 @@
       {
         "abbreviation": "TB",
         "date": "2026-10-18",
-        "detail": "Pre-Game",
+        "detail": "Warmup",
         "gameNumber": 1,
         "gameType": "L",
         "home": true,
@@ -777,7 +777,7 @@
         "series": "Championship Series",
         "startTime": "2026-10-18T21:08:00Z",
         "startTimeTBD": false,
-        "status": "Preview",
+        "status": "Live",
         "venue": "Progressive Field",
         "winner": ""
       },
