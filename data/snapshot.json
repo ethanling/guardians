@@ -28,7 +28,7 @@
       }
     ]
   },
-  "generatedAt": "2026-10-18T11:09:28Z",
+  "generatedAt": "2026-10-18T18:07:21Z",
   "headlines": [
     {
       "author": "Tim Stebbins",
@@ -65,7 +65,7 @@
     {
       "author": "Adam Berry, Tim Stebbins, Keegan Matheson",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rrqng9wna6nv1uvoax2x",
-      "published": "Sun, 18 Oct 2026 06:30:12 GMT",
+      "published": "Sun, 18 Oct 2026 17:08:00 GMT",
       "source": "MLB.com",
       "title": "Rays-Guardians ALCS Game 5 (5 ET on TBS/HBO Max)",
       "url": "https://www.mlb.com/guardians/news/rays-vs-guardians-alcs-game-5-starting-lineups-and-pitching-matchup"
@@ -763,7 +763,7 @@
       {
         "abbreviation": "TB",
         "date": "2026-10-18",
-        "detail": "Scheduled",
+        "detail": "Pre-Game",
         "gameNumber": 1,
         "gameType": "L",
         "home": true,
@@ -773,7 +773,7 @@
         "probable": "Parker Messick",
         "result": null,
         "save": "",
-        "score": null,
+        "score": "0\u20130",
         "series": "Championship Series",
         "startTime": "2026-10-18T21:08:00Z",
         "startTimeTBD": false,
