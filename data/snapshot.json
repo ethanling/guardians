@@ -28,8 +28,24 @@
       }
     ]
   },
-  "generatedAt": "2026-10-18T20:45:55Z",
+  "generatedAt": "2026-10-18T23:14:47Z",
   "headlines": [
+    {
+      "author": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gu0umjajmwj7q5dfgmur",
+      "published": "Sun, 18 Oct 2026 22:15:22 GMT",
+      "source": "MLB.com",
+      "title": "LIVE: Guardians battling in pivotal ALCS Game 5 (TBS, HBO Max)",
+      "url": "https://www.mlb.com/stories/game/849817"
+    },
+    {
+      "author": "Tim Stebbins",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zksmn0pkvygdw3nk8rvq",
+      "published": "Sun, 18 Oct 2026 22:37:24 GMT",
+      "source": "MLB.com",
+      "title": "Messick struggles with command as Game 5 becomes shortest start of career",
+      "url": "https://www.mlb.com/guardians/news/parker-messick-two-innings-guardians-game-5-alcs"
+    },
     {
       "author": "Tim Stebbins",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/g0hwniojys63jlsgli62",
@@ -39,19 +55,11 @@
       "url": "https://www.mlb.com/guardians/news/patrick-bailey-parker-messick-guardians-lineup-game-5-2026-alcs"
     },
     {
-      "author": "Adam Berry, Tim Stebbins, Keegan Matheson",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rrqng9wna6nv1uvoax2x",
-      "published": "Sun, 18 Oct 2026 18:05:00 GMT",
-      "source": "MLB.com",
-      "title": "Rays-Guardians ALCS Game 5 lineups, FAQ (5 ET on TBS/HBO Max)",
-      "url": "https://www.mlb.com/guardians/news/rays-vs-guardians-alcs-game-5-starting-lineups-and-pitching-matchup"
-    },
-    {
       "author": "Tim Stebbins",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bkieuszhwmh7migbjxox",
       "published": "Sun, 18 Oct 2026 06:35:00 GMT",
       "source": "MLB.com",
-      "title": "With ALCS evened, Guardians look to flush Game 4 and hand ball to Messick",
+      "title": "With ALCS evened, Guardians look to flush Game 4",
       "url": "https://www.mlb.com/guardians/news/guardians-lose-game-4-2026-alcs-rays"
     },
     {
@@ -69,14 +77,6 @@
       "source": "MLB.com",
       "title": "Halpin's latest playoff moment? Tracking Caminero's 'funky' blast with wild circus catch",
       "url": "https://www.mlb.com/guardians/news/petey-halpin-crazy-catch-guardians-alcs-game-4-loss-rays"
-    },
-    {
-      "author": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dad1pf03rxnhtsvqewsp",
-      "published": "Sun, 18 Oct 2026 00:59:11 GMT",
-      "source": "MLB.com",
-      "title": "Guardians' rally falls short; ALCS evened at 2-2",
-      "url": "https://www.mlb.com/guardians/news/rays-win-alcs-game-4-2026"
     }
   ],
   "heroLine": "85\u201377.",
@@ -763,7 +763,7 @@
       {
         "abbreviation": "TB",
         "date": "2026-10-18",
-        "detail": "Warmup",
+        "detail": "In Progress",
         "gameNumber": 1,
         "gameType": "L",
         "home": true,
@@ -773,7 +773,7 @@
         "probable": "Parker Messick",
         "result": null,
         "save": "",
-        "score": "0\u20130",
+        "score": "1\u20133",
         "series": "Championship Series",
         "startTime": "2026-10-18T21:08:00Z",
         "startTimeTBD": false,
