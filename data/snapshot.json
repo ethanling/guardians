@@ -28,12 +28,12 @@
       }
     ]
   },
-  "generatedAt": "2026-10-19T07:48:51Z",
+  "generatedAt": "2026-10-19T15:38:19Z",
   "headlines": [
     {
       "author": "Tim Stebbins",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zksmn0pkvygdw3nk8rvq",
-      "published": "Mon, 19 Oct 2026 02:24:00 GMT",
+      "published": "Mon, 19 Oct 2026 15:14:00 GMT",
       "source": "MLB.com",
       "title": "Guardians facing elimination, and they'll need a revised pitching plan to avoid it",
       "url": "https://www.mlb.com/guardians/news/parker-messick-two-innings-guardians-game-5-alcs"
@@ -65,7 +65,7 @@
     {
       "author": "Adam Berry, Tim Stebbins, Keegan Matheson",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wu42v3wqf6s9259fxon5",
-      "published": "Mon, 19 Oct 2026 02:01:40 GMT",
+      "published": "Mon, 19 Oct 2026 15:09:00 GMT",
       "source": "MLB.com",
       "title": "Guardians-Rays ALCS Game 6 FAQ (8 ET on TBS/HBO Max)",
       "url": "https://www.mlb.com/guardians/news/guardians-vs-rays-alcs-game-6-starting-lineups-pitching-matchup"
@@ -770,7 +770,7 @@
         "loser": "",
         "opponent": "Rays",
         "opponentProbable": "Freddy Peralta",
-        "probable": "",
+        "probable": "Shawn Armstrong",
         "result": null,
         "save": "",
         "score": null,
