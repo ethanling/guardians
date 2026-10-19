@@ -28,8 +28,16 @@
       }
     ]
   },
-  "generatedAt": "2026-10-19T01:20:44Z",
+  "generatedAt": "2026-10-19T07:48:51Z",
   "headlines": [
+    {
+      "author": "Tim Stebbins",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zksmn0pkvygdw3nk8rvq",
+      "published": "Mon, 19 Oct 2026 02:24:00 GMT",
+      "source": "MLB.com",
+      "title": "Guardians facing elimination, and they'll need a revised pitching plan to avoid it",
+      "url": "https://www.mlb.com/guardians/news/parker-messick-two-innings-guardians-game-5-alcs"
+    },
     {
       "author": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uwmvm1lx1ia5od3l2unc",
@@ -39,12 +47,28 @@
       "url": "https://www.mlb.com/guardians/news/rays-win-alcs-game-5-2026"
     },
     {
-      "author": "Tim Stebbins",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zksmn0pkvygdw3nk8rvq",
-      "published": "Mon, 19 Oct 2026 00:06:00 GMT",
+      "author": "Keegan Matheson",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/aekx3cn2gwhlwai2nxxm",
+      "published": "Mon, 19 Oct 2026 02:12:33 GMT",
       "source": "MLB.com",
-      "title": "Messick struggles with command as Game 5 becomes shortest start of career",
-      "url": "https://www.mlb.com/guardians/news/parker-messick-two-innings-guardians-game-5-alcs"
+      "title": "Thought Kwan's first play was good? Gold Glover comes back with another gem",
+      "url": "https://www.mlb.com/guardians/news/steven-kwan-makes-great-throw-catch-in-alcs-game-5"
+    },
+    {
+      "author": "Will Leitch",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/a2xxqrc2fl59rtq9whd9",
+      "published": "Mon, 19 Oct 2026 02:28:36 GMT",
+      "source": "MLB.com",
+      "title": "3 storylines to watch as Guards-Rays clash in ALCS Game 6",
+      "url": "https://www.mlb.com/guardians/news/2026-alcs-game-6-storylines"
+    },
+    {
+      "author": "Adam Berry, Tim Stebbins, Keegan Matheson",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wu42v3wqf6s9259fxon5",
+      "published": "Mon, 19 Oct 2026 02:01:40 GMT",
+      "source": "MLB.com",
+      "title": "Guardians-Rays ALCS Game 6 FAQ (8 ET on TBS/HBO Max)",
+      "url": "https://www.mlb.com/guardians/news/guardians-vs-rays-alcs-game-6-starting-lineups-pitching-matchup"
     },
     {
       "author": "Tim Stebbins",
@@ -53,30 +77,6 @@
       "source": "MLB.com",
       "title": "Guardians pair Messick with Bailey to keep catcher's hot bat in Game 5 lineup",
       "url": "https://www.mlb.com/guardians/news/patrick-bailey-parker-messick-guardians-lineup-game-5-2026-alcs"
-    },
-    {
-      "author": "Tim Stebbins",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/bkieuszhwmh7migbjxox",
-      "published": "Sun, 18 Oct 2026 06:35:00 GMT",
-      "source": "MLB.com",
-      "title": "With ALCS evened, Guardians look to flush Game 4",
-      "url": "https://www.mlb.com/guardians/news/guardians-lose-game-4-2026-alcs-rays"
-    },
-    {
-      "author": "Anthony Castrovince",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qxp6pqdumwhwqgjaxndk",
-      "published": "Sun, 18 Oct 2026 06:49:15 GMT",
-      "source": "MLB.com",
-      "title": "Here's where Rays, Guards stand as ALCS resets after Game 4",
-      "url": "https://www.mlb.com/guardians/news/takeaways-after-rays-tie-alcs-at-2-with-guardians"
-    },
-    {
-      "author": "Keegan Matheson",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cyekdz3v0zpjy8fywg75",
-      "published": "Sun, 18 Oct 2026 05:20:32 GMT",
-      "source": "MLB.com",
-      "title": "Halpin's latest playoff moment? Tracking Caminero's 'funky' blast with wild circus catch",
-      "url": "https://www.mlb.com/guardians/news/petey-halpin-crazy-catch-guardians-alcs-game-4-loss-rays"
     }
   ],
   "heroLine": "85\u201377.",
