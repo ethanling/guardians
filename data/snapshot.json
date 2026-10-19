@@ -28,20 +28,20 @@
       }
     ]
   },
-  "generatedAt": "2026-10-18T23:14:47Z",
+  "generatedAt": "2026-10-19T01:20:44Z",
   "headlines": [
     {
       "author": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/gu0umjajmwj7q5dfgmur",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uwmvm1lx1ia5od3l2unc",
       "published": "Sun, 18 Oct 2026 22:15:22 GMT",
       "source": "MLB.com",
-      "title": "LIVE: Guardians battling in pivotal ALCS Game 5 (TBS, HBO Max)",
-      "url": "https://www.mlb.com/stories/game/849817"
+      "title": "Guardians' bats go cold as club faces must-win Game 6",
+      "url": "https://www.mlb.com/guardians/news/rays-win-alcs-game-5-2026"
     },
     {
       "author": "Tim Stebbins",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zksmn0pkvygdw3nk8rvq",
-      "published": "Sun, 18 Oct 2026 22:37:24 GMT",
+      "published": "Mon, 19 Oct 2026 00:06:00 GMT",
       "source": "MLB.com",
       "title": "Messick struggles with command as Game 5 becomes shortest start of career",
       "url": "https://www.mlb.com/guardians/news/parker-messick-two-innings-guardians-game-5-alcs"
@@ -592,6 +592,27 @@
     "recent": [
       {
         "abbreviation": "TB",
+        "date": "2026-10-18",
+        "detail": "Final",
+        "gameNumber": 1,
+        "gameType": "L",
+        "home": true,
+        "loser": "Parker Messick",
+        "opponent": "Rays",
+        "opponentProbable": "Drew Rasmussen",
+        "probable": "Parker Messick",
+        "result": "L",
+        "save": "Bryan Baker",
+        "score": "1\u20133",
+        "series": "Championship Series",
+        "startTime": "2026-10-18T21:08:00Z",
+        "startTimeTBD": false,
+        "status": "Final",
+        "venue": "Progressive Field",
+        "winner": "Drew Rasmussen"
+      },
+      {
+        "abbreviation": "TB",
         "date": "2026-10-17",
         "detail": "Final",
         "gameNumber": 1,
@@ -736,51 +757,9 @@
         "status": "Final",
         "venue": "Rate Field",
         "winner": "Foster Griffin"
-      },
-      {
-        "abbreviation": "CWS",
-        "date": "2026-10-05",
-        "detail": "Final",
-        "gameNumber": 1,
-        "gameType": "D",
-        "home": true,
-        "loser": "Erik Sabrowski",
-        "opponent": "White Sox",
-        "opponentProbable": "Anthony Kay",
-        "probable": "Gavin Williams",
-        "result": "L",
-        "save": "Grant Taylor",
-        "score": "3\u20134",
-        "series": "Division Series",
-        "startTime": "2026-10-05T21:00:00Z",
-        "startTimeTBD": false,
-        "status": "Final",
-        "venue": "Progressive Field",
-        "winner": "Sean Burke"
       }
     ],
     "upcoming": [
-      {
-        "abbreviation": "TB",
-        "date": "2026-10-18",
-        "detail": "In Progress",
-        "gameNumber": 1,
-        "gameType": "L",
-        "home": true,
-        "loser": "",
-        "opponent": "Rays",
-        "opponentProbable": "Drew Rasmussen",
-        "probable": "Parker Messick",
-        "result": null,
-        "save": "",
-        "score": "1\u20133",
-        "series": "Championship Series",
-        "startTime": "2026-10-18T21:08:00Z",
-        "startTimeTBD": false,
-        "status": "Live",
-        "venue": "Progressive Field",
-        "winner": ""
-      },
       {
         "abbreviation": "TB",
         "date": "2026-10-19",
@@ -790,7 +769,7 @@
         "home": false,
         "loser": "",
         "opponent": "Rays",
-        "opponentProbable": "",
+        "opponentProbable": "Freddy Peralta",
         "probable": "",
         "result": null,
         "save": "",
