@@ -28,16 +28,8 @@
       }
     ]
   },
-  "generatedAt": "2026-10-20T11:40:56Z",
+  "generatedAt": "2026-10-20T17:10:22Z",
   "headlines": [
-    {
-      "author": "Tim Stebbins",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1792463331/mlb/vkuw5jp0kr0zdjlnxkcb",
-      "published": "Tue, 20 Oct 2026 07:06:48 GMT",
-      "source": "MLB.com",
-      "title": "'It hurts': Guards' incredible run ends 2 wins shy of World Series",
-      "url": "https://www.mlb.com/guardians/news/guardians-lose-2026-alcs-to-rays"
-    },
     {
       "author": "Keegan Matheson",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ctdc20mnpehggl61xtok",
@@ -45,6 +37,14 @@
       "source": "MLB.com",
       "title": "Despite ALCS heartbreak, young cornerstones have Guardians believing 'we\u2019ll be back'",
       "url": "https://www.mlb.com/guardians/news/travis-bazzana-chase-delauter-guardians-young-talent-2026-alcs-loss"
+    },
+    {
+      "author": "Tim Stebbins",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1792463331/mlb/vkuw5jp0kr0zdjlnxkcb",
+      "published": "Tue, 20 Oct 2026 07:06:48 GMT",
+      "source": "MLB.com",
+      "title": "'It hurts': Guards' incredible run ends 2 wins shy of World Series",
+      "url": "https://www.mlb.com/guardians/news/guardians-lose-2026-alcs-to-rays"
     },
     {
       "author": "Matt Kelly, Sarah Langs and Andrew Simon",
