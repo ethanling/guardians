@@ -28,8 +28,16 @@
       }
     ]
   },
-  "generatedAt": "2026-10-20T06:03:06Z",
+  "generatedAt": "2026-10-20T11:40:56Z",
   "headlines": [
+    {
+      "author": "Tim Stebbins",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1792463331/mlb/vkuw5jp0kr0zdjlnxkcb",
+      "published": "Tue, 20 Oct 2026 07:06:48 GMT",
+      "source": "MLB.com",
+      "title": "'It hurts': Guards' incredible run ends 2 wins shy of World Series",
+      "url": "https://www.mlb.com/guardians/news/guardians-lose-2026-alcs-to-rays"
+    },
     {
       "author": "Keegan Matheson",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ctdc20mnpehggl61xtok",
@@ -39,17 +47,9 @@
       "url": "https://www.mlb.com/guardians/news/travis-bazzana-chase-delauter-guardians-young-talent-2026-alcs-loss"
     },
     {
-      "author": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1792463331/mlb/vkuw5jp0kr0zdjlnxkcb",
-      "published": "Tue, 20 Oct 2026 01:22:59 GMT",
-      "source": "MLB.com",
-      "title": "Guardians' incredible 2026 run ends in ALCS",
-      "url": "https://www.mlb.com/guardians/news/rays-win-alcs-2026"
-    },
-    {
       "author": "Matt Kelly, Sarah Langs and Andrew Simon",
       "image": "https://img.mlbstatic.com/mlb-images/image/private/t_16x9/t_w1024/mlb/rzizif94ihgpv6tsmyhe",
-      "published": "Tue, 20 Oct 2026 03:30:00 GMT",
+      "published": "Tue, 20 Oct 2026 06:17:00 GMT",
       "source": "MLB.com",
       "title": "MLB's longest active title droughts",
       "url": "https://www.mlb.com/guardians/news/longest-world-series-title-droughts"
@@ -71,12 +71,12 @@
       "url": "https://www.mlb.com/guardians/news/arizona-fall-league-top-performers-week-2-2026"
     },
     {
-      "author": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uwmvm1lx1ia5od3l2unc",
-      "published": "Sun, 18 Oct 2026 22:15:22 GMT",
+      "author": "Rob Terranova, Brendan Samson and Michael Avallone",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kdikhgkw7v8w8wdorlio",
+      "published": "Tue, 20 Oct 2026 04:11:00 GMT",
       "source": "MLB.com",
-      "title": "Guardians' bats go cold as club faces must-win Game 6",
-      "url": "https://www.mlb.com/guardians/news/rays-win-alcs-game-5-2026"
+      "title": "Watch Guardians prospects in Arizona Fall League action",
+      "url": "https://www.mlb.com/guardians/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026"
     }
   ],
   "heroLine": "85\u201377.",
