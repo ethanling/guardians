@@ -28,31 +28,15 @@
       }
     ]
   },
-  "generatedAt": "2026-10-19T21:04:49Z",
+  "generatedAt": "2026-10-20T00:22:17Z",
   "headlines": [
     {
-      "author": "Tim Stebbins",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zksmn0pkvygdw3nk8rvq",
-      "published": "Mon, 19 Oct 2026 15:14:00 GMT",
+      "author": "Adam Berry, Tim Stebbins, Keegan Matheson",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1792447543/mlb/wu42v3wqf6s9259fxon5",
+      "published": "Mon, 19 Oct 2026 23:38:00 GMT",
       "source": "MLB.com",
-      "title": "Guardians facing elimination, and they'll need a revised pitching plan to avoid it",
-      "url": "https://www.mlb.com/guardians/news/parker-messick-two-innings-guardians-game-5-alcs"
-    },
-    {
-      "author": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uwmvm1lx1ia5od3l2unc",
-      "published": "Sun, 18 Oct 2026 22:15:22 GMT",
-      "source": "MLB.com",
-      "title": "Guardians' bats go cold as club faces must-win Game 6",
-      "url": "https://www.mlb.com/guardians/news/rays-win-alcs-game-5-2026"
-    },
-    {
-      "author": "Keegan Matheson",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/aekx3cn2gwhlwai2nxxm",
-      "published": "Mon, 19 Oct 2026 02:12:33 GMT",
-      "source": "MLB.com",
-      "title": "Thought Kwan's first play was good? Gold Glover comes back with another gem",
-      "url": "https://www.mlb.com/guardians/news/steven-kwan-makes-great-throw-catch-in-alcs-game-5"
+      "title": "LIVE: Guardians-Rays ALCS Game 6 on TBS/HBO Max",
+      "url": "https://www.mlb.com/guardians/news/guardians-vs-rays-alcs-game-6-starting-lineups-pitching-matchup"
     },
     {
       "author": "Will Leitch",
@@ -63,12 +47,28 @@
       "url": "https://www.mlb.com/guardians/news/2026-alcs-game-6-storylines"
     },
     {
-      "author": "Adam Berry, Tim Stebbins, Keegan Matheson",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wu42v3wqf6s9259fxon5",
-      "published": "Mon, 19 Oct 2026 20:22:00 GMT",
+      "author": "Tim Stebbins",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zksmn0pkvygdw3nk8rvq",
+      "published": "Mon, 19 Oct 2026 15:14:00 GMT",
       "source": "MLB.com",
-      "title": "Guardians-Rays ALCS Game 6 lineups, FAQ (8 ET on TBS/HBO Max)",
-      "url": "https://www.mlb.com/guardians/news/guardians-vs-rays-alcs-game-6-starting-lineups-pitching-matchup"
+      "title": "Guardians facing elimination, and they'll need a revised pitching plan to avoid it",
+      "url": "https://www.mlb.com/guardians/news/parker-messick-two-innings-guardians-game-5-alcs"
+    },
+    {
+      "author": "Keegan Matheson",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/aekx3cn2gwhlwai2nxxm",
+      "published": "Mon, 19 Oct 2026 02:12:33 GMT",
+      "source": "MLB.com",
+      "title": "Thought Kwan's first play was good? Gold Glover comes back with another gem",
+      "url": "https://www.mlb.com/guardians/news/steven-kwan-makes-great-throw-catch-in-alcs-game-5"
+    },
+    {
+      "author": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uwmvm1lx1ia5od3l2unc",
+      "published": "Sun, 18 Oct 2026 22:15:22 GMT",
+      "source": "MLB.com",
+      "title": "Guardians' bats go cold as club faces must-win Game 6",
+      "url": "https://www.mlb.com/guardians/news/rays-win-alcs-game-5-2026"
     },
     {
       "author": "Tim Stebbins",
@@ -763,7 +763,7 @@
       {
         "abbreviation": "TB",
         "date": "2026-10-19",
-        "detail": "Pre-Game",
+        "detail": "In Progress",
         "gameNumber": 1,
         "gameType": "L",
         "home": false,
@@ -777,7 +777,7 @@
         "series": "Championship Series",
         "startTime": "2026-10-20T00:08:00Z",
         "startTimeTBD": false,
-        "status": "Preview",
+        "status": "Live",
         "venue": "Tropicana Field",
         "winner": ""
       },
