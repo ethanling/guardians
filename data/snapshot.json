@@ -28,31 +28,31 @@
       }
     ]
   },
-  "generatedAt": "2026-10-20T00:22:17Z",
+  "generatedAt": "2026-10-20T06:03:06Z",
   "headlines": [
     {
-      "author": "Adam Berry, Tim Stebbins, Keegan Matheson",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1792447543/mlb/wu42v3wqf6s9259fxon5",
-      "published": "Mon, 19 Oct 2026 23:38:00 GMT",
+      "author": "Keegan Matheson",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ctdc20mnpehggl61xtok",
+      "published": "Tue, 20 Oct 2026 05:45:05 GMT",
       "source": "MLB.com",
-      "title": "LIVE: Guardians-Rays ALCS Game 6 on TBS/HBO Max",
-      "url": "https://www.mlb.com/guardians/news/guardians-vs-rays-alcs-game-6-starting-lineups-pitching-matchup"
+      "title": "Despite ALCS heartbreak, young cornerstones have Guardians believing 'we\u2019ll be back'",
+      "url": "https://www.mlb.com/guardians/news/travis-bazzana-chase-delauter-guardians-young-talent-2026-alcs-loss"
     },
     {
-      "author": "Will Leitch",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/a2xxqrc2fl59rtq9whd9",
-      "published": "Mon, 19 Oct 2026 17:35:00 GMT",
+      "author": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1792463331/mlb/vkuw5jp0kr0zdjlnxkcb",
+      "published": "Tue, 20 Oct 2026 01:22:59 GMT",
       "source": "MLB.com",
-      "title": "3 storylines to watch as Guards-Rays clash in ALCS Game 6",
-      "url": "https://www.mlb.com/guardians/news/2026-alcs-game-6-storylines"
+      "title": "Guardians' incredible 2026 run ends in ALCS",
+      "url": "https://www.mlb.com/guardians/news/rays-win-alcs-2026"
     },
     {
-      "author": "Tim Stebbins",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zksmn0pkvygdw3nk8rvq",
-      "published": "Mon, 19 Oct 2026 15:14:00 GMT",
+      "author": "Matt Kelly, Sarah Langs and Andrew Simon",
+      "image": "https://img.mlbstatic.com/mlb-images/image/private/t_16x9/t_w1024/mlb/rzizif94ihgpv6tsmyhe",
+      "published": "Tue, 20 Oct 2026 03:30:00 GMT",
       "source": "MLB.com",
-      "title": "Guardians facing elimination, and they'll need a revised pitching plan to avoid it",
-      "url": "https://www.mlb.com/guardians/news/parker-messick-two-innings-guardians-game-5-alcs"
+      "title": "MLB's longest active title droughts",
+      "url": "https://www.mlb.com/guardians/news/longest-world-series-title-droughts"
     },
     {
       "author": "Keegan Matheson",
@@ -63,20 +63,20 @@
       "url": "https://www.mlb.com/guardians/news/steven-kwan-makes-great-throw-catch-in-alcs-game-5"
     },
     {
+      "author": "Ben Weinrib",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ufygxkhpijk3vbov9xsq",
+      "published": "Sun, 18 Oct 2026 23:00:00 GMT",
+      "source": "MLB.com",
+      "title": "SS prospect Francisca lands on  AFL's top performers list for second straight week",
+      "url": "https://www.mlb.com/guardians/news/arizona-fall-league-top-performers-week-2-2026"
+    },
+    {
       "author": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uwmvm1lx1ia5od3l2unc",
       "published": "Sun, 18 Oct 2026 22:15:22 GMT",
       "source": "MLB.com",
       "title": "Guardians' bats go cold as club faces must-win Game 6",
       "url": "https://www.mlb.com/guardians/news/rays-win-alcs-game-5-2026"
-    },
-    {
-      "author": "Tim Stebbins",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/g0hwniojys63jlsgli62",
-      "published": "Sun, 18 Oct 2026 20:26:14 GMT",
-      "source": "MLB.com",
-      "title": "Guardians pair Messick with Bailey to keep catcher's hot bat in Game 5 lineup",
-      "url": "https://www.mlb.com/guardians/news/patrick-bailey-parker-messick-guardians-lineup-game-5-2026-alcs"
     }
   ],
   "heroLine": "85\u201377.",
@@ -592,6 +592,27 @@
     "recent": [
       {
         "abbreviation": "TB",
+        "date": "2026-10-19",
+        "detail": "Final",
+        "gameNumber": 1,
+        "gameType": "L",
+        "home": false,
+        "loser": "Shawn Armstrong",
+        "opponent": "Rays",
+        "opponentProbable": "Freddy Peralta",
+        "probable": "Shawn Armstrong",
+        "result": "L",
+        "save": "",
+        "score": "3\u20137",
+        "series": "Championship Series",
+        "startTime": "2026-10-20T00:08:00Z",
+        "startTimeTBD": false,
+        "status": "Final",
+        "venue": "Tropicana Field",
+        "winner": "Freddy Peralta"
+      },
+      {
+        "abbreviation": "TB",
         "date": "2026-10-18",
         "detail": "Final",
         "gameNumber": 1,
@@ -736,73 +757,9 @@
         "status": "Final",
         "venue": "Rate Field",
         "winner": "Erik Sabrowski"
-      },
-      {
-        "abbreviation": "CWS",
-        "date": "2026-10-07",
-        "detail": "Final",
-        "gameNumber": 1,
-        "gameType": "D",
-        "home": false,
-        "loser": "Bryan Hudson",
-        "opponent": "White Sox",
-        "opponentProbable": "Sean Newcomb",
-        "probable": "Daniel Espino",
-        "result": "W",
-        "save": "",
-        "score": "9\u20133",
-        "series": "Division Series",
-        "startTime": "2026-10-07T20:00:00Z",
-        "startTimeTBD": false,
-        "status": "Final",
-        "venue": "Rate Field",
-        "winner": "Foster Griffin"
       }
     ],
-    "upcoming": [
-      {
-        "abbreviation": "TB",
-        "date": "2026-10-19",
-        "detail": "In Progress",
-        "gameNumber": 1,
-        "gameType": "L",
-        "home": false,
-        "loser": "",
-        "opponent": "Rays",
-        "opponentProbable": "Freddy Peralta",
-        "probable": "Shawn Armstrong",
-        "result": null,
-        "save": "",
-        "score": "0\u20130",
-        "series": "Championship Series",
-        "startTime": "2026-10-20T00:08:00Z",
-        "startTimeTBD": false,
-        "status": "Live",
-        "venue": "Tropicana Field",
-        "winner": ""
-      },
-      {
-        "abbreviation": "TB",
-        "date": "2026-10-20",
-        "detail": "Scheduled",
-        "gameNumber": 1,
-        "gameType": "L",
-        "home": false,
-        "loser": "",
-        "opponent": "Rays",
-        "opponentProbable": "",
-        "probable": "",
-        "result": null,
-        "save": "",
-        "score": null,
-        "series": "Championship Series",
-        "startTime": "2026-10-21T00:08:00Z",
-        "startTimeTBD": false,
-        "status": "Preview",
-        "venue": "Tropicana Field",
-        "winner": ""
-      }
-    ]
+    "upcoming": []
   },
   "season": 2026,
   "seasonState": "complete",
