@@ -28,8 +28,16 @@
       }
     ]
   },
-  "generatedAt": "2026-10-20T23:54:07Z",
+  "generatedAt": "2026-10-21T04:51:29Z",
   "headlines": [
+    {
+      "author": "Tim Stebbins",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ludqcsywpsvydu75d5f7",
+      "published": "Wed, 21 Oct 2026 01:31:50 GMT",
+      "source": "MLB.com",
+      "title": "What Guardians' ALCS loss revealed heading into pivotal offseason",
+      "url": "https://www.mlb.com/guardians/news/guardians-take-lessons-from-2026-alcs-elimination"
+    },
     {
       "author": "Keegan Matheson",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ctdc20mnpehggl61xtok",
@@ -63,20 +71,12 @@
       "url": "https://www.mlb.com/guardians/news/steven-kwan-makes-great-throw-catch-in-alcs-game-5"
     },
     {
-      "author": "Rob Terranova, Brendan Samson and Michael Avallone",
+      "author": "Rob Terranova and Brendan Samson",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kdikhgkw7v8w8wdorlio",
-      "published": "Tue, 20 Oct 2026 23:28:00 GMT",
+      "published": "Wed, 21 Oct 2026 04:13:00 GMT",
       "source": "MLB.com",
       "title": "Watch Guardians prospects in Arizona Fall League action",
       "url": "https://www.mlb.com/guardians/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026"
-    },
-    {
-      "author": "Ben Weinrib",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ufygxkhpijk3vbov9xsq",
-      "published": "Sun, 18 Oct 2026 23:00:00 GMT",
-      "source": "MLB.com",
-      "title": "SS prospect Francisca lands on  AFL's top performers list for second straight week",
-      "url": "https://www.mlb.com/guardians/news/arizona-fall-league-top-performers-week-2-2026"
     }
   ],
   "heroLine": "85\u201377.",
