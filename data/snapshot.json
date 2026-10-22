@@ -28,7 +28,7 @@
       }
     ]
   },
-  "generatedAt": "2026-10-22T15:19:41Z",
+  "generatedAt": "2026-10-22T20:08:38Z",
   "headlines": [
     {
       "author": "Tim Stebbins",
@@ -37,6 +37,14 @@
       "source": "MLB.com",
       "title": "5 questions facing Guardians this offseason",
       "url": "https://www.mlb.com/guardians/news/guardians-2026-27-offseason-questions"
+    },
+    {
+      "author": "Shanthi Sepe-Chupuru",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/uu88gvkhrx20whyhcxif",
+      "published": "Thu, 22 Oct 2026 19:13:23 GMT",
+      "source": "MLB.com",
+      "title": "Bibee wins 2nd career Fielding Bible Award",
+      "url": "https://www.mlb.com/guardians/news/fielding-bible-award-winners-for-2026"
     },
     {
       "author": "Tim Stebbins",
@@ -69,14 +77,6 @@
       "source": "MLB.com",
       "title": "Watch Guardians prospects in Arizona Fall League action",
       "url": "https://www.mlb.com/guardians/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026"
-    },
-    {
-      "author": "Tim Stebbins",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1792463331/mlb/vkuw5jp0kr0zdjlnxkcb",
-      "published": "Tue, 20 Oct 2026 07:06:48 GMT",
-      "source": "MLB.com",
-      "title": "'It hurts': Guards' incredible run ends 2 wins shy of World Series",
-      "url": "https://www.mlb.com/guardians/news/guardians-lose-2026-alcs-to-rays"
     }
   ],
   "heroLine": "85\u201377.",
