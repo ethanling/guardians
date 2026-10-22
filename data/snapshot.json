@@ -28,8 +28,16 @@
       }
     ]
   },
-  "generatedAt": "2026-10-22T04:50:54Z",
+  "generatedAt": "2026-10-22T15:19:41Z",
   "headlines": [
+    {
+      "author": "Tim Stebbins",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dvwiuhumzf0cfrsvyrmu",
+      "published": "Thu, 22 Oct 2026 11:43:31 GMT",
+      "source": "MLB.com",
+      "title": "5 questions facing Guardians this offseason",
+      "url": "https://www.mlb.com/guardians/news/guardians-2026-27-offseason-questions"
+    },
     {
       "author": "Tim Stebbins",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ludqcsywpsvydu75d5f7",
@@ -69,14 +77,6 @@
       "source": "MLB.com",
       "title": "'It hurts': Guards' incredible run ends 2 wins shy of World Series",
       "url": "https://www.mlb.com/guardians/news/guardians-lose-2026-alcs-to-rays"
-    },
-    {
-      "author": "Matt Kelly, Sarah Langs and Andrew Simon",
-      "image": "https://img.mlbstatic.com/mlb-images/image/private/t_16x9/t_w1024/mlb/rzizif94ihgpv6tsmyhe",
-      "published": "Tue, 20 Oct 2026 06:17:00 GMT",
-      "source": "MLB.com",
-      "title": "MLB's longest active title droughts",
-      "url": "https://www.mlb.com/guardians/news/longest-world-series-title-droughts"
     }
   ],
   "heroLine": "85\u201377.",
