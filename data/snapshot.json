@@ -28,8 +28,16 @@
       }
     ]
   },
-  "generatedAt": "2026-10-22T20:08:38Z",
+  "generatedAt": "2026-10-22T23:24:19Z",
   "headlines": [
+    {
+      "author": "Tim Stebbins",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1792705778/mlb/c8yudftlp5q5dwktmmwj",
+      "published": "Thu, 22 Oct 2026 22:01:02 GMT",
+      "source": "MLB.com",
+      "title": "Vogt affirms he'll be back as Guardians' skipper in 2027",
+      "url": "https://www.mlb.com/guardians/news/stephen-vogt-to-remain-as-guardians-manager-in-2027"
+    },
     {
       "author": "Tim Stebbins",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dvwiuhumzf0cfrsvyrmu",
@@ -69,14 +77,6 @@
       "source": "MLB.com",
       "title": "Despite ALCS heartbreak, young cornerstones have Guardians believing 'we\u2019ll be back'",
       "url": "https://www.mlb.com/guardians/news/travis-bazzana-chase-delauter-guardians-young-talent-2026-alcs-loss"
-    },
-    {
-      "author": "Rob Terranova and Brendan Samson",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kdikhgkw7v8w8wdorlio",
-      "published": "Thu, 22 Oct 2026 04:26:00 GMT",
-      "source": "MLB.com",
-      "title": "Watch Guardians prospects in Arizona Fall League action",
-      "url": "https://www.mlb.com/guardians/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026"
     }
   ],
   "heroLine": "85\u201377.",
