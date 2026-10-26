@@ -28,8 +28,16 @@
       }
     ]
   },
-  "generatedAt": "2026-10-26T06:17:35Z",
+  "generatedAt": "2026-10-26T20:30:11Z",
   "headlines": [
+    {
+      "author": "Tim Stebbins",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1793030704/mlb/ycnqz2uiljpqyicovnpe",
+      "published": "Mon, 26 Oct 2026 14:13:00 GMT",
+      "source": "MLB.com",
+      "title": "Dissecting Bibee's postseason usage and what comes next",
+      "url": "https://www.mlb.com/guardians/news/tanner-bibee-2026-postseason-usage-offseason-outlook"
+    },
     {
       "author": "Tim Stebbins",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1792705778/mlb/c8yudftlp5q5dwktmmwj",
@@ -65,18 +73,10 @@
     {
       "author": "Rob Terranova and Brendan Samson",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kdikhgkw7v8w8wdorlio",
-      "published": "Mon, 26 Oct 2026 02:09:00 GMT",
+      "published": "Mon, 26 Oct 2026 20:26:00 GMT",
       "source": "MLB.com",
       "title": "Watch Guardians prospects in Arizona Fall League action",
       "url": "https://www.mlb.com/guardians/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026"
-    },
-    {
-      "author": "Sam Dykstra, Jim Callis and Jonathan Mayo",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/lkfnn9bhzdrw6oqwcqcd",
-      "published": "Thu, 22 Oct 2026 00:00:00 GMT",
-      "source": "MLB.com",
-      "title": "Each team's top performer from the 2026 Draft",
-      "url": "https://www.mlb.com/guardians/news/2026-draft-top-performer-for-each-team"
     }
   ],
   "heroLine": "85\u201377.",
