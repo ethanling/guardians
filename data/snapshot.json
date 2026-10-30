@@ -28,8 +28,16 @@
       }
     ]
   },
-  "generatedAt": "2026-10-30T19:24:34Z",
+  "generatedAt": "2026-10-30T23:49:04Z",
   "headlines": [
+    {
+      "author": "Tim Stebbins",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vwb5wpgti6zfkyh80vnf",
+      "published": "Fri, 30 Oct 2026 22:17:50 GMT",
+      "source": "MLB.com",
+      "title": "Armstrong, Stephan now free agents after Guards decline '27 options",
+      "url": "https://www.mlb.com/guardians/news/guardians-decline-shawn-armstrong-2027-mutual-option-trevor-stephan-club-option"
+    },
     {
       "author": "Tim Stebbins",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ikqqlhbyabobdjt1wfr1",
@@ -63,20 +71,12 @@
       "url": "https://www.mlb.com/guardians/news/tanner-bibee-2026-postseason-usage-offseason-outlook"
     },
     {
-      "author": "Tim Stebbins",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1792705778/mlb/c8yudftlp5q5dwktmmwj",
-      "published": "Thu, 22 Oct 2026 22:01:02 GMT",
+      "author": "Rob Terranova and Brendan Samson",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kdikhgkw7v8w8wdorlio",
+      "published": "Fri, 30 Oct 2026 21:04:00 GMT",
       "source": "MLB.com",
-      "title": "Vogt affirms he'll be back as Guardians' skipper in 2027",
-      "url": "https://www.mlb.com/guardians/news/stephen-vogt-to-remain-as-guardians-manager-in-2027"
-    },
-    {
-      "author": "Tim Stebbins",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/dvwiuhumzf0cfrsvyrmu",
-      "published": "Thu, 22 Oct 2026 11:43:31 GMT",
-      "source": "MLB.com",
-      "title": "5 questions facing Guardians this offseason",
-      "url": "https://www.mlb.com/guardians/news/guardians-2026-27-offseason-questions"
+      "title": "Watch Guardians prospects in Arizona Fall League action",
+      "url": "https://www.mlb.com/guardians/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026"
     }
   ],
   "heroLine": "85\u201377.",
