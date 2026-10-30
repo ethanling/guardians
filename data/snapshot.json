@@ -28,7 +28,7 @@
       }
     ]
   },
-  "generatedAt": "2026-10-30T01:02:00Z",
+  "generatedAt": "2026-10-30T07:09:37Z",
   "headlines": [
     {
       "author": "Tim Stebbins",
@@ -37,6 +37,22 @@
       "source": "MLB.com",
       "title": "These Guardians could take home hardware during awards season",
       "url": "https://www.mlb.com/guardians/news/parker-messick-among-guardians-who-could-win-postseason-awards"
+    },
+    {
+      "author": "Jared Greenspan",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rujljoa2nacnqkyrknop",
+      "published": "Fri, 30 Oct 2026 02:44:28 GMT",
+      "source": "MLB.com",
+      "title": "Presenting the 2026 All-Postseason Team",
+      "url": "https://www.mlb.com/guardians/news/2026-mlb-all-postseason-team"
+    },
+    {
+      "author": "Anthony Castrovince",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/b2w2bv29faucuvjr9oqx",
+      "published": "Fri, 30 Oct 2026 02:43:59 GMT",
+      "source": "MLB.com",
+      "title": "The best moment from each series during the playoffs",
+      "url": "https://www.mlb.com/guardians/news/best-postseason-moments-2026"
     },
     {
       "author": "Tim Stebbins",
@@ -61,22 +77,6 @@
       "source": "MLB.com",
       "title": "5 questions facing Guardians this offseason",
       "url": "https://www.mlb.com/guardians/news/guardians-2026-27-offseason-questions"
-    },
-    {
-      "author": "Jesse Borek",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/xavph9woqfzkfjru6kto",
-      "published": "Tue, 27 Oct 2026 01:24:28 GMT",
-      "source": "MLB.com",
-      "title": "Guards' No. 19 prospect puts 'impact player' tools on display in Fall League",
-      "url": "https://www.mlb.com/guardians/news/guardians-welbyn-francisca-continues-rise-into-arizona-fall-league"
-    },
-    {
-      "author": "Rob Terranova and Brendan Samson",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kdikhgkw7v8w8wdorlio",
-      "published": "Fri, 30 Oct 2026 00:40:00 GMT",
-      "source": "MLB.com",
-      "title": "Watch Guardians prospects in Arizona Fall League action",
-      "url": "https://www.mlb.com/guardians/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026"
     }
   ],
   "heroLine": "85\u201377.",
