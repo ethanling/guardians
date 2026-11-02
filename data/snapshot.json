@@ -28,8 +28,16 @@
       }
     ]
   },
-  "generatedAt": "2026-11-01T07:35:15Z",
+  "generatedAt": "2026-11-02T06:08:52Z",
   "headlines": [
+    {
+      "author": "Tim Stebbins",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1793059222/mlb/sklbamqclvojbry0ub3a",
+      "published": "Mon, 02 Nov 2026 02:23:37 GMT",
+      "source": "MLB.com",
+      "title": "Bibee wins 1st career Gold Glove, 2nd Cleveland pitcher to earn honor",
+      "url": "https://www.mlb.com/guardians/news/tanner-bibee-wins-al-pitcher-gold-glove-award"
+    },
     {
       "author": "Tim Stebbins",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vwb5wpgti6zfkyh80vnf",
@@ -69,14 +77,6 @@
       "source": "MLB.com",
       "title": "Dissecting Bibee's postseason usage and what comes next",
       "url": "https://www.mlb.com/guardians/news/tanner-bibee-2026-postseason-usage-offseason-outlook"
-    },
-    {
-      "author": "Rob Terranova and Brendan Samson",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kdikhgkw7v8w8wdorlio",
-      "published": "Sun, 01 Nov 2026 03:25:00 GMT",
-      "source": "MLB.com",
-      "title": "Watch Guardians prospects in Arizona Fall League action",
-      "url": "https://www.mlb.com/guardians/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026"
     }
   ],
   "heroLine": "85\u201377.",
