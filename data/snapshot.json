@@ -28,8 +28,16 @@
       }
     ]
   },
-  "generatedAt": "2026-11-02T15:58:30Z",
+  "generatedAt": "2026-11-03T06:51:19Z",
   "headlines": [
+    {
+      "author": "Tim Stebbins",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zudxkpjrnpyxrwvib1bp",
+      "published": "Tue, 03 Nov 2026 00:40:05 GMT",
+      "source": "MLB.com",
+      "title": "Big awards week ahead for Messick (ROY, Cy Young), Smith (Reliever of the Year)",
+      "url": "https://www.mlb.com/guardians/news/parker-messick-cade-smith-cy-young-award-rookie-of-the-year-reliever-of-the-year"
+    },
     {
       "author": "Tim Stebbins",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1793059222/mlb/sklbamqclvojbry0ub3a",
@@ -69,14 +77,6 @@
       "source": "MLB.com",
       "title": "Presenting the 2026 All-Postseason Team",
       "url": "https://www.mlb.com/guardians/news/2026-mlb-all-postseason-team"
-    },
-    {
-      "author": "Anthony Castrovince",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/b2w2bv29faucuvjr9oqx",
-      "published": "Fri, 30 Oct 2026 15:35:00 GMT",
-      "source": "MLB.com",
-      "title": "The best moment from each series during the playoffs",
-      "url": "https://www.mlb.com/guardians/news/best-postseason-moments-2026"
     }
   ],
   "heroLine": "85\u201377.",
