@@ -28,7 +28,7 @@
       }
     ]
   },
-  "generatedAt": "2026-11-04T09:16:26Z",
+  "generatedAt": "2026-11-04T17:21:03Z",
   "headlines": [
     {
       "author": "Tim Stebbins",
@@ -45,6 +45,14 @@
       "source": "MLB.com",
       "title": "Bibee wins 1st career Gold Glove, 2nd Cleveland pitcher to earn honor",
       "url": "https://www.mlb.com/guardians/news/tanner-bibee-wins-al-pitcher-gold-glove-award"
+    },
+    {
+      "author": "Sam Dykstra",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wm4gzcdag1xucowe2rii",
+      "published": "Wed, 04 Nov 2026 16:01:59 GMT",
+      "source": "MLB.com",
+      "title": "Here are the rosters for Sunday's AFL Fall Stars Game",
+      "url": "https://www.mlb.com/guardians/news/2026-arizona-fall-league-fall-stars-game-rosters"
     },
     {
       "author": "",
@@ -69,14 +77,6 @@
       "source": "MLB.com",
       "title": "Armstrong, Stephan now free agents after Guards decline '27 options",
       "url": "https://www.mlb.com/guardians/news/guardians-decline-shawn-armstrong-2027-mutual-option-trevor-stephan-club-option"
-    },
-    {
-      "author": "Rob Terranova and Brendan Samson",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kdikhgkw7v8w8wdorlio",
-      "published": "Wed, 04 Nov 2026 05:35:00 GMT",
-      "source": "MLB.com",
-      "title": "Watch Guardians prospects in Arizona Fall League action",
-      "url": "https://www.mlb.com/guardians/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026"
     }
   ],
   "heroLine": "85\u201377.",
