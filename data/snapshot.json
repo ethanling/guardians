@@ -28,8 +28,16 @@
       }
     ]
   },
-  "generatedAt": "2026-11-05T06:50:00Z",
+  "generatedAt": "2026-11-05T15:29:20Z",
   "headlines": [
+    {
+      "author": "Tim Stebbins",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vwxjkhsvulwdpv8sjgc2",
+      "published": "Thu, 05 Nov 2026 11:48:39 GMT",
+      "source": "MLB.com",
+      "title": "One year before free agency, what does future hold for Kwan?",
+      "url": "https://www.mlb.com/guardians/news/guardians-outlook-on-steven-kwan-one-year-before-free-agency"
+    },
     {
       "author": "Tim Stebbins",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zudxkpjrnpyxrwvib1bp",
@@ -69,14 +77,6 @@
       "source": "MLB.com",
       "title": "What does future hold for Guardians' team leader, free agent Hedges?",
       "url": "https://www.mlb.com/guardians/news/austin-hedges-among-guardians-free-agents-2026-27-offseason"
-    },
-    {
-      "author": "Rob Terranova and Brendan Samson",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kdikhgkw7v8w8wdorlio",
-      "published": "Thu, 05 Nov 2026 05:32:00 GMT",
-      "source": "MLB.com",
-      "title": "Watch Guardians prospects in Arizona Fall League action",
-      "url": "https://www.mlb.com/guardians/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026"
     }
   ],
   "heroLine": "85\u201377.",
