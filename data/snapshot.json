@@ -28,8 +28,16 @@
       }
     ]
   },
-  "generatedAt": "2026-11-05T15:29:20Z",
+  "generatedAt": "2026-11-05T22:00:01Z",
   "headlines": [
+    {
+      "author": "Manny Randhawa",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wv5gzxiistlapslthvqo",
+      "published": "Thu, 05 Nov 2026 16:13:03 GMT",
+      "source": "MLB.com",
+      "title": "DeLauter a first-time nominee for Silver Slugger Award",
+      "url": "https://www.mlb.com/guardians/news/2026-silver-slugger-award-finalists"
+    },
     {
       "author": "Tim Stebbins",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vwxjkhsvulwdpv8sjgc2",
@@ -69,14 +77,6 @@
       "source": "MLB.com",
       "title": "Here are the rosters for Sunday's AFL Fall Stars Game",
       "url": "https://www.mlb.com/guardians/news/2026-arizona-fall-league-fall-stars-game-rosters"
-    },
-    {
-      "author": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/eotkgogwcigoqoy8lhja",
-      "published": "Mon, 02 Nov 2026 15:34:30 GMT",
-      "source": "MLB.com",
-      "title": "What does future hold for Guardians' team leader, free agent Hedges?",
-      "url": "https://www.mlb.com/guardians/news/austin-hedges-among-guardians-free-agents-2026-27-offseason"
     }
   ],
   "heroLine": "85\u201377.",
