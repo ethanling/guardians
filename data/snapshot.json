@@ -28,7 +28,7 @@
       }
     ]
   },
-  "generatedAt": "2026-11-06T23:11:12Z",
+  "generatedAt": "2026-11-07T02:49:35Z",
   "headlines": [
     {
       "author": "Manny Randhawa",
@@ -37,6 +37,14 @@
       "source": "MLB.com",
       "title": "DeLauter a first-time nominee for Silver Slugger Award",
       "url": "https://www.mlb.com/guardians/news/2026-silver-slugger-award-finalists"
+    },
+    {
+      "author": "Tim Stebbins",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zmxzkldnduj4gmma2eug",
+      "published": "Fri, 06 Nov 2026 20:44:28 GMT",
+      "source": "MLB.com",
+      "title": "Guards bring back familiar face in waiver claim Tena",
+      "url": "https://www.mlb.com/guardians/news/guardians-claim-jose-tena-waivers-nationals"
     },
     {
       "author": "Tim Stebbins",
@@ -69,14 +77,6 @@
       "source": "MLB.com",
       "title": "Breaking down the Fall Stars Game participants by organization",
       "url": "https://www.mlb.com/guardians/news/2026-arizona-fall-league-fall-stars-by-organization"
-    },
-    {
-      "author": "Rob Terranova and Brendan Samson",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kdikhgkw7v8w8wdorlio",
-      "published": "Fri, 06 Nov 2026 20:25:00 GMT",
-      "source": "MLB.com",
-      "title": "Watch Guardians prospects in Arizona Fall League action",
-      "url": "https://www.mlb.com/guardians/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026"
     }
   ],
   "heroLine": "85\u201377.",
