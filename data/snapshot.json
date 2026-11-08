@@ -28,8 +28,16 @@
       }
     ]
   },
-  "generatedAt": "2026-11-07T20:54:15Z",
+  "generatedAt": "2026-11-08T15:14:36Z",
   "headlines": [
+    {
+      "author": "Tim Stebbins",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kamiq0vjjemkeoy1uuji",
+      "published": "Sun, 08 Nov 2026 11:00:00 GMT",
+      "source": "MLB.com",
+      "title": "Smith, Messick named Cleveland BBWAA award winners",
+      "url": "https://www.mlb.com/guardians/news/cade-smith-parker-messick-win-local-2026-bbwaa-awards"
+    },
     {
       "author": "Manny Randhawa",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wv5gzxiistlapslthvqo",
@@ -69,14 +77,6 @@
       "source": "MLB.com",
       "title": "Big awards week ahead for Messick (ROY, Cy Young), Smith (Reliever of the Year)",
       "url": "https://www.mlb.com/guardians/news/parker-messick-cade-smith-cy-young-award-rookie-of-the-year-reliever-of-the-year"
-    },
-    {
-      "author": "Tim Stebbins",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1793059222/mlb/sklbamqclvojbry0ub3a",
-      "published": "Mon, 02 Nov 2026 02:23:37 GMT",
-      "source": "MLB.com",
-      "title": "Bibee wins 1st career Gold Glove, 2nd Cleveland pitcher to earn honor",
-      "url": "https://www.mlb.com/guardians/news/tanner-bibee-wins-al-pitcher-gold-glove-award"
     }
   ],
   "heroLine": "85\u201377.",
