@@ -28,8 +28,16 @@
       }
     ]
   },
-  "generatedAt": "2026-11-09T06:35:21Z",
+  "generatedAt": "2026-11-09T17:31:43Z",
   "headlines": [
+    {
+      "author": "Tim Stebbins",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/l9gtrm6mob6pxicinmjr",
+      "published": "Mon, 09 Nov 2026 14:28:42 GMT",
+      "source": "MLB.com",
+      "title": "DeLauter's durability keys standout 2026, Silver Slugger nomination",
+      "url": "https://www.mlb.com/guardians/news/chase-delauter-silver-slugger-award-nomination-follows-durable-season"
+    },
     {
       "author": "Tim Stebbins",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kamiq0vjjemkeoy1uuji",
@@ -39,20 +47,20 @@
       "url": "https://www.mlb.com/guardians/news/cade-smith-parker-messick-win-local-2026-bbwaa-awards"
     },
     {
+      "author": "Jesse Borek and Tim Crowley",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rlln4sqlqixulv1maa6p",
+      "published": "Mon, 09 Nov 2026 06:59:00 GMT",
+      "source": "MLB.com",
+      "title": "Here's how every prospect fared in the AFL Fall Stars Game",
+      "url": "https://www.mlb.com/guardians/news/2026-arizona-fall-league-fall-stars-game"
+    },
+    {
       "author": "Jim Callis",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1794205092/mlb/ivebvcw04t6xapmbfaax",
       "published": "Mon, 09 Nov 2026 06:18:00 GMT",
       "source": "MLB.com",
       "title": "Red-hot prospect Francisca among AFL Fall Stars Game top performers",
       "url": "https://www.mlb.com/guardians/news/afl-fall-stars-game-2026-top-performers"
-    },
-    {
-      "author": "MLB.com staff",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1794197346/mlb/kggxgdhxhbw9ucjmfftt",
-      "published": "Mon, 09 Nov 2026 04:32:00 GMT",
-      "source": "MLB.com",
-      "title": "NL prospects rally to win AFL Fall Stars Game",
-      "url": "https://www.mlb.com/guardians/news/arizona-fall-league-fall-stars-game-2026-watch-live"
     },
     {
       "author": "Manny Randhawa",
@@ -69,14 +77,6 @@
       "source": "MLB.com",
       "title": "Guards bring back familiar face in waiver claim Tena",
       "url": "https://www.mlb.com/guardians/news/guardians-claim-jose-tena-waivers-nationals"
-    },
-    {
-      "author": "Tim Stebbins",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vwxjkhsvulwdpv8sjgc2",
-      "published": "Thu, 05 Nov 2026 11:48:39 GMT",
-      "source": "MLB.com",
-      "title": "One year before free agency, what does future hold for Kwan?",
-      "url": "https://www.mlb.com/guardians/news/guardians-outlook-on-steven-kwan-one-year-before-free-agency"
     }
   ],
   "heroLine": "85\u201377.",
