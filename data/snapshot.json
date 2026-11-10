@@ -28,8 +28,24 @@
       }
     ]
   },
-  "generatedAt": "2026-11-09T17:31:43Z",
+  "generatedAt": "2026-11-10T01:33:55Z",
   "headlines": [
+    {
+      "author": "Tim Stebbins",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kbifltk4snuvalgpxd2t",
+      "published": "Tue, 10 Nov 2026 00:33:16 GMT",
+      "source": "MLB.com",
+      "title": "Messick finishes 2nd behind McGonigle in AL Rookie of the Year Award voting",
+      "url": "https://www.mlb.com/guardians/news/parker-messick-second-al-rookie-of-the-year-award-2026"
+    },
+    {
+      "author": "MLB.com",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/w1hnbqgk89fur40pgypl",
+      "published": "Tue, 10 Nov 2026 00:55:00 GMT",
+      "source": "MLB.com",
+      "title": "DeLauter, Bazzana place behind Messick on AL ROY ballot",
+      "url": "https://www.mlb.com/guardians/news/2026-mlb-rookie-of-the-year-voting-totals"
+    },
     {
       "author": "Tim Stebbins",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/l9gtrm6mob6pxicinmjr",
@@ -61,22 +77,6 @@
       "source": "MLB.com",
       "title": "Red-hot prospect Francisca among AFL Fall Stars Game top performers",
       "url": "https://www.mlb.com/guardians/news/afl-fall-stars-game-2026-top-performers"
-    },
-    {
-      "author": "Manny Randhawa",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wv5gzxiistlapslthvqo",
-      "published": "Thu, 05 Nov 2026 16:13:03 GMT",
-      "source": "MLB.com",
-      "title": "DeLauter a first-time nominee for Silver Slugger Award",
-      "url": "https://www.mlb.com/guardians/news/2026-silver-slugger-award-finalists"
-    },
-    {
-      "author": "Tim Stebbins",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/zmxzkldnduj4gmma2eug",
-      "published": "Fri, 06 Nov 2026 20:44:28 GMT",
-      "source": "MLB.com",
-      "title": "Guards bring back familiar face in waiver claim Tena",
-      "url": "https://www.mlb.com/guardians/news/guardians-claim-jose-tena-waivers-nationals"
     }
   ],
   "heroLine": "85\u201377.",
