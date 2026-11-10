@@ -28,12 +28,12 @@
       }
     ]
   },
-  "generatedAt": "2026-11-10T01:33:55Z",
+  "generatedAt": "2026-11-10T09:53:38Z",
   "headlines": [
     {
       "author": "Tim Stebbins",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kbifltk4snuvalgpxd2t",
-      "published": "Tue, 10 Nov 2026 00:33:16 GMT",
+      "published": "Tue, 10 Nov 2026 01:46:00 GMT",
       "source": "MLB.com",
       "title": "Messick finishes 2nd behind McGonigle in AL Rookie of the Year Award voting",
       "url": "https://www.mlb.com/guardians/news/parker-messick-second-al-rookie-of-the-year-award-2026"
@@ -45,6 +45,14 @@
       "source": "MLB.com",
       "title": "DeLauter, Bazzana place behind Messick on AL ROY ballot",
       "url": "https://www.mlb.com/guardians/news/2026-mlb-rookie-of-the-year-voting-totals"
+    },
+    {
+      "author": "Jonathan Mayo and Jim Callis",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/c2tcerxcn8hcojs5hxgq",
+      "published": "Tue, 10 Nov 2026 01:15:00 GMT",
+      "source": "MLB.com",
+      "title": "'27 Rookie of the Year candidates -- one from each team",
+      "url": "https://www.mlb.com/guardians/news/each-team-2027-rookie-of-the-year-candidate"
     },
     {
       "author": "Tim Stebbins",
@@ -69,14 +77,6 @@
       "source": "MLB.com",
       "title": "Here's how every prospect fared in the AFL Fall Stars Game",
       "url": "https://www.mlb.com/guardians/news/2026-arizona-fall-league-fall-stars-game"
-    },
-    {
-      "author": "Jim Callis",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1794205092/mlb/ivebvcw04t6xapmbfaax",
-      "published": "Mon, 09 Nov 2026 06:18:00 GMT",
-      "source": "MLB.com",
-      "title": "Red-hot prospect Francisca among AFL Fall Stars Game top performers",
-      "url": "https://www.mlb.com/guardians/news/afl-fall-stars-game-2026-top-performers"
     }
   ],
   "heroLine": "85\u201377.",
