@@ -28,8 +28,16 @@
       }
     ]
   },
-  "generatedAt": "2026-11-10T17:52:08Z",
+  "generatedAt": "2026-11-11T06:26:35Z",
   "headlines": [
+    {
+      "author": "MLB.com",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/my2goll1wft9tdti7pfg",
+      "published": "Wed, 11 Nov 2026 05:00:00 GMT",
+      "source": "MLB.com",
+      "title": "Messick's case for the Cy Young Award",
+      "url": "https://www.mlb.com/guardians/news/making-a-case-for-each-2026-mlb-cy-young-award-finalist"
+    },
     {
       "author": "Tim Stebbins",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kbifltk4snuvalgpxd2t",
@@ -69,14 +77,6 @@
       "source": "MLB.com",
       "title": "Smith, Messick named Cleveland BBWAA award winners",
       "url": "https://www.mlb.com/guardians/news/cade-smith-parker-messick-win-local-2026-bbwaa-awards"
-    },
-    {
-      "author": "Jesse Borek and Tim Crowley",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rlln4sqlqixulv1maa6p",
-      "published": "Mon, 09 Nov 2026 06:59:00 GMT",
-      "source": "MLB.com",
-      "title": "Here's how every prospect fared in the AFL Fall Stars Game",
-      "url": "https://www.mlb.com/guardians/news/2026-arizona-fall-league-fall-stars-game"
     }
   ],
   "heroLine": "85\u201377.",
