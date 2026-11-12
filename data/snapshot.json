@@ -28,15 +28,23 @@
       }
     ]
   },
-  "generatedAt": "2026-11-11T22:00:05Z",
+  "generatedAt": "2026-11-12T03:01:38Z",
   "headlines": [
     {
-      "author": "MLB.com",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/my2goll1wft9tdti7pfg",
-      "published": "Wed, 11 Nov 2026 18:30:00 GMT",
+      "author": "Tim Stebbins",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/aq6efnn65p0at6rategv",
+      "published": "Thu, 12 Nov 2026 02:02:00 GMT",
       "source": "MLB.com",
-      "title": "Messick's case for the Cy Young Award",
-      "url": "https://www.mlb.com/guardians/news/making-a-case-for-each-2026-mlb-cy-young-award-finalist"
+      "title": "Messick finishes third in AL Cy Young voting; Smith second for AL Reliever of the Year",
+      "url": "https://www.mlb.com/guardians/news/parker-messick-finishes-third-in-al-cy-young-award-voting"
+    },
+    {
+      "author": "MLB.com",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/vkh04cdvr0wlksgkvvxb",
+      "published": "Thu, 12 Nov 2026 01:54:00 GMT",
+      "source": "MLB.com",
+      "title": "WATCH live: The 2026 MLB Awards show in Las Vegas (MLB Network/MLB.com)",
+      "url": "https://www.mlb.com/guardians/news/when-is-the-mlb-awards-show-date-time-channel"
     },
     {
       "author": "Tim Stebbins",
@@ -63,20 +71,12 @@
       "url": "https://www.mlb.com/guardians/news/each-team-2027-rookie-of-the-year-candidate"
     },
     {
-      "author": "Rob Terranova and Brendan Samson",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kdikhgkw7v8w8wdorlio",
-      "published": "Wed, 11 Nov 2026 20:02:00 GMT",
+      "author": "Ben Weinrib",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ledknss6mbk03fndajcr",
+      "published": "Thu, 12 Nov 2026 00:40:00 GMT",
       "source": "MLB.com",
-      "title": "Watch LIVE: Guardians prospects in Arizona Fall League action",
-      "url": "https://www.mlb.com/guardians/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026"
-    },
-    {
-      "author": "Tim Stebbins",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/l9gtrm6mob6pxicinmjr",
-      "published": "Mon, 09 Nov 2026 14:28:42 GMT",
-      "source": "MLB.com",
-      "title": "DeLauter's durability keys standout 2026, Silver Slugger nomination",
-      "url": "https://www.mlb.com/guardians/news/chase-delauter-silver-slugger-award-nomination-follows-durable-season"
+      "title": "Watch Guardians prospects in Arizona Fall League playoffs",
+      "url": "https://www.mlb.com/guardians/news/watch-arizona-fall-league-playoffs-2026"
     }
   ],
   "heroLine": "85\u201377.",
