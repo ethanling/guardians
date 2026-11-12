@@ -28,8 +28,16 @@
       }
     ]
   },
-  "generatedAt": "2026-11-12T11:16:15Z",
+  "generatedAt": "2026-11-12T18:58:59Z",
   "headlines": [
+    {
+      "author": "Tim Stebbins",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ucofovkvqz25nkccowt8",
+      "published": "Thu, 12 Nov 2026 12:03:21 GMT",
+      "source": "MLB.com",
+      "title": "Guardians eyeing rotation help as offseason ramps up",
+      "url": "https://www.mlb.com/guardians/news/guardians-want-to-add-starting-pitching-2026-27-offseason"
+    },
     {
       "author": "Tim Stebbins",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/snnew9xvgbamjcmmax9e",
@@ -69,14 +77,6 @@
       "source": "MLB.com",
       "title": "'27 Rookie of the Year candidates -- one from each team",
       "url": "https://www.mlb.com/guardians/news/each-team-2027-rookie-of-the-year-candidate"
-    },
-    {
-      "author": "Ben Weinrib",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ledknss6mbk03fndajcr",
-      "published": "Thu, 12 Nov 2026 00:40:00 GMT",
-      "source": "MLB.com",
-      "title": "Watch Guardians prospects in Arizona Fall League playoffs",
-      "url": "https://www.mlb.com/guardians/news/watch-arizona-fall-league-playoffs-2026"
     }
   ],
   "heroLine": "85\u201377.",
