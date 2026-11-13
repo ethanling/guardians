@@ -28,8 +28,16 @@
       }
     ]
   },
-  "generatedAt": "2026-11-12T18:58:59Z",
+  "generatedAt": "2026-11-13T08:00:21Z",
   "headlines": [
+    {
+      "author": "MLB.com staff",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/n0q9izvzsdfo224eqhm0",
+      "published": "Fri, 13 Nov 2026 01:47:50 GMT",
+      "source": "MLB.com",
+      "title": "Here\u2019s every ranked prospect that needs to be protected ahead of Tuesday\u2019s 40-man deadline",
+      "url": "https://www.mlb.com/guardians/news/rule-5-draft-prospects-protected-on-40-man-roster-2026"
+    },
     {
       "author": "Tim Stebbins",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ucofovkvqz25nkccowt8",
@@ -63,20 +71,12 @@
       "url": "https://www.mlb.com/guardians/news/parker-messick-second-al-rookie-of-the-year-award-2026"
     },
     {
-      "author": "MLB.com",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/w1hnbqgk89fur40pgypl",
-      "published": "Tue, 10 Nov 2026 00:55:00 GMT",
+      "author": "Ben Weinrib",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ledknss6mbk03fndajcr",
+      "published": "Fri, 13 Nov 2026 04:27:00 GMT",
       "source": "MLB.com",
-      "title": "DeLauter, Bazzana place behind Messick on AL ROY ballot",
-      "url": "https://www.mlb.com/guardians/news/2026-mlb-rookie-of-the-year-voting-totals"
-    },
-    {
-      "author": "Jonathan Mayo and Jim Callis",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/c2tcerxcn8hcojs5hxgq",
-      "published": "Tue, 10 Nov 2026 16:00:00 GMT",
-      "source": "MLB.com",
-      "title": "'27 Rookie of the Year candidates -- one from each team",
-      "url": "https://www.mlb.com/guardians/news/each-team-2027-rookie-of-the-year-candidate"
+      "title": "Watch Guardians prospects in Arizona Fall League playoffs",
+      "url": "https://www.mlb.com/guardians/news/watch-arizona-fall-league-playoffs-2026"
     }
   ],
   "heroLine": "85\u201377.",
