@@ -28,7 +28,7 @@
       }
     ]
   },
-  "generatedAt": "2026-11-15T02:41:26Z",
+  "generatedAt": "2026-11-15T10:57:16Z",
   "headlines": [
     {
       "author": "MLB.com staff",
@@ -55,14 +55,6 @@
       "url": "https://www.mlb.com/guardians/news/guardians-welbyn-francisca-2026-arizona-fall-league-mvp"
     },
     {
-      "author": "Jim Callis",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/a999clcdojrfjtetmjsk",
-      "published": "Sun, 15 Nov 2026 00:53:00 GMT",
-      "source": "MLB.com",
-      "title": "LIVE: Watch Guardians prospects face off for Fall League championship",
-      "url": "https://www.mlb.com/guardians/news/2026-arizona-fall-league-championship-game"
-    },
-    {
       "author": "Tim Stebbins",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/snnew9xvgbamjcmmax9e",
       "published": "Thu, 12 Nov 2026 04:08:27 GMT",
@@ -77,6 +69,14 @@
       "source": "MLB.com",
       "title": "Messick finishes third in AL Cy Young voting; Smith second for AL Reliever of the Year",
       "url": "https://www.mlb.com/guardians/news/parker-messick-finishes-third-in-al-cy-young-award-voting"
+    },
+    {
+      "author": "Tim Stebbins",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kbifltk4snuvalgpxd2t",
+      "published": "Tue, 10 Nov 2026 01:46:00 GMT",
+      "source": "MLB.com",
+      "title": "Messick finishes 2nd behind McGonigle in AL Rookie of the Year Award voting",
+      "url": "https://www.mlb.com/guardians/news/parker-messick-second-al-rookie-of-the-year-award-2026"
     }
   ],
   "heroLine": "85\u201377.",
