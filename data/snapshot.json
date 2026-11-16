@@ -28,8 +28,24 @@
       }
     ]
   },
-  "generatedAt": "2026-11-15T10:57:16Z",
+  "generatedAt": "2026-11-16T22:05:44Z",
   "headlines": [
+    {
+      "author": "Brian Murphy",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jfyyrzfu9ybtlsyuzywi",
+      "published": "Mon, 16 Nov 2026 17:04:53 GMT",
+      "source": "MLB.com",
+      "title": "Asdrubal, Miller debut on 2027 Hall of Fame ballot",
+      "url": "https://www.mlb.com/guardians/news/baseball-hall-of-fame-ballot-2027"
+    },
+    {
+      "author": "Tim Stebbins",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/abpxx2n15gxat9qvokxn",
+      "published": "Mon, 16 Nov 2026 14:44:08 GMT",
+      "source": "MLB.com",
+      "title": "Opportunity awaits Velazquez in Guardians' 2027 first-base mix",
+      "url": "https://www.mlb.com/guardians/news/ralphy-velazquez-primed-to-make-mlb-debut-in-2027"
+    },
     {
       "author": "MLB.com staff",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/n0q9izvzsdfo224eqhm0",
@@ -61,22 +77,6 @@
       "source": "MLB.com",
       "title": "Smith\u2019s 1st season as closer comes complete with All-MLB honors",
       "url": "https://www.mlb.com/guardians/news/cade-smith-2026-all-mlb"
-    },
-    {
-      "author": "Tim Stebbins",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/aq6efnn65p0at6rategv",
-      "published": "Thu, 12 Nov 2026 02:02:00 GMT",
-      "source": "MLB.com",
-      "title": "Messick finishes third in AL Cy Young voting; Smith second for AL Reliever of the Year",
-      "url": "https://www.mlb.com/guardians/news/parker-messick-finishes-third-in-al-cy-young-award-voting"
-    },
-    {
-      "author": "Tim Stebbins",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/kbifltk4snuvalgpxd2t",
-      "published": "Tue, 10 Nov 2026 01:46:00 GMT",
-      "source": "MLB.com",
-      "title": "Messick finishes 2nd behind McGonigle in AL Rookie of the Year Award voting",
-      "url": "https://www.mlb.com/guardians/news/parker-messick-second-al-rookie-of-the-year-award-2026"
     }
   ],
   "heroLine": "85\u201377.",
