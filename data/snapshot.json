@@ -28,8 +28,24 @@
       }
     ]
   },
-  "generatedAt": "2026-11-17T22:53:42Z",
+  "generatedAt": "2026-11-18T04:23:53Z",
   "headlines": [
+    {
+      "author": "Tim Stebbins",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1794958365/mlb/qf6tmxdjl6ho2puvi1rm",
+      "published": "Wed, 18 Nov 2026 00:07:28 GMT",
+      "source": "MLB.com",
+      "title": "Guardians add trio of Top 30 prospects to 40-man roster",
+      "url": "https://www.mlb.com/guardians/news/guardians-add-three-prospects-to-40-man-roster"
+    },
+    {
+      "author": "Brent Maguire",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/x9szd1inkn185mqitwmg",
+      "published": "Wed, 18 Nov 2026 00:05:15 GMT",
+      "source": "MLB.com",
+      "title": "Rookie DeLauter a first-time winner of Silver Slugger Award",
+      "url": "https://www.mlb.com/guardians/news/2026-silver-slugger-award-winners"
+    },
     {
       "author": "Brian Murphy",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jfyyrzfu9ybtlsyuzywi",
@@ -47,36 +63,20 @@
       "url": "https://www.mlb.com/guardians/news/ralphy-velazquez-primed-to-make-mlb-debut-in-2027"
     },
     {
-      "author": "Sam Dykstra, Jim Callis and Jonathan Mayo",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/flwg7x08p7egglbtwb4o",
-      "published": "Tue, 17 Nov 2026 22:40:00 GMT",
+      "author": "Jonathan Mayo",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qhwahfkwn4iizude6lrv",
+      "published": "Wed, 18 Nov 2026 03:00:00 GMT",
       "source": "MLB.com",
-      "title": "Prospects on the 40-man bubble -- 1 from each team",
-      "url": "https://www.mlb.com/guardians/news/prospects-on-40-man-roster-bubble-2026"
+      "title": "SS Francisca makes 2026 All-Arizona Fall League Team",
+      "url": "https://www.mlb.com/guardians/news/all-arizona-fall-league-team-2026"
     },
     {
       "author": "MLB.com staff",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/n0q9izvzsdfo224eqhm0",
-      "published": "Tue, 17 Nov 2026 22:48:00 GMT",
+      "published": "Wed, 18 Nov 2026 02:15:00 GMT",
       "source": "MLB.com",
-      "title": "Here\u2019s every ranked prospect that needs to be protected ahead of today's 40-man deadline",
+      "title": "These ranked prospects got 40-man roster spots",
       "url": "https://www.mlb.com/guardians/news/rule-5-draft-prospects-protected-on-40-man-roster-2026"
-    },
-    {
-      "author": "Tim Stebbins",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/ucofovkvqz25nkccowt8",
-      "published": "Thu, 12 Nov 2026 12:03:21 GMT",
-      "source": "MLB.com",
-      "title": "Guardians eyeing rotation help as offseason ramps up",
-      "url": "https://www.mlb.com/guardians/news/guardians-want-to-add-starting-pitching-2026-27-offseason"
-    },
-    {
-      "author": "Jesse Borek",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/j5kirfnqwzojslsaqmsx",
-      "published": "Sat, 14 Nov 2026 18:01:49 GMT",
-      "source": "MLB.com",
-      "title": "Guards prized prospect caps first year as dad with Fall League MVP honors",
-      "url": "https://www.mlb.com/guardians/news/guardians-welbyn-francisca-2026-arizona-fall-league-mvp"
     }
   ],
   "heroLine": "85\u201377.",
