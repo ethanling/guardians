@@ -28,8 +28,16 @@
       }
     ]
   },
-  "generatedAt": "2026-11-18T04:23:53Z",
+  "generatedAt": "2026-11-19T13:12:13Z",
   "headlines": [
+    {
+      "author": "",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/imrbv0al1bmzx2s2n6b0",
+      "published": "Thu, 19 Nov 2026 12:12:01 GMT",
+      "source": "MLB.com",
+      "title": "Big 2027 could be in store for these Guardians prospects",
+      "url": "https://www.mlb.com/guardians/news/guardians-prospects-who-performed-well-in-2026"
+    },
     {
       "author": "Tim Stebbins",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1794958365/mlb/qf6tmxdjl6ho2puvi1rm",
@@ -69,14 +77,6 @@
       "source": "MLB.com",
       "title": "SS Francisca makes 2026 All-Arizona Fall League Team",
       "url": "https://www.mlb.com/guardians/news/all-arizona-fall-league-team-2026"
-    },
-    {
-      "author": "MLB.com staff",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/n0q9izvzsdfo224eqhm0",
-      "published": "Wed, 18 Nov 2026 02:15:00 GMT",
-      "source": "MLB.com",
-      "title": "These ranked prospects got 40-man roster spots",
-      "url": "https://www.mlb.com/guardians/news/rule-5-draft-prospects-protected-on-40-man-roster-2026"
     }
   ],
   "heroLine": "85\u201377.",
