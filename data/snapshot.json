@@ -28,7 +28,7 @@
       }
     ]
   },
-  "generatedAt": "2026-11-19T13:12:13Z",
+  "generatedAt": "2026-11-20T03:19:05Z",
   "headlines": [
     {
       "author": "",
@@ -37,6 +37,14 @@
       "source": "MLB.com",
       "title": "Big 2027 could be in store for these Guardians prospects",
       "url": "https://www.mlb.com/guardians/news/guardians-prospects-who-performed-well-in-2026"
+    },
+    {
+      "author": "Jim Callis",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/im6tenc3jwrnrf6zegbu",
+      "published": "Fri, 20 Nov 2026 00:00:00 GMT",
+      "source": "MLB.com",
+      "title": "Ranking the Top 30 prospects from the '26 Fall League campaign",
+      "url": "https://www.mlb.com/guardians/news/top-30-arizona-fall-league-prospects-2026"
     },
     {
       "author": "Tim Stebbins",
@@ -69,14 +77,6 @@
       "source": "MLB.com",
       "title": "Opportunity awaits Velazquez in Guardians' 2027 first-base mix",
       "url": "https://www.mlb.com/guardians/news/ralphy-velazquez-primed-to-make-mlb-debut-in-2027"
-    },
-    {
-      "author": "Jonathan Mayo",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/qhwahfkwn4iizude6lrv",
-      "published": "Wed, 18 Nov 2026 03:00:00 GMT",
-      "source": "MLB.com",
-      "title": "SS Francisca makes 2026 All-Arizona Fall League Team",
-      "url": "https://www.mlb.com/guardians/news/all-arizona-fall-league-team-2026"
     }
   ],
   "heroLine": "85\u201377.",
