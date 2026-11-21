@@ -28,8 +28,16 @@
       }
     ]
   },
-  "generatedAt": "2026-11-20T03:19:05Z",
+  "generatedAt": "2026-11-21T02:18:27Z",
   "headlines": [
+    {
+      "author": "Tim Stebbins",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rqyukrkudvnt5nhw1wnb",
+      "published": "Sat, 21 Nov 2026 00:38:45 GMT",
+      "source": "MLB.com",
+      "title": "Guardians non-tender '24 postseason hero Fry",
+      "url": "https://www.mlb.com/guardians/news/guardians-non-tender-deadline-decisions-2026"
+    },
     {
       "author": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/imrbv0al1bmzx2s2n6b0",
@@ -69,14 +77,6 @@
       "source": "MLB.com",
       "title": "Asdrubal, Miller debut on 2027 Hall of Fame ballot",
       "url": "https://www.mlb.com/guardians/news/baseball-hall-of-fame-ballot-2027"
-    },
-    {
-      "author": "Tim Stebbins",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/abpxx2n15gxat9qvokxn",
-      "published": "Mon, 16 Nov 2026 14:44:08 GMT",
-      "source": "MLB.com",
-      "title": "Opportunity awaits Velazquez in Guardians' 2027 first-base mix",
-      "url": "https://www.mlb.com/guardians/news/ralphy-velazquez-primed-to-make-mlb-debut-in-2027"
     }
   ],
   "heroLine": "85\u201377.",
