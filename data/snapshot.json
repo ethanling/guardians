@@ -28,7 +28,7 @@
       }
     ]
   },
-  "generatedAt": "2026-11-21T02:18:27Z",
+  "generatedAt": "2026-11-23T02:47:29Z",
   "headlines": [
     {
       "author": "Tim Stebbins",
@@ -37,6 +37,14 @@
       "source": "MLB.com",
       "title": "Guardians non-tender '24 postseason hero Fry",
       "url": "https://www.mlb.com/guardians/news/guardians-non-tender-deadline-decisions-2026"
+    },
+    {
+      "author": "Jim Callis",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cbmyrgj0yxt2j1f8tuxm",
+      "published": "Mon, 23 Nov 2026 00:24:00 GMT",
+      "source": "MLB.com",
+      "title": "Could the Guardians use prospects for a big trade?",
+      "url": "https://www.mlb.com/guardians/news/mlb-teams-with-prospects-to-trade-offseason-2026"
     },
     {
       "author": "",
@@ -69,14 +77,6 @@
       "source": "MLB.com",
       "title": "Rookie DeLauter a first-time winner of Silver Slugger Award",
       "url": "https://www.mlb.com/guardians/news/2026-silver-slugger-award-winners"
-    },
-    {
-      "author": "Brian Murphy",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/jfyyrzfu9ybtlsyuzywi",
-      "published": "Mon, 16 Nov 2026 17:04:53 GMT",
-      "source": "MLB.com",
-      "title": "Asdrubal, Miller debut on 2027 Hall of Fame ballot",
-      "url": "https://www.mlb.com/guardians/news/baseball-hall-of-fame-ballot-2027"
     }
   ],
   "heroLine": "85\u201377.",
