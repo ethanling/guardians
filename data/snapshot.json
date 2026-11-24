@@ -28,8 +28,16 @@
       }
     ]
   },
-  "generatedAt": "2026-11-23T02:47:29Z",
+  "generatedAt": "2026-11-24T00:53:33Z",
   "headlines": [
+    {
+      "author": "Tim Stebbins",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1795405405/mlb/bo9ygygodq0k9wprg2io",
+      "published": "Mon, 23 Nov 2026 14:25:10 GMT",
+      "source": "MLB.com",
+      "title": "Espino's perseverance in push to Majors continues to resonate",
+      "url": "https://www.mlb.com/guardians/news/daniel-espino-discusses-rise-to-guardians-mlb-in-2026"
+    },
     {
       "author": "Tim Stebbins",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rqyukrkudvnt5nhw1wnb",
@@ -69,14 +77,6 @@
       "source": "MLB.com",
       "title": "Guardians add trio of Top 30 prospects to 40-man roster",
       "url": "https://www.mlb.com/guardians/news/guardians-add-three-prospects-to-40-man-roster"
-    },
-    {
-      "author": "Brent Maguire",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/x9szd1inkn185mqitwmg",
-      "published": "Wed, 18 Nov 2026 00:05:15 GMT",
-      "source": "MLB.com",
-      "title": "Rookie DeLauter a first-time winner of Silver Slugger Award",
-      "url": "https://www.mlb.com/guardians/news/2026-silver-slugger-award-winners"
     }
   ],
   "heroLine": "85\u201377.",
