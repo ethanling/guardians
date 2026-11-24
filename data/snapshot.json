@@ -28,7 +28,7 @@
       }
     ]
   },
-  "generatedAt": "2026-11-24T00:53:33Z",
+  "generatedAt": "2026-11-24T10:57:17Z",
   "headlines": [
     {
       "author": "Tim Stebbins",
@@ -37,6 +37,14 @@
       "source": "MLB.com",
       "title": "Espino's perseverance in push to Majors continues to resonate",
       "url": "https://www.mlb.com/guardians/news/daniel-espino-discusses-rise-to-guardians-mlb-in-2026"
+    },
+    {
+      "author": "Jonathan Mayo",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cw9p4lhtusd8l1yhi58k",
+      "published": "Tue, 24 Nov 2026 00:26:12 GMT",
+      "source": "MLB.com",
+      "title": "Why the 2026 rookie class might have been the best ever",
+      "url": "https://www.mlb.com/guardians/news/analyzing-success-of-2026-mlb-rookie-class"
     },
     {
       "author": "Tim Stebbins",
@@ -69,14 +77,6 @@
       "source": "MLB.com",
       "title": "Ranking the Top 30 prospects from the '26 Fall League campaign",
       "url": "https://www.mlb.com/guardians/news/top-30-arizona-fall-league-prospects-2026"
-    },
-    {
-      "author": "Tim Stebbins",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1794958365/mlb/qf6tmxdjl6ho2puvi1rm",
-      "published": "Wed, 18 Nov 2026 00:07:28 GMT",
-      "source": "MLB.com",
-      "title": "Guardians add trio of Top 30 prospects to 40-man roster",
-      "url": "https://www.mlb.com/guardians/news/guardians-add-three-prospects-to-40-man-roster"
     }
   ],
   "heroLine": "85\u201377.",
