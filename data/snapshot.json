@@ -28,8 +28,24 @@
       }
     ]
   },
-  "generatedAt": "2026-11-25T23:38:39Z",
+  "generatedAt": "2026-11-26T08:22:28Z",
   "headlines": [
+    {
+      "author": "Tim Stebbins",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1795654332/mlb/krfvm45ogylmkg9zdpzc",
+      "published": "Thu, 26 Nov 2026 01:16:00 GMT",
+      "source": "MLB.com",
+      "title": "Guardians bringing back lefty Griffin on 3-year, $48 million deal (source)",
+      "url": "https://www.mlb.com/guardians/news/foster-griffin-guardians-contract"
+    },
+    {
+      "author": "Sarah Langs",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rr3vrwzsyg3kfprdxwgj",
+      "published": "Thu, 26 Nov 2026 05:00:00 GMT",
+      "source": "MLB.com",
+      "title": "26 things Sarah Langs is thankful for from the 2026 baseball season (which was the best!)",
+      "url": "https://www.mlb.com/guardians/news/things-to-be-thankful-for-from-2026-mlb-season"
+    },
     {
       "author": "",
       "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/wtarxcd5act1xxmgevuz",
@@ -37,6 +53,14 @@
       "source": "MLB.com",
       "title": "Guardians sign LHP Bubic to 1-year deal",
       "url": "https://www.mlb.com/guardians/news/kris-bubic-guardians-contract"
+    },
+    {
+      "author": "Jim Callis, Sam Dykstra and Jonathan Mayo",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/sseryeerewlty070rl3r",
+      "published": "Thu, 26 Nov 2026 00:00:00 GMT",
+      "source": "MLB.com",
+      "title": "Each MLB club's best prospect acquired via trade",
+      "url": "https://www.mlb.com/guardians/news/best-prospects-who-were-trade-acquisitions"
     },
     {
       "author": "Tim Stebbins",
@@ -53,30 +77,6 @@
       "source": "MLB.com",
       "title": "Why the 2026 rookie class might have been the best ever",
       "url": "https://www.mlb.com/guardians/news/analyzing-success-of-2026-mlb-rookie-class"
-    },
-    {
-      "author": "Tim Stebbins",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/rqyukrkudvnt5nhw1wnb",
-      "published": "Sat, 21 Nov 2026 00:38:45 GMT",
-      "source": "MLB.com",
-      "title": "Guardians non-tender '24 postseason hero Fry",
-      "url": "https://www.mlb.com/guardians/news/guardians-non-tender-deadline-decisions-2026"
-    },
-    {
-      "author": "Jim Callis",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cbmyrgj0yxt2j1f8tuxm",
-      "published": "Mon, 23 Nov 2026 00:24:00 GMT",
-      "source": "MLB.com",
-      "title": "Could the Guardians use prospects for a big trade?",
-      "url": "https://www.mlb.com/guardians/news/mlb-teams-with-prospects-to-trade-offseason-2026"
-    },
-    {
-      "author": "",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/imrbv0al1bmzx2s2n6b0",
-      "published": "Thu, 19 Nov 2026 12:12:01 GMT",
-      "source": "MLB.com",
-      "title": "Big 2027 could be in store for these Guardians prospects",
-      "url": "https://www.mlb.com/guardians/news/guardians-prospects-who-performed-well-in-2026"
     }
   ],
   "heroLine": "85\u201377.",
