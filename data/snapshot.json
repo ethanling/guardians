@@ -28,7 +28,7 @@
       }
     ]
   },
-  "generatedAt": "2026-11-27T02:12:16Z",
+  "generatedAt": "2026-11-28T11:50:05Z",
   "headlines": [
     {
       "author": "Tim Stebbins",
@@ -37,6 +37,14 @@
       "source": "MLB.com",
       "title": "Guardians bringing back lefty Griffin on 3-year, $48 million deal (source)",
       "url": "https://www.mlb.com/guardians/news/foster-griffin-guardians-contract"
+    },
+    {
+      "author": "Jared Greenspan, Theo DeRosa and Brent Maguire",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/mlb/cncokwcun6grj2syt2ac",
+      "published": "Sat, 28 Nov 2026 03:06:41 GMT",
+      "source": "MLB.com",
+      "title": "Each team's best single-game performance of '26",
+      "url": "https://www.mlb.com/guardians/news/each-team-s-best-single-game-performance-in-2026"
     },
     {
       "author": "Anthony Castrovince",
@@ -69,14 +77,6 @@
       "source": "MLB.com",
       "title": "Each MLB club's best prospect acquired via trade",
       "url": "https://www.mlb.com/guardians/news/best-prospects-who-were-trade-acquisitions"
-    },
-    {
-      "author": "Tim Stebbins",
-      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1024/v1795405405/mlb/bo9ygygodq0k9wprg2io",
-      "published": "Mon, 23 Nov 2026 14:25:10 GMT",
-      "source": "MLB.com",
-      "title": "Espino's perseverance in push to Majors continues to resonate",
-      "url": "https://www.mlb.com/guardians/news/daniel-espino-discusses-rise-to-guardians-mlb-in-2026"
     }
   ],
   "heroLine": "85\u201377.",
